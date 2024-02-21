@@ -32,6 +32,7 @@ An exhaustive list with every programming-related school assignment.
 
 # 5th Semester 
 * ## Computer Networks (Java)
+  Lesson's target is to introduce the students to internet protocols (TCP, HTTP etc.) and network programming. The assignment requests the implementation of a program/service that consists of a **Server** side and a **Client** side using sockets or Remote Method Invocation in Java. The two sides of the service can be executed in different computers and interact with each other through access to the internet.
 * ## Databases (SQL)
 * ## Operating Systems (C)
 * ## Systems and Signals (MATLAB)
