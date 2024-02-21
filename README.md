@@ -10,6 +10,7 @@ An exhaustive list with every programming-related school assignment.
 * ## Databases (SQL)
 * ## Digital Communications (Java)
 * ## Foundations of Cryptography (Python)
+* ## Machine Learning (Python)
 * ## Microprocessors (x86 Assembly)
 * ## Modeling - Digital Image Synthesis (C)
 * ## Neural Networks - Deep Learning (Python)
