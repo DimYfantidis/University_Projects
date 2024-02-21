@@ -20,8 +20,9 @@ An exhaustive list with every programming-related school assignment.
 <br/>
 
 
-# 4tt Semester
+# 4th Semester
 * ## Algorithms (Java)
+  Lesson's target is elaborating the students' knowledge on designing and analyzing algorithms. The 1st assignment requests to implement an algorithm of $\mathcal{O}(N logN)$ time complexity for the **skyline problem** of $N$ datapoints. The 2nd assignment requests the implementation of a dynamic-programming algorithm for the solution of **Dynamic Virtual Machine Placement in Cloud Computing**.
 * ## Artificial Intelligence (C++)
 * ## Digital Communications (Java)
 <br/>
