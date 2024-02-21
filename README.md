@@ -22,9 +22,11 @@ An exhaustive list with every programming-related school assignment.
 
 # 4th Semester
 * ## Algorithms (Java)
-  Lesson's target is elaborating the students' knowledge on designing and analyzing algorithms. The 1st assignment requests to implement an algorithm of $\mathcal{O}(N logN)$ time complexity for the **skyline problem** of $N$ datapoints. The 2nd assignment requests the implementation of a dynamic-programming algorithm for the solution of **Dynamic Virtual Machine Placement in Cloud Computing**.
+  Lesson's target is broaden the students' knowledge on designing and analyzing algorithms. The 1st assignment requests to implement an algorithm of $\mathcal{O}(N logN)$ time complexity for the **skyline problem** of $N$ datapoints. The 2nd assignment requests the implementation of a dynamic-programming algorithm for the solution of **Dynamic Virtual Machine Placement in Cloud Computing**.
 * ## Artificial Intelligence (C++)
+  Lesson's target is to introduce the students to the basic ideas of AI (Search algorithms, Genetic algorithms, Knowledge representation etc.). The assignment demands the modeling of **Water Sort Game**'s states and the transitions from one state to another based on the game's rules. Subsequently, an implementation of **Breadth-First Search** algorithm is requested to find the optimal route of transitions from a random initial state to a winning state.
 * ## Digital Communications (Java)
+  Lesson's target is to introduce the stundents to basic principles of Telecommunications. The assignment requests to implement a program that simulates the procedures of sending and receiving messages through a noisy communication channel. Each message sent has a chance to be affected by the noise (bit flips) and when received **error correction** is applied to it through Cyclic Redundancy Check and modulo-2 arithmetic.
 <br/>
 
 
