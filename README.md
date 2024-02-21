@@ -14,7 +14,9 @@ An exhaustive list with every programming-related school assignment.
 
 # 3rd Semester
 * ## Numerical analysis (C++)
+  Lesson's target is the teaching of solving continuous problems using methods for numeric approximation. **Seven different problems** were requested to be solved. A plethora of numeric methods were implemented: Dichotomy method, Newton-Raphson method, Secant method, $PA = LU$ decomposition, Cholesky decomposition, Gaus-Seidel method, a simplified version of Google's **pagerank** algorithm, Polynomial approximation, Spline interpolation, Least Squares method, Simpson's rule and Trapezoidal rule.
 * ## Object Oriented Programming (Java)
+  Lesson's target is the teaching of the Java programming language as well as certain of OOP's principles. The assignment requests the implementation of a simple "travel guide" program, similar to Airbnb and booking.com with pseudo-network programming and pseudo-accounts (the entire java program is offline). The pseudo-platform consists of Customer accounts, Admin accounts and Accomodation Provider accounts. The program utilises different types of accommodations, booking mechanics, timing/date mechanics etc. and disposes a GUI implemented with the **Java Swing Library**.
 <br/>
 
 
