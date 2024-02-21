@@ -14,7 +14,7 @@ An exhaustive list with every programming-related school assignment.
 
 # 3rd Semester
 * ## Numerical analysis (C++)
-* ## Object Orianted Programming (Java)
+* ## Object Oriented Programming (Java)
 <br/>
 
 
