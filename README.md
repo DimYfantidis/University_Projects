@@ -17,4 +17,4 @@ An exhaustive list with every programming-related school assignment.
 * ## Numerical analysis (C++)
 * ## Object Orianted Programming (Java)
 * ## Operating Systems (C)
-* ## Systems and Signals (C)
+* ## Systems and Signals (MATLAB)
