@@ -1,19 +1,19 @@
 # University Projects
 An exhaustive list with every programming-related school assignment.
 
-* Algorithms
-* Artificial Intelligence
-* Computer Graphics
-* Computer Networks
-* Concurrent Programming and Software Safety
-* Data Structures
-* Databases
-* Digital Communications
-* Foundations of Cryptography
-* Microprocessors
-* Modeling - Digital Image Synthesis
-* Neural Networks - Deep Learning
-* Numerical analysis
-* Object Orianted Programming
-* Operating Systems
-* Systems and Signals
+* ## Algorithms (Java)
+* ## Artificial Intelligence (C++)
+* ## Computer Graphics (C)
+* ## Computer Networks (Java)
+* ## Concurrent Programming and Software Safety (C)
+* ## Data Structures (C++)
+* ## Databases (SQL)
+* ## Digital Communications (Java)
+* ## Foundations of Cryptography (Python)
+* ## Microprocessors (x86 Assembly)
+* ## Modeling - Digital Image Synthesis (C)
+* ## Neural Networks - Deep Learning (Python)
+* ## Numerical analysis (C++)
+* ## Object Orianted Programming (Java)
+* ## Operating Systems (C)
+* ## Systems and Signals (C)
