@@ -1,0 +1,152 @@
+CREATE TABLE ΜΑΘΗΜΑ (
+  ID INTEGER  NOT NULL  ,
+  Τίτλος VARCHAR(50)  NOT NULL  ,
+  Περιγραφή TEXT(500)      ,
+PRIMARY KEY(ID));
+
+
+
+CREATE TABLE ΣΧΟΛΗ (
+  ID INTEGER  NOT NULL  ,
+  Τίτλος VARCHAR(60)  NOT NULL  ,
+  Πόλη VARCHAR(30)  NOT NULL  ,
+  Οδός VARCHAR(20)  NOT NULL  ,
+  ΤΚ CHAR(5)  NOT NULL    ,
+PRIMARY KEY(ID));
+
+
+
+CREATE TABLE ΚΑΘΗΓΗΤΗΣ (
+  ID INTEGER  NOT NULL  ,
+  Όνομα VARCHAR(15)  NOT NULL  ,
+  Επίθετο VARCHAR(15)  NOT NULL  ,
+  Ειδικότητα VARCHAR(50)  NOT NULL  ,
+  Πόλη VARCHAR(30)    ,
+  Οδός VARCHAR(20)    ,
+  Αριθμός INTEGER    ,
+  ΤΚ CHAR(5)    ,
+  Τηλέφωνο CHAR(10)  NOT NULL    ,
+PRIMARY KEY(ID));
+
+
+
+CREATE TABLE ΥΠΑΛΛΗΛΟΣ (
+  ID INTEGER  NOT NULL  ,
+  ΣΧΟΛΗ_ID INTEGER  NOT NULL  ,
+  Όνομα VARCHAR(15)  NOT NULL  ,
+  Επίθετο VARCHAR(15)  NOT NULL  ,
+  Θέση VARCHAR(50)  NOT NULL  ,
+  Πόλη VARCHAR(30)    ,
+  Οδός VARCHAR(20)    ,
+  Αριθμός INTEGER    ,
+  ΤΚ CHAR(5)    ,
+  ΑΦΜ CHAR(9)  NOT NULL  ,
+  ΑΤ CHAR(8)  NOT NULL  ,
+  Πρόσληψη DATE  NOT NULL    ,
+PRIMARY KEY(ID)  ,
+  FOREIGN KEY(ΣΧΟΛΗ_ID)
+    REFERENCES ΣΧΟΛΗ(ID)
+      ON DELETE NO ACTION
+      ON UPDATE NO ACTION);
+
+
+
+CREATE TABLE ΤΗΛΕΦΩΝΑ_ΣΧΟΛΩΝ (
+  Τηλέφωνο CHAR(10)  NOT NULL  ,
+  ΣΧΟΛΗ_ID INTEGER  NOT NULL    ,
+PRIMARY KEY(Τηλέφωνο, ΣΧΟΛΗ_ID)  ,
+  FOREIGN KEY(ΣΧΟΛΗ_ID)
+    REFERENCES ΣΧΟΛΗ(ID)
+      ON DELETE NO ACTION
+      ON UPDATE NO ACTION);
+
+
+
+CREATE TABLE ΤΜΗΜΑ (
+  ID INTEGER  NOT NULL  ,
+  ΣΧΟΛΗ_ID INTEGER  NOT NULL  ,
+  Όνομα VARCHAR(20)    ,
+  Αριθμός INTEGER  NOT NULL  ,
+  Πληθικότητα INTEGER      ,
+PRIMARY KEY(ID)  ,
+  FOREIGN KEY(ΣΧΟΛΗ_ID)
+    REFERENCES ΣΧΟΛΗ(ID)
+      ON DELETE NO ACTION
+      ON UPDATE NO ACTION);
+
+
+
+CREATE TABLE ΜΑΘΗΤΗΣ (
+  ID INTEGER  NOT NULL  ,
+  ΤΜΗΜΑ_ID INTEGER  NOT NULL  ,
+  Όνομα VARCHAR(15)    ,
+  Επίθετο VARCHAR(15)    ,
+  Πατρώνυμο VARCHAR(15)    ,
+  Μητρώνυμο VARCHAR(15)    ,
+  Γέννηση DATE    ,
+  Πόλη VARCHAR(30)    ,
+  Οδός VARCHAR(20)    ,
+  Αριθμός INTEGER    ,
+  ΤΚ CHAR(5)    ,
+  Σταθερό CHAR(10)    ,
+  Κινητό CHAR(10)    ,
+  Απουσίες INTEGER      ,
+PRIMARY KEY(ID)  ,
+  FOREIGN KEY(ΤΜΗΜΑ_ID)
+    REFERENCES ΤΜΗΜΑ(ID)
+      ON DELETE NO ACTION
+      ON UPDATE NO ACTION);
+
+
+
+CREATE TABLE ΕΡΓΑΣΙΑ_ΚΑΘΗΓΗΤΗ (
+  ΣΧΟΛΗ_ID INTEGER  NOT NULL  ,
+  ΚΑΘΗΓΗΤΗΣ_ID INTEGER  NOT NULL  ,
+  Ωράριο TEXT(1000)      ,
+PRIMARY KEY(ΣΧΟΛΗ_ID, ΚΑΘΗΓΗΤΗΣ_ID)    ,
+  FOREIGN KEY(ΣΧΟΛΗ_ID)
+    REFERENCES ΣΧΟΛΗ(ID)
+      ON DELETE NO ACTION
+      ON UPDATE NO ACTION,
+  FOREIGN KEY(ΚΑΘΗΓΗΤΗΣ_ID)
+    REFERENCES ΚΑΘΗΓΗΤΗΣ(ID)
+      ON DELETE NO ACTION
+      ON UPDATE NO ACTION);
+
+
+
+CREATE TABLE ΠΑΡΑΚΟΛΟΥΘΕΙ (
+  ΜΑΘΗΤΗΣ_ID INTEGER  NOT NULL  ,
+  ΜΑΘΗΜΑ_ID INTEGER  NOT NULL  ,
+  ΒΑΘΜΟΛΟΓΙΑ NUMERIC(2, 1)      ,
+PRIMARY KEY(ΜΑΘΗΤΗΣ_ID, ΜΑΘΗΜΑ_ID)    ,
+  FOREIGN KEY(ΜΑΘΗΤΗΣ_ID)
+    REFERENCES ΜΑΘΗΤΗΣ(ID)
+      ON DELETE NO ACTION
+      ON UPDATE NO ACTION,
+  FOREIGN KEY(ΜΑΘΗΜΑ_ID)
+    REFERENCES ΜΑΘΗΜΑ(ID)
+      ON DELETE NO ACTION
+      ON UPDATE NO ACTION);
+
+
+
+CREATE TABLE ΔΙΔΑΣΚΑΛΙΑ (
+  ΜΑΘΗΜΑ_ID INTEGER  NOT NULL  ,
+  ΤΜΗΜΑ_ID INTEGER  NOT NULL  ,
+  ΚΑΘΗΓΗΤΗΣ_ID INTEGER  NOT NULL    ,
+PRIMARY KEY(ΜΑΘΗΜΑ_ID, ΤΜΗΜΑ_ID)      ,
+  FOREIGN KEY(ΜΑΘΗΜΑ_ID)
+    REFERENCES ΜΑΘΗΜΑ(ID)
+      ON DELETE NO ACTION
+      ON UPDATE NO ACTION,
+  FOREIGN KEY(ΤΜΗΜΑ_ID)
+    REFERENCES ΤΜΗΜΑ(ID)
+      ON DELETE NO ACTION
+      ON UPDATE NO ACTION,
+  FOREIGN KEY(ΚΑΘΗΓΗΤΗΣ_ID)
+    REFERENCES ΚΑΘΗΓΗΤΗΣ(ID)
+      ON DELETE NO ACTION
+      ON UPDATE NO ACTION);
+
+

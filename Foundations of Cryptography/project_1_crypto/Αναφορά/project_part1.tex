@@ -1,0 +1,598 @@
+\documentclass[12pt]{article}
+
+\usepackage[english, greek]{babel}
+\usepackage{csquotes}
+\newcommand{\lt}{\latintext}
+\newcommand{\gt}{\greektext}
+
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{cancel}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{listings}
+\usepackage{hyperref}
+
+\newcommand{\xor}{\ensuremath{\oplus}}
+\newcommand{\nul}{\ensuremath{\hphantom{*}}}
+\newcommand{\red}[1]{\ensuremath{\color{red} #1}}
+\newcommand{\green}[1]{\ensuremath{\color{green} #1}}
+\newcommand{\blue}[1]{\ensuremath{\color{blue} #1}}
+\newcommand{\magenta}[1]{\ensuremath{\color{magenta} #1}}
+\newcommand{\violet}[1]{\ensuremath{\color{violet} #1}}
+\newcommand{\brown}[1]{\ensuremath{\color{brown} #1}}
+\newcommand{\teal}[1]{\ensuremath{\color{teal} #1}}
+
+\usepackage[margin=1in]{geometry}
+
+\title{\textbf{{\lt Project I} \\ Συμμετρική Κρυπτογραφία}}
+\author{Υφαντίδης Δημήτριος (ΑΕΜ: 3938)}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\section*{Εισαγωγή}
+
+Το παρόν αποτελεί την αναφορά του πρώτου μέρους της εργασίας 
+στο μάθημα {\lt ``}Θεμελιώσεις Κρυπτογραφίας{\lt "}. \\
+
+\noindent
+Η αναφορά είναι γραμμένη σε {\lt LATEX} και μεταγλωττίστηκε 
+από τον {\lt \textbf{MiKTeX} compiler (ver: One MiKTeX Utility 
+1.6 - MiKTeX 23.1)}. \\
+
+\noindent
+Οι υλοποιήσεις των ασκήσεων έγιναν σε γλώσσα 
+\textbf{\lt Python (v 3.10.6)}. Για κάθε άσκηση που 
+ζητάει υλοποίηση σε κώδικα, υπάρχει ο αντίστοιχος φάκελος:
+\begin{center}
+{\lt proj\_1\_crypto\_3938}/κώδικας/{\lt ex*}
+\end{center}
+Όπου βρίσκεται ένα μοναδικό {\lt python script, 
+\textbf{ex*.py}} που περιέχει την υλοποίηση και ενδεχομένως 
+κάποια {\lt ``.txt"} αρχεία ή άλλους πόρους για το πρόγραμμα. \\
+
+\vspace{0.2cm}
+\noindent
+Σχεδόν όλοι οι μαθηματικοί συμβολισμοί που εμφανίζονται 
+στο κείμενο είναι κοινώς αποδεκτοί. Εξαίρεση αποτελούν 
+οι ακόλουθοι, που διευκρινίζονται:
+\begin{itemize}
+	\item $\mathbf{x\:mod\:y:}$ Το υπόλοιπο της ακέραιας διαίρεσης του $x$ με το $y$ (όχι κλάση ισοδυναμίας).
+	\item $\mathbf{\mathbb{N}}:$ Το σύνολο των φυσικών αριθμών \textbf{συμπεριλαμβάνοντας} το 0, δηλ. $[0,\:1,\:2,\:...]$.
+	\item $\mathbf{\mathbb{N}^{*}}:$ Το σύνολο των φυσικών αριθμών \textbf{χωρίς} το 0, δηλ. $[1,\:2,\:3,\:...]$.
+\end{itemize}
+
+\pagebreak
+
+\section*{Άσκηση 1 (2.2)}
+Έχουμε:
+\begin{itemize}
+	\item $g(x) = x^{2} + 3x + 1,\; x \in R$
+	\item $f(x) = x^{5} + 3x^{3} + 7x^{2} + 3x^{4} + 5x + 4,\; x \in R$
+	\item $x_{0}$ κάποια ρίζα της $g\;\;\Rightarrow\;\; g(x_{0}) = 0$
+\end{itemize}
+Υπολογίζουμε την $f(x_{0})$:
+
+\begin{align*}
+	f(x_{0}) &= x_{0}^{5} + {\color{blue} 3x_{0}^{3}} + 7x_{0}^{2} + 
+	{\color{red}3x_{0}^{4}} + 5x_{0} + 4 \\
+	&= x_{0}^{5} + {\color{red}3x_{0}^{4}} + {\color{blue} 3x_{0}^{3}} + 7x_{0}^{2} + 5x_{0} + 4 \\
+	&= x_{0}^{5} + 3x_{0}^{4} + {\color{blue} x_{0}^{3}} + {\color{blue} 2x_{0}^{3}} 
+	+ {\color{ForestGreen} 7x_{0}^{2}} + {\color{DarkOrchid} 5x_{0}} + {\color{Mahogany}4} \\
+	&= x_{0}^{5} + 3x_{0}^{4} + x_{0}^{3} + 2x_{0}^{3} +
+	{\color{ForestGreen} 6x_{0}^{2}} + {\color{DarkOrchid} 2x_{0}} + 
+	{\color{ForestGreen} x_{0}^{2}} + {\color{DarkOrchid} 3x_{0}} + {\color{Mahogany}1} + 
+	{\color{Mahogany}3} \\
+	&= (x_{0}^{5} + 3x_{0}^{4} + x_{0}^{3}) + (2x_{0}^{3} +
+	6x_{0}^{2} + 2x_{0}) + (x_{0}^{2} + 3x_{0} + 1) + 3 \\
+	&= x_{0}^{3}(x_{0}^{2} + 3x_{0} + 1) + 2x_{0}(x_{0}^{2} +
+	3x_{0} + 1) + (x_{0}^{2} + 3x_{0} + 1) + 3 \\
+	&= x_{0}^{3}\cdot \cancel{g(x_{0})} + 2x_{0}\cdot \cancel{g(x_{0})} + \cancel{g(x_{0})} + 3
+	\Rightarrow \\
+	f(x_{0}) &= 3
+\end{align*}
+\noindent
+Άρα, αν $\mathcal{E} = \{E, D, \mathcal{K}, \mathcal{M}, \mathcal{C}\}$ το κρυπτοσύστημά μας τότε:
+\begin{itemize}
+	\item $\mathcal{M} = \mathcal{C} = \{\alpha:1, \beta:2, ..., \omega\}$
+	\item $\mathcal{K} = \{f(x_{0})\} = \{3\}$
+	\item $E(m, k)|_{k=3}\; =\; (m + k - 1)\:mod\:24 + 1\:|_{k=3}\; = \;(m + 2)\:mod\:24 + 1 = c$
+	\item $D(c, k)|_{k=3}\; =\; (m - k - 1)\:mod\:24 + 1\:|_{k=3}\; = \;(m - 4)\:mod\:24 + 1 = m$
+\end{itemize}
+Είναι δηλαδή ένα σύστημα μετατόπισης, όπου η αρίθμηση δεν ξεκινάει από το $0$, αλλά από το $1$
+(από εκεί προκύπτουν και οι επιπλέον άσσοι στις συναρτήσεις $E$ και $D$).
+Προκύπτει ότι, αφού εισάγουμε το κρυπτομήνυμα \textbf{{\lt ``}οκηθμφδζθγοθχυκχσφθμφμχγ{\lt "}}, 
+δίνεται ως έξοδος το αποκρυπτογραφημένο μήνυμα \textbf{{\lt ``}μηδεισαγεωμετρητοσεισιτω{\lt "}}.\\ 
+
+\vspace{0.1in}
+
+\noindent
+(Υλοποίηση: \textbf{κώδικας/{\lt ex1/ex1.py}})
+
+\pagebreak
+
+\section*{Άσκηση 2 (2.3)}
+
+Χρησιμοποιώντας τη μέθοδο του {\lt Friedman} προκύπτει ότι το μήκος κλειδιών και των δύο μηνυμάτων είναι 7. Μια {\lt brute force} υλοποίηση εύρεσης κλειδιού βρίσκεται μέσα στο {\lt script ex2.py} όπου ψάχνει όλες τις δυνατές συμβολοσειρές μήκους 7 με τους 26 λατινικούς χαρακτήρες ($26^7$ συνδυασμοί). \\
+
+\noindent
+Εκτυπώνονται μόνο οι αποκρυπτογραφήσεις των οποίων το κείμενο είναι σχετικά αναγνώσιμο, δηλαδή η συχνότητα εμφάνισης των γραμμάτων είναι κοντά με την πραγματική.
+
+\vspace{0.3in}
+
+\noindent
+(Υλοποίηση: \textbf{κώδικας/{\lt ex1/ex1.py}})
+
+\pagebreak
+
+\section*{Άσκηση 3 (2.4)}
+
+Έχουμε, $\:E: \{0, 1\}^{16} \rightarrow \{0, 1\}^{16}$ με 
+$\:E(m) = m\:\xor\:(m << 6)\:\xor\:(m << 10)\: = c$. Γράφουμε τις δυαδικές ακολουθίες με τη μορφή διανυσμάτων:
+
+\begin{align*}
+\begin{bmatrix}
+c_{15} \\
+c_{14} \\
+c_{13} \\
+c_{12} \\
+c_{11} \\
+c_{10} \\
+c_{9} \\
+c_{8} \\
+c_{7} \\
+c_{6} \\
+c_{5} \\
+c_{4} \\
+c_{3} \\
+c_{2} \\
+c_{1} \\
+c_{0} \\
+\end{bmatrix} &=
+\begin{bmatrix}
+m_{15} \\
+m_{14} \\
+m_{13} \\
+m_{12} \\
+m_{11} \\
+m_{10} \\
+m_{9} \\
+m_{8} \\
+m_{7} \\
+m_{6} \\
+m_{5} \\
+m_{4} \\
+m_{3} \\
+m_{2} \\
+m_{1} \\
+m_{0} \\ 
+\end{bmatrix} \xor
+\begin{bmatrix}
+m_{9} \\
+m_{8} \\
+m_{7} \\
+m_{6} \\
+m_{5} \\
+m_{4} \\
+m_{3} \\
+m_{2} \\
+m_{1} \\
+m_{0} \\
+m_{15} \\
+m_{14} \\
+m_{13} \\
+m_{12} \\
+m_{11} \\
+m_{10} \\
+\end{bmatrix} \xor
+\begin{bmatrix}
+m_{5} \\
+m_{4} \\
+m_{3} \\
+m_{2} \\
+m_{1} \\
+m_{0} \\ 
+m_{15} \\
+m_{14} \\
+m_{13} \\
+m_{12} \\
+m_{11} \\
+m_{10} \\
+m_{9} \\
+m_{8} \\
+m_{7} \\
+m_{6} \\
+\end{bmatrix} = 
+\begin{bmatrix}
+m_{15} \xor m_{9\nul} \xor m_{5\nul} \\
+m_{14} \xor m_{8\nul} \xor m_{4\nul} \\
+m_{13} \xor m_{7\nul} \xor m_{3\nul} \\
+m_{12} \xor m_{6\nul} \xor m_{2\nul} \\
+m_{11} \xor m_{5\nul} \xor m_{1\nul} \\
+m_{10} \xor m_{4\nul} \xor m_{0\nul} \\
+m_{9\nul} \xor m_{3\nul} \xor m_{15} \\
+m_{8\nul} \xor m_{2\nul} \xor m_{14} \\
+m_{7\nul} \xor m_{1\nul} \xor m_{13} \\
+m_{6\nul} \xor m_{0\nul} \xor m_{12} \\
+m_{5\nul} \xor m_{15} \xor m_{11} \\
+m_{4\nul} \xor m_{14} \xor m_{10} \\
+m_{3\nul} \xor m_{13} \xor m_{9\nul} \\
+m_{2\nul} \xor m_{12} \xor m_{8\nul} \\
+m_{1\nul} \xor m_{11} \xor m_{7\nul} \\
+m_{0\nul} \xor m_{10} \xor m_{6\nul} \\
+\end{bmatrix}
+\end{align*} \\
+Μπορούμε οπτικά να συμπεράνουμε ότι
+{\large
+\[
+c_{i}\;=\;m_{i}\:\xor\:m_{(i+10)\,mod\,16}\:\xor\:m_{(i+6)\,mod\,16},\;\; i=0, 1, ..., 15
+\]
+}
+ή αλλιώς 
+{\large
+\[
+c_{i\,mod\,16}\;=\;m_{i\,mod\,16}\:\xor\:m_{(i+10)\,mod\,16}\:\xor\:m_{(i+6)\,mod\,16},\;\; \forall i \in \mathbb{N}
+\]
+}
+
+\vspace{0.1in}
+\noindent
+Προκύπτει (μετά από πειραματισμούς) ότι αν κάνουμε 
+\textbf{{\lt XOR}} κατά μέλη τα $c_{2}$, $c_{4}$, $c_{6}$, $c_{8}$, 
+$c_{10}$ παίρνουμε το έκτο ψηφίο του του αρχικού μηνύματος ($m_{6}$). Παρατίθεται η απόδειξη:
+{\large
+\begin{center}
+\begin{tabular}{cccccccc}
+       & $c_{(i+2)\,mod\,16}$ & = & $\red{m_{(i+2)\,mod\,16}}$& $\xor$ &$\violet{m_{(i+12)\,mod\,16}}$& $\xor$ & $\blue{m_{(i+8)\,mod\,16}}$\\
+       & $c_{(i+4)\,mod\,16}$ & = & $\green{m_{(i+4)\,mod\,16}}$& $\xor$ &$\brown{m_{(i+14)\,mod\,16}}$& $\xor$ & $\magenta{m_{(i+10)\,mod\,16}}$\\
+       & $c_{(i+6)\,mod\,16}$ & = & $\mathbf{m_{(i+6)\,mod\,16}}$& $\xor$ &$\teal{m_{(i+\cancel{16})\,mod\,16}}$& $\xor$ & $\violet{m_{(i+12)\,mod\,16}}$\\
+       & $c_{(i+8)\,mod\,16}$ & = & $\blue{m_{(i+8)\,mod\,16}}$& $\xor$ &$\red{m_{(i+2)\,mod\,16}}$& $\xor$ & $\brown{m_{(i+14)\,mod\,16}}$\\
+$\xor$ & $c_{(i+10)\,mod\,16}$ & = & $\magenta{m_{(i+10)\,mod\,16}}$& $\xor$ &$\green{m_{(i+4)\,mod\,16}}$& $\xor$ & $\teal{m_{(i+\cancel{16})\,mod\,16}}$\\
+
+\hline
+ & & & & & & & $m_{(i+6)\,mod\,16}$ \\
+\end{tabular}
+\end{center}
+}
+Δηλαδή, 
+
+{\large
+\[
+c_{(i+2)\,mod\,16} \xor c_{(i+4)\,mod\,16} \xor c_{(i+6)\,mod\,16} \xor c_{(i+8)\,mod\,16} \xor c_{(i+10)\,mod\,16} = m_{(i+6)\,mod\,16}
+\]
+}
+
+\pagebreak
+
+Θέτοντας $u = i - 10 \Rightarrow i = u + 10$ η παραπάνω σχέση γράφεται ως:
+{\large
+\[
+m_{u\,mod\,16} = c_{(u+12)\,mod\,16} \xor c_{(u+14)\,mod\,16} \xor c_{u\,mod\,16} \xor c_{(u+2)\,mod\,16} \xor c_{(u+4)\,mod\,16}
+\]
+}
+\indent
+Όπως είδαμε στην αρχή, η αριστερή κυκλική κύλιση κατά 6 αντιστοιχεί στη μαθηματική έκφραση $\mathbf{m_{(i+10)\,mod\,16}}$ ενώ η αριστερή κυκλική κύλιση κατά 10 αντιστοιχεί στη μαθηματική έκφραση $\mathbf{m_{(i+6)\,mod\,16}}$.\\
+\indent
+Γενικότερα η κυκλική κύλιση κατά $\alpha,\; 0 < \alpha < N$
+σε έναν αριθμό των $N$ {\lt bits} μετατοπίζει τα πρώτα $\alpha$ {\lt MSBs} στη θέση των πρώτων $\alpha$ {\lt LSBs}. 
+Άρα το {\lt LSB} (θέση 0) τώρα θα είναι το ψηφίο που πρηγουμένως ήταν στη θέση $(N-1) - \alpha$. 
+Άρα έκφραση που πήραμε ως αποτέλεσμα για τα ψηφία του $m$ ως συνάρτηση των ψηφίων του $c$ μπορεί να μετασχηματιστεί στην έκφραση:
+
+{\large
+\[
+m\; = \;(c << 4)\:\xor\:(c << 2)\:\xor\:c\:\xor\:(c << 14)\:\xor\:(c << 12)\; = \;D(c)
+\]
+}
+
+\vspace{0.1in}
+
+\noindent
+Το παραπάνω συμπέρασμα επιβεβαιώνεται πειραματικά από το 
+{\lt script ``ex3.py"} καθώς τερματίζει με 
+\textbf{{\lt error\_flag = False}}. 
+\vspace{0.2in}
+
+\noindent
+(Υλοποίηση: \textbf{κώδικας/{\lt ex3/ex3.py}})
+
+
+\section*{Άσκηση 4 (2.5)}
+
+Ένα σύστημα μετατόπισης θα μπορούσε να έχει τέλεια ασφάλεια αν το κλειδί άλλαζε για κάθε χαρακτήρα με τυχαίο, ομοιόμορφο τρόπο. \\ 
+Συγκεκριμένα, έστω το σύστημα 
+$\mathcal{E} = \{E, D, \mathcal{K}, \mathcal{M}, \mathcal{C}\}$ 
+με
+\begin{itemize}
+	\item $\mathcal{K} = \mathcal{M} = \mathcal{C} = \{0, 1, ..., 23\}$
+	\item $E(m, k) = (m + k)\:mod\:2 = c$
+	\item $D(c, k) = (c - k)\:mod\:2 = m$
+\end{itemize}
+Έστω ένα κείμενο $t$ μήκους $\ell$ χαρακτήρων. Αν $m_{0},\:m_{1} \in \mathcal{M}$ δύο οποιοιδήποτε χαρακτήρες του κειμένου $t\in\mathcal{M}^{\ell}$ θα ισχύει η εξίσωση τέλειας 
+ασφάλειας:
+\begin{center}
+	$Pr(k \xleftarrow{\$}\mathcal{K}: E(k, m_{0}) = c)\;=\; 
+	Pr(k \xleftarrow{\$}\mathcal{K}: E(k, m_{1}) = c)$
+\end{center}
+αφού κάθε κρυπτογραφημένος χαρακτήρας $c$ μπορεί να είναι το αποτέλεσμα 
+μετατόπισης κατά οποιοδήποτε αριθμό $k$ θέσεων.  \\
+\indent
+Συμπερασματικά προκύπτει ότι κάθε συγκεκριμένο γράμμα δε θα 
+μετατρέπεται σε ένα άλλο συγκεκριμένο γράμμα, άλλα σε οποιοδήποτε άλλο 
+γράμμα για κάθε ξεχωριστή του εμφάνιση (άρα και δεν υπάρχει κίνδυνος 
+όσον αφορά την εύρεση του κλειδιού με στατιστικές μεθόδους κλπ).\\ 
+\indent
+Αυτή η υλοποίηση ενός συστήματος μετατόπισης μοιάζει με το {\lt One Time Pad}.
+
+\pagebreak
+
+\section*{Άσκηση 5 (2.6)}
+
+\indent
+Ο πίνακας για την μετατροπή των συμβόλων σε δυαδικές ακολουθίες 
+των 5 {\lt bit} υλοποιείται ως ένα λεξικό (συγκεκριμένα, δύο λεξικά για τη μετατροπή από σύμβολο σε {\lt bits} και από {\lt bits} σε σύμβολο). \\
+Η συνάρτηση κρυπτογράφησης είναι ίδια με τη συνάρτηση αποκρυπτογράφησης 
+\[
+D(x, y) = E(x, y) = x \xor y
+\]
+όπως είναι φανερό και στον κώδικα. \\
+Το κείμενο που θα χρησιμοποιηθεί ως μήνυμα βρίσκεται στο αρχείο 
+\textbf{{\lt ``sample\_text.txt"}}. \\
+\indent
+Να σημειωθεί ότι το κλειδί επιλέγεται ψευδοτυχαία με τη χρήση 
+της βιβλιοθήκης {\lt random}. Στην πραγματικότητα στο {\lt OTP} 
+το κλειδί τυχαίο, όμως επειδή το κλειδί πρέπει να έχει το ίδιο 
+μήκος με το κείμενο, η επιλογή ενός κλειδιού με το χέρι είναι 
+υπερβολή στην συγκεκριμένη περίπτωση.\\
+\indent
+Το πρόγραμμα εμφανίζει (με τη σειρά) το τυχαίο κλειδί, το κρυπτογραφημένο κείμενο και το αποκρυπτογραφημένο κείμενο, που σε κάθε περίπτωση είναι ίδιο με το περιεχόμενο του αρχείου.
+
+\vspace{0.2in}
+
+\noindent
+(Υλοποίηση: \textbf{κώδικας/{\lt ex5/ex5.py}})
+
+\section*{Άσκηση 6 (3.6)}
+Η άσκηση υλοποιήθηκε σε {\lt Python}.
+\begin{itemize}
+\item Συνάρτηση \textbf{{\lt is\_prime(n: int)}}, επιστρέφει σε χρόνο $\mathcal{O}(\sqrt{n})$ αν ο $n$ είναι 
+πρώτος.
+\item Συνάρτηση \textbf{{\lt prime\_factors(n: int)}}, επιστρέφει μια λίστα [$p_1,\:p_2,\:...,\:p_k$] όπου 
+\[
+\prod_{i=1}^{k}p_i\; = \;n, \;\;\; p_i\; \text{πρώτοι αριθμοί}
+\]
+\item Συνάρτηση \textbf{{\lt divisors(n: int)}}, επιστρέφει 
+λίστα με όλους τους θετικούς διαιρέτες του $n$.
+\item Συνάρτηση \textbf{{\lt mu(n: int)}}, υλοποίηση της συνάρτησης {\lt Möbius}, $\mu(n)$.
+\item Συνάρτηση \textbf{{\lt N\_2(n: int)}}, το ζητούμενο της 
+άσκησης.
+\end{itemize}
+Το πρόγραμμα διαλέγει 10 τυχαίους ακεραίους, $\mathbf{n_i}$, 
+στο διάστημα $[1,\:100]$. Εκτυπώνει, με την ακόλουθη 
+σειρά, τους διαιρέτες του, τους πρώτους παράγοντές του 
+και το πλήθος των ανάγωγων πολυωνύμων βαθμού $n_i$ 
+στο σώμα $\mathbb{F}_2$. Τα ακόλουθα αποτελέσματα 
+εκτυπώνονται για $n = 30$: \\
+\nul \\
+{ \lt \texttt{
+[30] info: \\
+ -- divisors: [1, 2, 3, 5, 6, 10, 15, 30] \\
+ -- prime factorization: [2, 3, 5] \\
+ -- N\_2(30) = 35790267 \\
+}}
+
+\vspace{0.1in}
+
+\noindent
+(Υλοποίηση: \textbf{κώδικας/{\lt ex6/ex6.py}})
+
+\pagebreak
+
+\section*{Άσκηση 7 (3.8)}
+\indent
+Όπως και σε προηγούμενες ασκήσεις, το {\lt script} χρηιμοποιεί 
+λεξικά για τις κωδικοποιήσεις και αποκωδικοποιήσεις των 
+32 δοσμένων χαρακτήρων σε δυαδικές ακολουθίες των 
+{\lt 5-bit} (όπως επιβάλλει ο πίνακας της άσκησης 3.5) 
+και, φυσικά, την υλοποίηση της {\lt XOR}.\\
+\indent
+Ο αλγόριθμος {\lt RC4} απαιτεί {\lt 8-bit} κωδικοποίηση 
+των χαρακτήρων, όμως οι χαρακτήρες μας κωδικοποιούνται σε 
+{\lt 5 bits} ο καθένας. Μια πρώτη σκέψη θα ήταν να κάνουμε
+{\lt padding} τρία μηδενικά μπροστά από τις δυαδικές 
+αναπαραστάσεις των χαρακτήρων. Αυτό όμως δεν αποτελεί 
+λύση του προβλήματος καθώς αν \texttt{\lt S[i] > 31} για κάποιο 
+$i$, τότε το αποτέλεσμα  της {\lt XOR} ενός χαρακτήρα με το 
+\texttt{\lt S[i]} θα προκαλούσε υπερχίλειση. \\
+\indent
+Έτσι υλοποιήθηκε, απλά, ο {\lt RC4} με όριο το 32 αντί για 
+το 256. Άρα ο $S$ είναι $S = [0, 1, ..., 31]$ αντί για 
+$S = [0, 1, ..., 255]$, οι δείκτες $i,\:j$ μηδενίζονται κάθε 
+32 επαναλήψεις αντί για 256 κλπ. \\
+\indent
+Για την κρυπτογράφηση και την αποκρυπτογράφηση χρησιμοποιείται 
+η ίδια συνάρτηση \texttt{{\lt rc4()}} που υλοποιεί τον 
+αλγόριθμο αρχικοποίησης, την κατσκευή μετάθεσης και τον
+αλγόριθμο κρυπτοροής ταυτόχρονα.\\ 
+\indent
+Για μήνυμα 
+\texttt{\lt "MISTAKESAREASSERIOUSASTHERESULTSTHEYCAUSE"} και 
+κλειδί \texttt{\lt "HOUSE"} παίρνουμε ως κρυπτοκείμενο το 
+\texttt{\lt "IGD!APO-TJUQPDSPMAOZUIAZ(VF(VFGQ.IIWMB(WX"}. 
+Βάζοντας το κρυπτοκείμενο στην ίδια συνάρτηση και το ίδιο 
+κλειδί παίρνουμε ξανά το αρχικό μήνυμα, πράγμα που 
+επιβεβαιώνει ότι οι συναρτήσεις κρυπτογράφησης και 
+αποκρυπτογράφησης είναι ίδιες. \\
+
+
+\vspace{0.1in}
+
+\noindent
+(Υλοποίηση: \textbf{κώδικας/{\lt ex7/ex7.py}})
+
+\section*{Άσκηση 8 (4.3)}
+Το {\lt script} υλοποιεί τον τύπο υπολογισμού της διαφορικής 
+ομοιομορφίας:
+{\large
+\[Diff(S) \;=\; \max_{x \in F_{2}^{n}\:-\:\{0\},\; y \in F_{2}^{m}}
+|\{z \in F_{2}^{n}:\; S(x \oplus z) \oplus S(z) \;=\; y\}|
+\]
+}
+
+\noindent
+Για $n=6,\: m = 4$ και $S:\;\{0, 1\}^6 \rightarrow \{0, 1\}^4$ 
+με τύπο του {\lt S-box (4.2.3)}, το πρόγραμμα τερματίζει 
+εμφανίζοντας ως έξοδο \texttt{\lt Diff(S) = 14}.\\
+
+\noindent
+Μερικές πληροφορίες για τον κώδικα:
+\begin{itemize}
+	\item Λίστα \texttt{\lt S\_i:} υλοποίηση του εσωτερικού 
+	{\lt lookup table} της συνάρτησης \texttt{\lt S}
+	\item Συνάρτηση  \texttt{\lt S(x: str) -> str:} η 
+	συνάρτηση $S:\;\{0, 1\}^6 \rightarrow \{0, 1\}^4$
+	\item Συνάρτηση  \texttt{\lt xor(x: str, y: str) -> str:} 
+	επιστρέφει $x \xor y$
+	\item Συνάρτηση 
+	\texttt{\lt differential\_uniformity(...):} 
+	δέχεται τη συνάρτηση \texttt{\lt S} και το μήκος 
+	των συμβολοσειρών εισόδων της. Επιστρέφει το $Diff(S)$
+\end{itemize}
+
+\vspace{0.1in}
+\noindent
+(Υλοποίηση: \textbf{κώδικας/{\lt ex8/ex8.py}}, αποτελεί αντιγραφή του κώδικα για το δεύτερο ερώτημα του 
+{\lt homework 4} με μικρο-αλλαγές)
+
+\pagebreak
+
+\section*{Άσκηση 9 (4.7)}
+
+Η άσκηση 4.7 προϋποθέτει την ύπαρξη υλοποίησης του 
+κρυπταλγορίθμου {\lt AES}. Δεδομένου ότι δεν υπάρχει κάποιο 
+προεγκατεστημένο πακέτο της {\lt Python} με την εν λόγω 
+υλοποίηση, χρησιμοποιήθηκε το πακέτο \textbf{\lt 
+PyCryptodome (v 3.17)} - 
+(\href{https://pycryptodome.readthedocs.io/en/latest/}
+{\lt \color{blue} documentation link}). 
+Η εγκατάσταση έγινε στη γραμμή εντολών με την εντολή: 
+\texttt{\lt pip install pycryptodome} (Αντίστοιχα, 
+πληροφορίες για το περιβάλλον {\lt conda} 
+παρέχονται \href{https://anaconda.org/conda-forge/pycryptodome}
+{\color{blue} εδώ}). \\
+\indent
+Όλα τα εργαλεία της βιβλιοθήκης βρίσκονται στο {\lt module 
+\textbf{Crypto}}. Αναφέρται στο {\lt documentation} ότι η 
+{\lt PyCryptodome} παρουσιάζει προβλήματα αν είναι ταυτόχρονα 
+εγκατεστημένη η {\lt PyCrypto} (παλιά {\lt PyCryptodome}). 
+Σε αυτή την περίπτωση πρέπει να εγκατασταθεί η 
+{\lt PyCryptodomeX} με την εντολή \texttt{\lt 
+pip install pycryptodomex}. Στην περίπτωση εγκατάστασης αυτής 
+της ανεξάρτητης εκδοχής τα εργαλεία βρίσκονται στο 
+{\lt module \textbf{Cryptodome}}. \\
+\indent
+Σχετικά με τον {\lt AES}, υπάρχουν 
+\href{https://pycryptodome.readthedocs.io/en/latest/src/cipher/aes.html}{\color{blue}οδηγίες στο {\lt documentation}} που 
+χρησιμοποιήθηκαν για την υλοποίηση της άσκησης (καθώς και από 
+μια άλλη πηγή που θα αναφερθεί αργότερα). \\
+\indent
+Το αρχείο {\lt ``messages.txt"} περιέχει 78 μηνύματα που θα 
+χρησιμοποιηθούν για το στατιστικό τεστ που θα διαπιστώσει το 
+βαθμό διάχυσης του αλγορίθμου {\lt AES}.
+Παρατίθενται τα βήματα του προγράμματος:
+\begin{enumerate}
+\item Διαβάζονται τα μηνύματα από το αρχείο και αποθηκεύονται 
+σε έναν πίνακα.
+\item Αποθηκεύονται με την ίδια σειρά τα μηνύματα οι 
+επεξεργασμένες εκδοχές τους (ένα {\lt bit-flip}) σε άλλον 
+πίνακα. 
+\item Δημιουργείται ένα κλειδί των 16 {\lt bytes} (Άρα 
+{\lt AES-128}).
+\item Δημιουργούμε δύο {\lt AES} αντικείμενα με το 
+κλειδί, ένα σε {\lt ECB} λειτουργία και ένα σε {\lt CBC} 
+λειτουργία.
+\item Δημιουργείται μια δομή ({\lt zip object}) με ζεύγη 
+$(c_i,\:c_i')$ που προκύπτουν από την κρυπτογράφηση των 
+$(m_i,\:m_i')$ με {\lt AES-128 ECB mode}, 
+όπου $m_i,\:m_i'$ μηνύματα των 256 {\lt bit} 
+που διαφέρουν κατά ένα {\lt bit}. Κάνουμε το ίδιο και 
+για το {\lt CBC mode}. Να σημειωθεί ότι τα μηνύματα είναι 
+λιγότερα από 32 {\lt bytes} οπότε γίνεται {\lt padding} 
+με τη χρήση του {\lt \texttt{Padding.pad}} 
+(Για αυτό το θέμα χρησιμοποιήθηκε κώδικας από 
+\href{https://stackoverflow.com/questions/52181245/valueerror-data-must-be-aligned-to-block-boundary-in-ecb-mode}{\color{blue}αυτό} το 
+{\lt post} στο {\lt Stack Overflow}).
+\item Δημιουργείται ένα αρχείο στο οποίο καταγράφεται το 
+ποσοστό διαφορετικών {\lt bits} μεταξύ $c_i$ και $c_i'$ 
+(κάνοντας {\lt XOR} και μετρώντας to πλήθος των άσσων του 
+αποτελέσματος) για κάθε $i\:=\:1, 2, ..., 78$. Επίσης 
+καταγράφεται και ο μέσος όρος αλλαγής ψηφίων τόσο στο 
+αρχείο, όσο και στην οθόνη. Αυτή η διαδικασία γίνεται δύο 
+φορές, μία για κάθε {\lt AES} λειτουργία.
+\end{enumerate}
+Παρατηρείται ότι το ο {\lt AES-128} δε χαρακτηρίζεται από 
+υψηλή διάχυση στη λειτουργία {\lt ECB} καθώς 
+το μέσο ποσοστό ψηφίων που επηρεάστηκαν στο κρυπτομήνυμα 
+είναι περίπου $25\%$, δηλαδή $<50\%$. \\
+\indent
+Κατά τ' άλλα αν εκτελεστεί ο κρυπταλγόριθμος στη {\lt CBC} 
+λειτουργία τότε το αποτέλεσμα αλλάζει δραστικά, με περίπου 
+$50.5\%-51\%$ αλλαγή ψηφιων. Επομένως το φαινόμενο της 
+χιονοστιβάδας παρατηρείται στον αλγόριθμο {\lt Rijndael}, 
+όχι όμως σε όλες τις λειτουργίες του. \\
+
+\vspace{0.1in}
+
+\noindent
+(Υλοποίηση: \textbf{κώδικας/{\lt ex9/ex9.py}})
+
+\pagebreak
+
+\section*{Άσκηση 10}
+
+\begin{enumerate}
+	\item Εισάγουμε το {\lt \textbf{course-1-introduction.pdf}} σε \href{https://products.groupdocs.app/metadata/export/pdf}{\color{blue} αυτό} το {\lt PDF Metadata Viewer}.
+	\item Αντιγράφουμε το {\lt Base64 string} που βρίσκεται στη θέση {\lt XMP $\rightarrow$ TIFF:ARTIST}
+	\vspace{-0.2in}
+	\begin{center}
+\textbf{\footnotesize \lt 	aHR0cHM6Ly9jcnlwdG9sb2d5LmNzZC5hdXRoLmdyOjgwODAvaG9tZS9wdWIvMTUv}
+	\end{center}
+	και το εισάγουμε σε έναν \href{https://www.base64decode.org/}{\color{blue} αποκωδικοποιητή}. Έτσι, προκύπτει ο σύνδεσμος:
+	\begin{center}
+	{\lt \color{blue} \url{https://cryptology.csd.auth.gr:8080/home/pub/15/}}
+	\end{center}
+	\item Η ιστοσελίδα γράφει \textquote{O χημικός 
+	{\lt Walter White} βρήκε μέσα στο εργαστήριο του το 
+	εξής μήνυμα: {\lt \#2-75-22-6!}}. Το δοσμένο {\lt string} 
+	δεν είναι ο κωδικός, όμως, αν γίνει κάποια συσχέτιση με τη χημεία, συμπεραίνουμε ότι οι αριθμοί αυτοί είναι ατομικοί αριθμοί στοιχείων, άρα $(2, 75, 22, 6) \rightarrow (He, Re, Ti, C)$. Επομένως, εισάγοντας στο {\lt secure.zip} τον κωδικό {\lt \textbf{\#heretic!}}, τότε αυτό ανοίγει.
+	\item Μέσα στο {\lt secret.zip} βρίσκεται το {\lt secret.txt}. Αποκωδικοποιώντας το μεγάλο {\lt Base64 string} προκύπτει μια φωτογραφία του {\lt Bobby Fischer} να παίζει σκάκι. Στα μεταδεδομένα της φωτογραφίας υπάρχει ένα \href{https://tinyurl.com/26ru4359}{\lt \color{blue} tinyurl}.
+	\item Η ιστοσελίδα γράφει (σε αλγεβραϊκή μορφή) την τρέχουσα κατάσταση μιας παρτίδας σκάκι. Κάνοντας {\lt prompt} το \href{https://openai.com/blog/chatgpt}{\lt \color{blue}ChatGPT} με εντολή:
+	{\lt
+	\begin{verbatim}
+	Calculate the next best move:
+1.e4 e5 2.f4 exf4 3.Bc4 g5 4.Nf3 g4 5.O-O gxf3 6.Qxf3 Qf6 7.e5
+Qxe5 8.d3 Bh6 9.Nc3 Ne7 10.Bd2 Nbc6 11.Rae1 Qf5 12.Nd5 Kd8
+13.Bc3 Rg8 14.Bf6 Bg5 15.Bxg5 Qxg5 16.Nxf4 Ne5 17.Qe4 d6 18.h4
+Qg4 19.Bxf7 Rf8 20.Bh5 Qg7 21.d4 N5c6 22.c3 a5 23.Ne6+ Bxe6
+24.Rxf8+ Qxf8 25.Qxe6 Ra6 26.Rf1 Qg7 27.Bg4 Nb8
+	\end{verbatim}
+	}
+αυτό απαντάει:
+	{\lt
+	\begin{verbatim}
+In this position, White has a strong initiative, but Black is still defending well. One possible continuation for White is:
+28.Rf7
+...
+	\end{verbatim}
+	}
+	\item Υπολογίζουμε το {\lt \texttt{hashlib.md5(b'Rf7').hexdigest()}} που είναι ίσο με: 
+	
+	\textbf{{\lt f1f5e44313a1b684f1f7e8eddec4fcb0}} που είναι όντως το κλειδί του {\lt secure2.zip}. Το {\lt mastersecret.txt} περιέχει ως απάντηση το {\lt hash:}
+	
+	\textbf{{\lt be121740bf988b2225a313fa1f107ca1}}
+\end{enumerate}
+
+
+
+\end{document}
