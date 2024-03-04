@@ -34,8 +34,11 @@ An exhaustive list with every programming-related school assignment.
 * ## Computer Networks (Java)
   Lesson's target is to introduce the students to internet protocols (TCP, HTTP etc.) and network programming. The assignment requests the implementation of a program/service that consists of a **Server** side and a **Client** side using sockets or Remote Method Invocation in Java. The two sides of the service can be executed in different computers and interact with each other through access to the internet.
 * ## Databases (SQL)
+  Lesson's target is to introduce the students to Relational Algebra and SQL. The assignment requests the design of a database with an ER diagram, based on the **Entity-Relationship Model**. Specific conversions are then applied to the ER diagram to generate the equivalent relational model. Finally, the resulting relational model is written in SQL.
 * ## Operating Systems (C)
+  Lesson's target is to introduce the students to the foundations of operating systems design (time-scheduling algorithms, disk-scheduling algorithms, memory management, interrupts, semaphores) and Linux bash. The assignment demands the implementation of **4 time-scheduling algorithms**: First Come First Served (FCFS), Shortest Job First (SJF), Shortest Remaining Time First (SRTF) and Round-robin (RR).
 * ## Systems and Signals (MATLAB)
+  Lesson's target is to introduce the students to linear time-invariant and periodic signals, as well as Fourier, Zeta and Laplace transforms; both in their continuous and discrete nature. The assignment requests the implementation of **overlapp-add** and **overlap-save** methods to apply band-pass filtering to digital media.
 <br/>
 
 
