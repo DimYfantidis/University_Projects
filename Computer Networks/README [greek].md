@@ -110,12 +110,12 @@ private final PrintWriter out;      // Στέλνει μηνύματα στον 
 επιλέγεται η κλήση της κατάλληλης μεθόδου. Κάθε μέθοδος πραγματοποιεί την αντίστοιχη λειτουργία που ζητάται από την εκφώνηση.  
 Άρα, η ConnectionHandler διαθέτει και άλλες **6 βασικές συναρτήσεις** για αυτόν ακριβώς τον σκοπό.  
 ```java
-public void createAccount() throws IOException
-public void printAccounts() throws IOException
-public void sendMessage() throws IOException
-public void showInbox() throws IOException
-public void readMessage() throws IOException
-public void deleteMessage() throws IOException
+public void createAccount() throws IOException;
+public void printAccounts() throws IOException;
+public void sendMessage() throws IOException;
+public void showInbox() throws IOException;
+public void readMessage() throws IOException;
+public void deleteMessage() throws IOException;
 ```
 Κάθε μία από αυτές τις συναρτήσεις χρησιμοποιεί το ρεύμα εισόδου τόσες φορές όσες αναμένονται να είναι τα ορίσματα.  
 Στο τέλος μεταδίδει τα αποτελέσματα στον πελάτη. 
