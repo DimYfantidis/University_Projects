@@ -1,0 +1,5124 @@
+(n, k) = (50, 0)
+[REAL] > bincoef(50, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(50, 0) = 1
+
+(n, k) = (50, 1)
+[REAL] > bincoef(50, 1) = 50, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(50, 1) = 50
+
+(n, k) = (50, 2)
+[REAL] > bincoef(50, 2) = 1225, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(50, 2) = 1225
+
+(n, k) = (50, 3)
+[REAL] > bincoef(50, 3) = 19600, bits: 15, NUM bits: 17, DNM bits: 3
+[COMP] > bincoef(50, 3) = 19600
+
+(n, k) = (50, 4)
+[REAL] > bincoef(50, 4) = 230300, bits: 18, NUM bits: 23, DNM bits: 5
+[COMP] > bincoef(50, 4) = 230300
+
+(n, k) = (50, 5)
+[REAL] > bincoef(50, 5) = 2118760, bits: 22, NUM bits: 28, DNM bits: 7
+[COMP] > bincoef(50, 5) = 2118760
+
+(n, k) = (50, 6)
+[REAL] > bincoef(50, 6) = 15890700, bits: 24, NUM bits: 34, DNM bits: 10
+[COMP] > bincoef(50, 6) = 15890700
+
+(n, k) = (50, 7)
+[REAL] > bincoef(50, 7) = 99884400, bits: 27, NUM bits: 39, DNM bits: 13
+[COMP] > bincoef(50, 7) = 99884400
+
+(n, k) = (50, 8)
+[REAL] > bincoef(50, 8) = 536878650, bits: 30, NUM bits: 45, DNM bits: 16
+[COMP] > bincoef(50, 8) = 536878650
+
+(n, k) = (50, 9)
+[REAL] > bincoef(50, 9) = 2505433700, bits: 32, NUM bits: 50, DNM bits: 19
+[COMP] > bincoef(50, 9) = 2505433700
+
+(n, k) = (50, 10)
+[REAL] > bincoef(50, 10) = 10272278170, bits: 34, NUM bits: 56, DNM bits: 22
+[COMP] > bincoef(50, 10) = 10272278170
+
+(n, k) = (50, 11)
+[REAL] > bincoef(50, 11) = 37353738800, bits: 36, NUM bits: 61, DNM bits: 26
+[COMP] > bincoef(50, 11) = 37353738800
+
+(n, k) = (50, 12)
+[REAL] > bincoef(50, 12) = 121399651100, bits: 37, NUM bits: 66, DNM bits: 29
+[COMP] > bincoef(50, 12) = 121399651100
+
+(n, k) = (50, 13)
+[REAL] > bincoef(50, 13) = 354860518600, bits: 39, NUM bits: 71, DNM bits: 33
+[COMP] > bincoef(50, 13) = 354860518600
+
+(n, k) = (50, 14)
+[REAL] > bincoef(50, 14) = 937845656300, bits: 40, NUM bits: 77, DNM bits: 37
+[COMP] > bincoef(50, 14) = 937845656300
+
+(n, k) = (50, 15)
+[REAL] > bincoef(50, 15) = 2250829575120, bits: 42, NUM bits: 82, DNM bits: 41
+[COMP] > bincoef(50, 15) = 2250829575120
+
+(n, k) = (50, 16)
+[REAL] > bincoef(50, 16) = 4923689695575, bits: 43, NUM bits: 87, DNM bits: 45
+[COMP] > bincoef(50, 16) = 4923689695575
+
+(n, k) = (50, 17)
+[REAL] > bincoef(50, 17) = 9847379391150, bits: 44, NUM bits: 92, DNM bits: 49
+[COMP] > bincoef(50, 17) = 9847379391150
+
+(n, k) = (50, 18)
+[REAL] > bincoef(50, 18) = 18053528883775, bits: 45, NUM bits: 97, DNM bits: 53
+[COMP] > bincoef(50, 18) = 18053528883775
+
+(n, k) = (50, 19)
+[REAL] > bincoef(50, 19) = 30405943383200, bits: 45, NUM bits: 102, DNM bits: 57
+[COMP] > bincoef(50, 19) = 30405943383200
+
+(n, k) = (50, 20)
+[REAL] > bincoef(50, 20) = 47129212243960, bits: 46, NUM bits: 107, DNM bits: 62
+[COMP] > bincoef(50, 20) = 47129212243960
+
+(n, k) = (50, 21)
+[REAL] > bincoef(50, 21) = 67327446062800, bits: 46, NUM bits: 112, DNM bits: 66
+[COMP] > bincoef(50, 21) = 67327446062800
+
+(n, k) = (50, 22)
+[REAL] > bincoef(50, 22) = 88749815264600, bits: 47, NUM bits: 117, DNM bits: 70
+[COMP] > bincoef(50, 22) = 88749815264600
+
+(n, k) = (50, 23)
+[REAL] > bincoef(50, 23) = 108043253365600, bits: 47, NUM bits: 122, DNM bits: 75
+[COMP] > bincoef(50, 23) = 108043253365600
+
+(n, k) = (50, 24)
+[REAL] > bincoef(50, 24) = 121548660036300, bits: 47, NUM bits: 126, DNM bits: 80
+[COMP] > bincoef(50, 24) = 121548660036300
+
+(n, k) = (50, 25)
+[REAL] > bincoef(50, 25) = 126410606437752, bits: 47, NUM bits: 131, DNM bits: 84
+[COMP] > bincoef(50, 25) = 126410606437752
+
+(n, k) = (50, 26)
+[REAL] > bincoef(50, 26) = 121548660036300, bits: 47, NUM bits: 136, DNM bits: 89
+[COMP] > bincoef(50, 26) = 121548660036300
+
+(n, k) = (50, 27)
+[REAL] > bincoef(50, 27) = 108043253365600, bits: 47, NUM bits: 140, DNM bits: 94
+[COMP] > bincoef(50, 27) = 108043253365600
+
+(n, k) = (50, 28)
+[REAL] > bincoef(50, 28) = 88749815264600, bits: 47, NUM bits: 145, DNM bits: 98
+[COMP] > bincoef(50, 28) = 88749815264600
+
+(n, k) = (50, 29)
+[REAL] > bincoef(50, 29) = 67327446062800, bits: 46, NUM bits: 149, DNM bits: 103
+[COMP] > bincoef(50, 29) = 67327446062800
+
+(n, k) = (50, 30)
+[REAL] > bincoef(50, 30) = 47129212243960, bits: 46, NUM bits: 154, DNM bits: 108
+[COMP] > bincoef(50, 30) = 47129212243960
+
+(n, k) = (50, 31)
+[REAL] > bincoef(50, 31) = 30405943383200, bits: 45, NUM bits: 158, DNM bits: 113
+[COMP] > bincoef(50, 31) = 30405943383200
+
+(n, k) = (50, 32)
+[REAL] > bincoef(50, 32) = 18053528883775, bits: 45, NUM bits: 162, DNM bits: 118
+[COMP] > bincoef(50, 32) = 18053528883775
+
+(n, k) = (50, 33)
+[REAL] > bincoef(50, 33) = 9847379391150, bits: 44, NUM bits: 166, DNM bits: 123
+[COMP] > bincoef(50, 33) = 9847379391150
+
+(n, k) = (50, 34)
+[REAL] > bincoef(50, 34) = 4923689695575, bits: 43, NUM bits: 170, DNM bits: 128
+[COMP] > bincoef(50, 34) = 4923689695575
+
+(n, k) = (50, 35)
+[REAL] > bincoef(50, 35) = 2250829575120, bits: 42, NUM bits: 174, DNM bits: 133
+[COMP] > bincoef(50, 35) = 2250829575120
+
+(n, k) = (50, 36)
+[REAL] > bincoef(50, 36) = 937845656300, bits: 40, NUM bits: 178, DNM bits: 139
+[COMP] > bincoef(50, 36) = 937845656300
+
+(n, k) = (50, 37)
+[REAL] > bincoef(50, 37) = 354860518600, bits: 39, NUM bits: 182, DNM bits: 144
+[COMP] > bincoef(50, 37) = 354860518600
+
+(n, k) = (50, 38)
+[REAL] > bincoef(50, 38) = 121399651100, bits: 37, NUM bits: 186, DNM bits: 149
+[COMP] > bincoef(50, 38) = 121399651100
+
+(n, k) = (50, 39)
+[REAL] > bincoef(50, 39) = 37353738800, bits: 36, NUM bits: 189, DNM bits: 154
+[COMP] > bincoef(50, 39) = 37353738800
+
+(n, k) = (50, 40)
+[REAL] > bincoef(50, 40) = 10272278170, bits: 34, NUM bits: 193, DNM bits: 160
+[COMP] > bincoef(50, 40) = 10272278170
+
+(n, k) = (50, 41)
+[REAL] > bincoef(50, 41) = 2505433700, bits: 32, NUM bits: 196, DNM bits: 165
+[COMP] > bincoef(50, 41) = 2505433700
+
+(n, k) = (50, 42)
+[REAL] > bincoef(50, 42) = 536878650, bits: 30, NUM bits: 199, DNM bits: 170
+[COMP] > bincoef(50, 42) = 536878650
+
+(n, k) = (50, 43)
+[REAL] > bincoef(50, 43) = 99884400, bits: 27, NUM bits: 202, DNM bits: 176
+[COMP] > bincoef(50, 43) = 99884400
+
+(n, k) = (50, 44)
+[REAL] > bincoef(50, 44) = 15890700, bits: 24, NUM bits: 205, DNM bits: 181
+[COMP] > bincoef(50, 44) = 15890700
+
+(n, k) = (50, 45)
+[REAL] > bincoef(50, 45) = 2118760, bits: 22, NUM bits: 208, DNM bits: 187
+[COMP] > bincoef(50, 45) = 2118760
+
+(n, k) = (50, 46)
+[REAL] > bincoef(50, 46) = 230300, bits: 18, NUM bits: 210, DNM bits: 192
+[COMP] > bincoef(50, 46) = 230300
+
+(n, k) = (50, 47)
+[REAL] > bincoef(50, 47) = 19600, bits: 15, NUM bits: 212, DNM bits: 198
+[COMP] > bincoef(50, 47) = 19600
+
+(n, k) = (50, 48)
+[REAL] > bincoef(50, 48) = 1225, bits: 11, NUM bits: 214, DNM bits: 203
+[COMP] > bincoef(50, 48) = 1225
+
+(n, k) = (50, 49)
+[REAL] > bincoef(50, 49) = 50, bits: 6, NUM bits: 215, DNM bits: 209
+[COMP] > bincoef(50, 49) = 50
+
+(n, k) = (50, 50)
+[REAL] > bincoef(50, 50) = 1, bits: 1, NUM bits: 215, DNM bits: 215
+[COMP] > bincoef(50, 50) = 1
+
+(n, k) = (51, 0)
+[REAL] > bincoef(51, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(51, 0) = 1
+
+(n, k) = (51, 1)
+[REAL] > bincoef(51, 1) = 51, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(51, 1) = 51
+
+(n, k) = (51, 2)
+[REAL] > bincoef(51, 2) = 1275, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(51, 2) = 1275
+
+(n, k) = (51, 3)
+[REAL] > bincoef(51, 3) = 20825, bits: 15, NUM bits: 17, DNM bits: 3
+[COMP] > bincoef(51, 3) = 20825
+
+(n, k) = (51, 4)
+[REAL] > bincoef(51, 4) = 249900, bits: 18, NUM bits: 23, DNM bits: 5
+[COMP] > bincoef(51, 4) = 249900
+
+(n, k) = (51, 5)
+[REAL] > bincoef(51, 5) = 2349060, bits: 22, NUM bits: 29, DNM bits: 7
+[COMP] > bincoef(51, 5) = 2349060
+
+(n, k) = (51, 6)
+[REAL] > bincoef(51, 6) = 18009460, bits: 25, NUM bits: 34, DNM bits: 10
+[COMP] > bincoef(51, 6) = 18009460
+
+(n, k) = (51, 7)
+[REAL] > bincoef(51, 7) = 115775100, bits: 27, NUM bits: 40, DNM bits: 13
+[COMP] > bincoef(51, 7) = 115775100
+
+(n, k) = (51, 8)
+[REAL] > bincoef(51, 8) = 636763050, bits: 30, NUM bits: 45, DNM bits: 16
+[COMP] > bincoef(51, 8) = 636763050
+
+(n, k) = (51, 9)
+[REAL] > bincoef(51, 9) = 3042312350, bits: 32, NUM bits: 50, DNM bits: 19
+[COMP] > bincoef(51, 9) = 3042312350
+
+(n, k) = (51, 10)
+[REAL] > bincoef(51, 10) = 12777711870, bits: 34, NUM bits: 56, DNM bits: 22
+[COMP] > bincoef(51, 10) = 12777711870
+
+(n, k) = (51, 11)
+[REAL] > bincoef(51, 11) = 47626016970, bits: 36, NUM bits: 61, DNM bits: 26
+[COMP] > bincoef(51, 11) = 47626016970
+
+(n, k) = (51, 12)
+[REAL] > bincoef(51, 12) = 158753389900, bits: 38, NUM bits: 67, DNM bits: 29
+[COMP] > bincoef(51, 12) = 158753389900
+
+(n, k) = (51, 13)
+[REAL] > bincoef(51, 13) = 476260169700, bits: 39, NUM bits: 72, DNM bits: 33
+[COMP] > bincoef(51, 13) = 476260169700
+
+(n, k) = (51, 14)
+[REAL] > bincoef(51, 14) = 1292706174900, bits: 41, NUM bits: 77, DNM bits: 37
+[COMP] > bincoef(51, 14) = 1292706174900
+
+(n, k) = (51, 15)
+[REAL] > bincoef(51, 15) = 3188675231420, bits: 42, NUM bits: 82, DNM bits: 41
+[COMP] > bincoef(51, 15) = 3188675231420
+
+(n, k) = (51, 16)
+[REAL] > bincoef(51, 16) = 7174519270695, bits: 43, NUM bits: 87, DNM bits: 45
+[COMP] > bincoef(51, 16) = 7174519270695
+
+(n, k) = (51, 17)
+[REAL] > bincoef(51, 17) = 14771069086725, bits: 44, NUM bits: 93, DNM bits: 49
+[COMP] > bincoef(51, 17) = 14771069086725
+
+(n, k) = (51, 18)
+[REAL] > bincoef(51, 18) = 27900908274925, bits: 45, NUM bits: 98, DNM bits: 53
+[COMP] > bincoef(51, 18) = 27900908274925
+
+(n, k) = (51, 19)
+[REAL] > bincoef(51, 19) = 48459472266975, bits: 46, NUM bits: 103, DNM bits: 57
+[COMP] > bincoef(51, 19) = 48459472266975
+
+(n, k) = (51, 20)
+[REAL] > bincoef(51, 20) = 77535155627160, bits: 47, NUM bits: 108, DNM bits: 62
+[COMP] > bincoef(51, 20) = 77535155627160
+
+(n, k) = (51, 21)
+[REAL] > bincoef(51, 21) = 114456658306760, bits: 47, NUM bits: 113, DNM bits: 66
+[COMP] > bincoef(51, 21) = 114456658306760
+
+(n, k) = (51, 22)
+[REAL] > bincoef(51, 22) = 156077261327400, bits: 48, NUM bits: 118, DNM bits: 70
+[COMP] > bincoef(51, 22) = 156077261327400
+
+(n, k) = (51, 23)
+[REAL] > bincoef(51, 23) = 196793068630200, bits: 48, NUM bits: 122, DNM bits: 75
+[COMP] > bincoef(51, 23) = 196793068630200
+
+(n, k) = (51, 24)
+[REAL] > bincoef(51, 24) = 229591913401900, bits: 48, NUM bits: 127, DNM bits: 80
+[COMP] > bincoef(51, 24) = 229591913401900
+
+(n, k) = (51, 25)
+[REAL] > bincoef(51, 25) = 247959266474052, bits: 48, NUM bits: 132, DNM bits: 84
+[COMP] > bincoef(51, 25) = 247959266474052
+
+(n, k) = (51, 26)
+[REAL] > bincoef(51, 26) = 247959266474052, bits: 48, NUM bits: 137, DNM bits: 89
+[COMP] > bincoef(51, 26) = 247959266474052
+
+(n, k) = (51, 27)
+[REAL] > bincoef(51, 27) = 229591913401900, bits: 48, NUM bits: 141, DNM bits: 94
+[COMP] > bincoef(51, 27) = 229591913401900
+
+(n, k) = (51, 28)
+[REAL] > bincoef(51, 28) = 196793068630200, bits: 48, NUM bits: 146, DNM bits: 98
+[COMP] > bincoef(51, 28) = 196793068630200
+
+(n, k) = (51, 29)
+[REAL] > bincoef(51, 29) = 156077261327400, bits: 48, NUM bits: 150, DNM bits: 103
+[COMP] > bincoef(51, 29) = 156077261327400
+
+(n, k) = (51, 30)
+[REAL] > bincoef(51, 30) = 114456658306760, bits: 47, NUM bits: 155, DNM bits: 108
+[COMP] > bincoef(51, 30) = 114456658306760
+
+(n, k) = (51, 31)
+[REAL] > bincoef(51, 31) = 77535155627160, bits: 47, NUM bits: 159, DNM bits: 113
+[COMP] > bincoef(51, 31) = 77535155627160
+
+(n, k) = (51, 32)
+[REAL] > bincoef(51, 32) = 48459472266975, bits: 46, NUM bits: 164, DNM bits: 118
+[COMP] > bincoef(51, 32) = 48459472266975
+
+(n, k) = (51, 33)
+[REAL] > bincoef(51, 33) = 27900908274925, bits: 45, NUM bits: 168, DNM bits: 123
+[COMP] > bincoef(51, 33) = 27900908274925
+
+(n, k) = (51, 34)
+[REAL] > bincoef(51, 34) = 14771069086725, bits: 44, NUM bits: 172, DNM bits: 128
+[COMP] > bincoef(51, 34) = 14771069086725
+
+(n, k) = (51, 35)
+[REAL] > bincoef(51, 35) = 7174519270695, bits: 43, NUM bits: 176, DNM bits: 133
+[COMP] > bincoef(51, 35) = 7174519270695
+
+(n, k) = (51, 36)
+[REAL] > bincoef(51, 36) = 3188675231420, bits: 42, NUM bits: 180, DNM bits: 139
+[COMP] > bincoef(51, 36) = 3188675231420
+
+(n, k) = (51, 37)
+[REAL] > bincoef(51, 37) = 1292706174900, bits: 41, NUM bits: 184, DNM bits: 144
+[COMP] > bincoef(51, 37) = 1292706174900
+
+(n, k) = (51, 38)
+[REAL] > bincoef(51, 38) = 476260169700, bits: 39, NUM bits: 188, DNM bits: 149
+[COMP] > bincoef(51, 38) = 476260169700
+
+(n, k) = (51, 39)
+[REAL] > bincoef(51, 39) = 158753389900, bits: 38, NUM bits: 192, DNM bits: 154
+[COMP] > bincoef(51, 39) = 158753389900
+
+(n, k) = (51, 40)
+[REAL] > bincoef(51, 40) = 47626016970, bits: 36, NUM bits: 195, DNM bits: 160
+[COMP] > bincoef(51, 40) = 47626016970
+
+(n, k) = (51, 41)
+[REAL] > bincoef(51, 41) = 12777711870, bits: 34, NUM bits: 199, DNM bits: 165
+[COMP] > bincoef(51, 41) = 12777711870
+
+(n, k) = (51, 42)
+[REAL] > bincoef(51, 42) = 3042312350, bits: 32, NUM bits: 202, DNM bits: 170
+[COMP] > bincoef(51, 42) = 3042312350
+
+(n, k) = (51, 43)
+[REAL] > bincoef(51, 43) = 636763050, bits: 30, NUM bits: 205, DNM bits: 176
+[COMP] > bincoef(51, 43) = 636763050
+
+(n, k) = (51, 44)
+[REAL] > bincoef(51, 44) = 115775100, bits: 27, NUM bits: 208, DNM bits: 181
+[COMP] > bincoef(51, 44) = 115775100
+
+(n, k) = (51, 45)
+[REAL] > bincoef(51, 45) = 18009460, bits: 25, NUM bits: 211, DNM bits: 187
+[COMP] > bincoef(51, 45) = 18009460
+
+(n, k) = (51, 46)
+[REAL] > bincoef(51, 46) = 2349060, bits: 22, NUM bits: 213, DNM bits: 192
+[COMP] > bincoef(51, 46) = 2349060
+
+(n, k) = (51, 47)
+[REAL] > bincoef(51, 47) = 249900, bits: 18, NUM bits: 216, DNM bits: 198
+[COMP] > bincoef(51, 47) = 249900
+
+(n, k) = (51, 48)
+[REAL] > bincoef(51, 48) = 20825, bits: 15, NUM bits: 218, DNM bits: 203
+[COMP] > bincoef(51, 48) = 20825
+
+(n, k) = (51, 49)
+[REAL] > bincoef(51, 49) = 1275, bits: 11, NUM bits: 219, DNM bits: 209
+[COMP] > bincoef(51, 49) = 1275
+
+(n, k) = (51, 50)
+[REAL] > bincoef(51, 50) = 51, bits: 6, NUM bits: 220, DNM bits: 215
+[COMP] > bincoef(51, 50) = 51
+
+(n, k) = (51, 51)
+[REAL] > bincoef(51, 51) = 1, bits: 1, NUM bits: 220, DNM bits: 220
+[COMP] > bincoef(51, 51) = 1
+
+(n, k) = (52, 0)
+[REAL] > bincoef(52, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(52, 0) = 1
+
+(n, k) = (52, 1)
+[REAL] > bincoef(52, 1) = 52, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(52, 1) = 52
+
+(n, k) = (52, 2)
+[REAL] > bincoef(52, 2) = 1326, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(52, 2) = 1326
+
+(n, k) = (52, 3)
+[REAL] > bincoef(52, 3) = 22100, bits: 15, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(52, 3) = 22100
+
+(n, k) = (52, 4)
+[REAL] > bincoef(52, 4) = 270725, bits: 19, NUM bits: 23, DNM bits: 5
+[COMP] > bincoef(52, 4) = 270725
+
+(n, k) = (52, 5)
+[REAL] > bincoef(52, 5) = 2598960, bits: 22, NUM bits: 29, DNM bits: 7
+[COMP] > bincoef(52, 5) = 2598960
+
+(n, k) = (52, 6)
+[REAL] > bincoef(52, 6) = 20358520, bits: 25, NUM bits: 34, DNM bits: 10
+[COMP] > bincoef(52, 6) = 20358520
+
+(n, k) = (52, 7)
+[REAL] > bincoef(52, 7) = 133784560, bits: 27, NUM bits: 40, DNM bits: 13
+[COMP] > bincoef(52, 7) = 133784560
+
+(n, k) = (52, 8)
+[REAL] > bincoef(52, 8) = 752538150, bits: 30, NUM bits: 45, DNM bits: 16
+[COMP] > bincoef(52, 8) = 752538150
+
+(n, k) = (52, 9)
+[REAL] > bincoef(52, 9) = 3679075400, bits: 32, NUM bits: 51, DNM bits: 19
+[COMP] > bincoef(52, 9) = 3679075400
+
+(n, k) = (52, 10)
+[REAL] > bincoef(52, 10) = 15820024220, bits: 34, NUM bits: 56, DNM bits: 22
+[COMP] > bincoef(52, 10) = 15820024220
+
+(n, k) = (52, 11)
+[REAL] > bincoef(52, 11) = 60403728840, bits: 36, NUM bits: 62, DNM bits: 26
+[COMP] > bincoef(52, 11) = 60403728840
+
+(n, k) = (52, 12)
+[REAL] > bincoef(52, 12) = 206379406870, bits: 38, NUM bits: 67, DNM bits: 29
+[COMP] > bincoef(52, 12) = 206379406870
+
+(n, k) = (52, 13)
+[REAL] > bincoef(52, 13) = 635013559600, bits: 40, NUM bits: 72, DNM bits: 33
+[COMP] > bincoef(52, 13) = 635013559600
+
+(n, k) = (52, 14)
+[REAL] > bincoef(52, 14) = 1768966344600, bits: 41, NUM bits: 78, DNM bits: 37
+[COMP] > bincoef(52, 14) = 1768966344600
+
+(n, k) = (52, 15)
+[REAL] > bincoef(52, 15) = 4481381406320, bits: 43, NUM bits: 83, DNM bits: 41
+[COMP] > bincoef(52, 15) = 4481381406320
+
+(n, k) = (52, 16)
+[REAL] > bincoef(52, 16) = 10363194502115, bits: 44, NUM bits: 88, DNM bits: 45
+[COMP] > bincoef(52, 16) = 10363194502115
+
+(n, k) = (52, 17)
+[REAL] > bincoef(52, 17) = 21945588357420, bits: 45, NUM bits: 93, DNM bits: 49
+[COMP] > bincoef(52, 17) = 21945588357420
+
+(n, k) = (52, 18)
+[REAL] > bincoef(52, 18) = 42671977361650, bits: 46, NUM bits: 98, DNM bits: 53
+[COMP] > bincoef(52, 18) = 42671977361650
+
+(n, k) = (52, 19)
+[REAL] > bincoef(52, 19) = 76360380541900, bits: 47, NUM bits: 103, DNM bits: 57
+[COMP] > bincoef(52, 19) = 76360380541900
+
+(n, k) = (52, 20)
+[REAL] > bincoef(52, 20) = 125994627894135, bits: 47, NUM bits: 108, DNM bits: 62
+[COMP] > bincoef(52, 20) = 125994627894135
+
+(n, k) = (52, 21)
+[REAL] > bincoef(52, 21) = 191991813933920, bits: 48, NUM bits: 113, DNM bits: 66
+[COMP] > bincoef(52, 21) = 191991813933920
+
+(n, k) = (52, 22)
+[REAL] > bincoef(52, 22) = 270533919634160, bits: 48, NUM bits: 118, DNM bits: 70
+[COMP] > bincoef(52, 22) = 270533919634160
+
+(n, k) = (52, 23)
+[REAL] > bincoef(52, 23) = 352870329957600, bits: 49, NUM bits: 123, DNM bits: 75
+[COMP] > bincoef(52, 23) = 352870329957600
+
+(n, k) = (52, 24)
+[REAL] > bincoef(52, 24) = 426384982032100, bits: 49, NUM bits: 128, DNM bits: 80
+[COMP] > bincoef(52, 24) = 426384982032100
+
+(n, k) = (52, 25)
+[REAL] > bincoef(52, 25) = 477551179875952, bits: 49, NUM bits: 133, DNM bits: 84
+[COMP] > bincoef(52, 25) = 477551179875952
+
+(n, k) = (52, 26)
+[REAL] > bincoef(52, 26) = 495918532948104, bits: 49, NUM bits: 138, DNM bits: 89
+[COMP] > bincoef(52, 26) = 495918532948104
+
+(n, k) = (52, 27)
+[REAL] > bincoef(52, 27) = 477551179875952, bits: 49, NUM bits: 142, DNM bits: 94
+[COMP] > bincoef(52, 27) = 477551179875952
+
+(n, k) = (52, 28)
+[REAL] > bincoef(52, 28) = 426384982032100, bits: 49, NUM bits: 147, DNM bits: 98
+[COMP] > bincoef(52, 28) = 426384982032100
+
+(n, k) = (52, 29)
+[REAL] > bincoef(52, 29) = 352870329957600, bits: 49, NUM bits: 152, DNM bits: 103
+[COMP] > bincoef(52, 29) = 352870329957600
+
+(n, k) = (52, 30)
+[REAL] > bincoef(52, 30) = 270533919634160, bits: 48, NUM bits: 156, DNM bits: 108
+[COMP] > bincoef(52, 30) = 270533919634160
+
+(n, k) = (52, 31)
+[REAL] > bincoef(52, 31) = 191991813933920, bits: 48, NUM bits: 161, DNM bits: 113
+[COMP] > bincoef(52, 31) = 191991813933920
+
+(n, k) = (52, 32)
+[REAL] > bincoef(52, 32) = 125994627894135, bits: 47, NUM bits: 165, DNM bits: 118
+[COMP] > bincoef(52, 32) = 125994627894135
+
+(n, k) = (52, 33)
+[REAL] > bincoef(52, 33) = 76360380541900, bits: 47, NUM bits: 169, DNM bits: 123
+[COMP] > bincoef(52, 33) = 76360380541900
+
+(n, k) = (52, 34)
+[REAL] > bincoef(52, 34) = 42671977361650, bits: 46, NUM bits: 174, DNM bits: 128
+[COMP] > bincoef(52, 34) = 42671977361650
+
+(n, k) = (52, 35)
+[REAL] > bincoef(52, 35) = 21945588357420, bits: 45, NUM bits: 178, DNM bits: 133
+[COMP] > bincoef(52, 35) = 21945588357420
+
+(n, k) = (52, 36)
+[REAL] > bincoef(52, 36) = 10363194502115, bits: 44, NUM bits: 182, DNM bits: 139
+[COMP] > bincoef(52, 36) = 10363194502115
+
+(n, k) = (52, 37)
+[REAL] > bincoef(52, 37) = 4481381406320, bits: 43, NUM bits: 186, DNM bits: 144
+[COMP] > bincoef(52, 37) = 4481381406320
+
+(n, k) = (52, 38)
+[REAL] > bincoef(52, 38) = 1768966344600, bits: 41, NUM bits: 190, DNM bits: 149
+[COMP] > bincoef(52, 38) = 1768966344600
+
+(n, k) = (52, 39)
+[REAL] > bincoef(52, 39) = 635013559600, bits: 40, NUM bits: 194, DNM bits: 154
+[COMP] > bincoef(52, 39) = 635013559600
+
+(n, k) = (52, 40)
+[REAL] > bincoef(52, 40) = 206379406870, bits: 38, NUM bits: 197, DNM bits: 160
+[COMP] > bincoef(52, 40) = 206379406870
+
+(n, k) = (52, 41)
+[REAL] > bincoef(52, 41) = 60403728840, bits: 36, NUM bits: 201, DNM bits: 165
+[COMP] > bincoef(52, 41) = 60403728840
+
+(n, k) = (52, 42)
+[REAL] > bincoef(52, 42) = 15820024220, bits: 34, NUM bits: 204, DNM bits: 170
+[COMP] > bincoef(52, 42) = 15820024220
+
+(n, k) = (52, 43)
+[REAL] > bincoef(52, 43) = 3679075400, bits: 32, NUM bits: 208, DNM bits: 176
+[COMP] > bincoef(52, 43) = 3679075400
+
+(n, k) = (52, 44)
+[REAL] > bincoef(52, 44) = 752538150, bits: 30, NUM bits: 211, DNM bits: 181
+[COMP] > bincoef(52, 44) = 752538150
+
+(n, k) = (52, 45)
+[REAL] > bincoef(52, 45) = 133784560, bits: 27, NUM bits: 214, DNM bits: 187
+[COMP] > bincoef(52, 45) = 133784560
+
+(n, k) = (52, 46)
+[REAL] > bincoef(52, 46) = 20358520, bits: 25, NUM bits: 217, DNM bits: 192
+[COMP] > bincoef(52, 46) = 20358520
+
+(n, k) = (52, 47)
+[REAL] > bincoef(52, 47) = 2598960, bits: 22, NUM bits: 219, DNM bits: 198
+[COMP] > bincoef(52, 47) = 2598960
+
+(n, k) = (52, 48)
+[REAL] > bincoef(52, 48) = 270725, bits: 19, NUM bits: 221, DNM bits: 203
+[COMP] > bincoef(52, 48) = 270725
+
+(n, k) = (52, 49)
+[REAL] > bincoef(52, 49) = 22100, bits: 15, NUM bits: 223, DNM bits: 209
+[COMP] > bincoef(52, 49) = 22100
+
+(n, k) = (52, 50)
+[REAL] > bincoef(52, 50) = 1326, bits: 11, NUM bits: 225, DNM bits: 215
+[COMP] > bincoef(52, 50) = 1326
+
+(n, k) = (52, 51)
+[REAL] > bincoef(52, 51) = 52, bits: 6, NUM bits: 226, DNM bits: 220
+[COMP] > bincoef(52, 51) = 52
+
+(n, k) = (52, 52)
+[REAL] > bincoef(52, 52) = 1, bits: 1, NUM bits: 226, DNM bits: 226
+[COMP] > bincoef(52, 52) = 1
+
+(n, k) = (53, 0)
+[REAL] > bincoef(53, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(53, 0) = 1
+
+(n, k) = (53, 1)
+[REAL] > bincoef(53, 1) = 53, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(53, 1) = 53
+
+(n, k) = (53, 2)
+[REAL] > bincoef(53, 2) = 1378, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(53, 2) = 1378
+
+(n, k) = (53, 3)
+[REAL] > bincoef(53, 3) = 23426, bits: 15, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(53, 3) = 23426
+
+(n, k) = (53, 4)
+[REAL] > bincoef(53, 4) = 292825, bits: 19, NUM bits: 23, DNM bits: 5
+[COMP] > bincoef(53, 4) = 292825
+
+(n, k) = (53, 5)
+[REAL] > bincoef(53, 5) = 2869685, bits: 22, NUM bits: 29, DNM bits: 7
+[COMP] > bincoef(53, 5) = 2869685
+
+(n, k) = (53, 6)
+[REAL] > bincoef(53, 6) = 22957480, bits: 25, NUM bits: 34, DNM bits: 10
+[COMP] > bincoef(53, 6) = 22957480
+
+(n, k) = (53, 7)
+[REAL] > bincoef(53, 7) = 154143080, bits: 28, NUM bits: 40, DNM bits: 13
+[COMP] > bincoef(53, 7) = 154143080
+
+(n, k) = (53, 8)
+[REAL] > bincoef(53, 8) = 886322710, bits: 30, NUM bits: 46, DNM bits: 16
+[COMP] > bincoef(53, 8) = 886322710
+
+(n, k) = (53, 9)
+[REAL] > bincoef(53, 9) = 4431613550, bits: 33, NUM bits: 51, DNM bits: 19
+[COMP] > bincoef(53, 9) = 4431613550
+
+(n, k) = (53, 10)
+[REAL] > bincoef(53, 10) = 19499099620, bits: 35, NUM bits: 56, DNM bits: 22
+[COMP] > bincoef(53, 10) = 19499099620
+
+(n, k) = (53, 11)
+[REAL] > bincoef(53, 11) = 76223753060, bits: 37, NUM bits: 62, DNM bits: 26
+[COMP] > bincoef(53, 11) = 76223753060
+
+(n, k) = (53, 12)
+[REAL] > bincoef(53, 12) = 266783135710, bits: 38, NUM bits: 67, DNM bits: 29
+[COMP] > bincoef(53, 12) = 266783135710
+
+(n, k) = (53, 13)
+[REAL] > bincoef(53, 13) = 841392966470, bits: 40, NUM bits: 73, DNM bits: 33
+[COMP] > bincoef(53, 13) = 841392966470
+
+(n, k) = (53, 14)
+[REAL] > bincoef(53, 14) = 2403979904200, bits: 42, NUM bits: 78, DNM bits: 37
+[COMP] > bincoef(53, 14) = 2403979904200
+
+(n, k) = (53, 15)
+[REAL] > bincoef(53, 15) = 6250347750920, bits: 43, NUM bits: 83, DNM bits: 41
+[COMP] > bincoef(53, 15) = 6250347750920
+
+(n, k) = (53, 16)
+[REAL] > bincoef(53, 16) = 14844575908435, bits: 44, NUM bits: 89, DNM bits: 45
+[COMP] > bincoef(53, 16) = 14844575908435
+
+(n, k) = (53, 17)
+[REAL] > bincoef(53, 17) = 32308782859535, bits: 45, NUM bits: 94, DNM bits: 49
+[COMP] > bincoef(53, 17) = 32308782859535
+
+(n, k) = (53, 18)
+[REAL] > bincoef(53, 18) = 64617565719070, bits: 46, NUM bits: 99, DNM bits: 53
+[COMP] > bincoef(53, 18) = 64617565719070
+
+(n, k) = (53, 19)
+[REAL] > bincoef(53, 19) = 119032357903550, bits: 47, NUM bits: 104, DNM bits: 57
+[COMP] > bincoef(53, 19) = 119032357903550
+
+(n, k) = (53, 20)
+[REAL] > bincoef(53, 20) = 202355008436035, bits: 48, NUM bits: 109, DNM bits: 62
+[COMP] > bincoef(53, 20) = 202355008436035
+
+(n, k) = (53, 21)
+[REAL] > bincoef(53, 21) = 317986441828055, bits: 49, NUM bits: 114, DNM bits: 66
+[COMP] > bincoef(53, 21) = 317986441828055
+
+(n, k) = (53, 22)
+[REAL] > bincoef(53, 22) = 462525733568080, bits: 49, NUM bits: 119, DNM bits: 70
+[COMP] > bincoef(53, 22) = 462525733568080
+
+(n, k) = (53, 23)
+[REAL] > bincoef(53, 23) = 623404249591760, bits: 50, NUM bits: 124, DNM bits: 75
+[COMP] > bincoef(53, 23) = 623404249591760
+
+(n, k) = (53, 24)
+[REAL] > bincoef(53, 24) = 779255311989700, bits: 50, NUM bits: 129, DNM bits: 80
+[COMP] > bincoef(53, 24) = 779255311989700
+
+(n, k) = (53, 25)
+[REAL] > bincoef(53, 25) = 903936161908052, bits: 50, NUM bits: 134, DNM bits: 84
+[COMP] > bincoef(53, 25) = 903936161908052
+
+(n, k) = (53, 26)
+[REAL] > bincoef(53, 26) = 973469712824056, bits: 50, NUM bits: 139, DNM bits: 89
+[COMP] > bincoef(53, 26) = 973469712824056
+
+(n, k) = (53, 27)
+[REAL] > bincoef(53, 27) = 973469712824056, bits: 50, NUM bits: 143, DNM bits: 94
+[COMP] > bincoef(53, 27) = 973469712824056
+
+(n, k) = (53, 28)
+[REAL] > bincoef(53, 28) = 903936161908052, bits: 50, NUM bits: 148, DNM bits: 98
+[COMP] > bincoef(53, 28) = 903936161908052
+
+(n, k) = (53, 29)
+[REAL] > bincoef(53, 29) = 779255311989700, bits: 50, NUM bits: 153, DNM bits: 103
+[COMP] > bincoef(53, 29) = 779255311989700
+
+(n, k) = (53, 30)
+[REAL] > bincoef(53, 30) = 623404249591760, bits: 50, NUM bits: 157, DNM bits: 108
+[COMP] > bincoef(53, 30) = 623404249591760
+
+(n, k) = (53, 31)
+[REAL] > bincoef(53, 31) = 462525733568080, bits: 49, NUM bits: 162, DNM bits: 113
+[COMP] > bincoef(53, 31) = 462525733568080
+
+(n, k) = (53, 32)
+[REAL] > bincoef(53, 32) = 317986441828055, bits: 49, NUM bits: 166, DNM bits: 118
+[COMP] > bincoef(53, 32) = 317986441828055
+
+(n, k) = (53, 33)
+[REAL] > bincoef(53, 33) = 202355008436035, bits: 48, NUM bits: 171, DNM bits: 123
+[COMP] > bincoef(53, 33) = 202355008436035
+
+(n, k) = (53, 34)
+[REAL] > bincoef(53, 34) = 119032357903550, bits: 47, NUM bits: 175, DNM bits: 128
+[COMP] > bincoef(53, 34) = 119032357903550
+
+(n, k) = (53, 35)
+[REAL] > bincoef(53, 35) = 64617565719070, bits: 46, NUM bits: 179, DNM bits: 133
+[COMP] > bincoef(53, 35) = 64617565719070
+
+(n, k) = (53, 36)
+[REAL] > bincoef(53, 36) = 32308782859535, bits: 45, NUM bits: 183, DNM bits: 139
+[COMP] > bincoef(53, 36) = 32308782859535
+
+(n, k) = (53, 37)
+[REAL] > bincoef(53, 37) = 14844575908435, bits: 44, NUM bits: 188, DNM bits: 144
+[COMP] > bincoef(53, 37) = 14844575908435
+
+(n, k) = (53, 38)
+[REAL] > bincoef(53, 38) = 6250347750920, bits: 43, NUM bits: 192, DNM bits: 149
+[COMP] > bincoef(53, 38) = 6250347750920
+
+(n, k) = (53, 39)
+[REAL] > bincoef(53, 39) = 2403979904200, bits: 42, NUM bits: 195, DNM bits: 154
+[COMP] > bincoef(53, 39) = 2403979904200
+
+(n, k) = (53, 40)
+[REAL] > bincoef(53, 40) = 841392966470, bits: 40, NUM bits: 199, DNM bits: 160
+[COMP] > bincoef(53, 40) = 841392966470
+
+(n, k) = (53, 41)
+[REAL] > bincoef(53, 41) = 266783135710, bits: 38, NUM bits: 203, DNM bits: 165
+[COMP] > bincoef(53, 41) = 266783135710
+
+(n, k) = (53, 42)
+[REAL] > bincoef(53, 42) = 76223753060, bits: 37, NUM bits: 207, DNM bits: 170
+[COMP] > bincoef(53, 42) = 76223753060
+
+(n, k) = (53, 43)
+[REAL] > bincoef(53, 43) = 19499099620, bits: 35, NUM bits: 210, DNM bits: 176
+[COMP] > bincoef(53, 43) = 19499099620
+
+(n, k) = (53, 44)
+[REAL] > bincoef(53, 44) = 4431613550, bits: 33, NUM bits: 213, DNM bits: 181
+[COMP] > bincoef(53, 44) = 4431613550
+
+(n, k) = (53, 45)
+[REAL] > bincoef(53, 45) = 886322710, bits: 30, NUM bits: 217, DNM bits: 187
+[COMP] > bincoef(53, 45) = 886322710
+
+(n, k) = (53, 46)
+[REAL] > bincoef(53, 46) = 154143080, bits: 28, NUM bits: 220, DNM bits: 192
+[COMP] > bincoef(53, 46) = 154143080
+
+(n, k) = (53, 47)
+[REAL] > bincoef(53, 47) = 22957480, bits: 25, NUM bits: 222, DNM bits: 198
+[COMP] > bincoef(53, 47) = 22957480
+
+(n, k) = (53, 48)
+[REAL] > bincoef(53, 48) = 2869685, bits: 22, NUM bits: 225, DNM bits: 203
+[COMP] > bincoef(53, 48) = 2869685
+
+(n, k) = (53, 49)
+[REAL] > bincoef(53, 49) = 292825, bits: 19, NUM bits: 227, DNM bits: 209
+[COMP] > bincoef(53, 49) = 292825
+
+(n, k) = (53, 50)
+[REAL] > bincoef(53, 50) = 23426, bits: 15, NUM bits: 229, DNM bits: 215
+[COMP] > bincoef(53, 50) = 23426
+
+(n, k) = (53, 51)
+[REAL] > bincoef(53, 51) = 1378, bits: 11, NUM bits: 231, DNM bits: 220
+[COMP] > bincoef(53, 51) = 1378
+
+(n, k) = (53, 52)
+[REAL] > bincoef(53, 52) = 53, bits: 6, NUM bits: 232, DNM bits: 226
+[COMP] > bincoef(53, 52) = 53
+
+(n, k) = (53, 53)
+[REAL] > bincoef(53, 53) = 1, bits: 1, NUM bits: 232, DNM bits: 232
+[COMP] > bincoef(53, 53) = 1
+
+(n, k) = (54, 0)
+[REAL] > bincoef(54, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(54, 0) = 1
+
+(n, k) = (54, 1)
+[REAL] > bincoef(54, 1) = 54, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(54, 1) = 54
+
+(n, k) = (54, 2)
+[REAL] > bincoef(54, 2) = 1431, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(54, 2) = 1431
+
+(n, k) = (54, 3)
+[REAL] > bincoef(54, 3) = 24804, bits: 15, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(54, 3) = 24804
+
+(n, k) = (54, 4)
+[REAL] > bincoef(54, 4) = 316251, bits: 19, NUM bits: 23, DNM bits: 5
+[COMP] > bincoef(54, 4) = 316251
+
+(n, k) = (54, 5)
+[REAL] > bincoef(54, 5) = 3162510, bits: 22, NUM bits: 29, DNM bits: 7
+[COMP] > bincoef(54, 5) = 3162510
+
+(n, k) = (54, 6)
+[REAL] > bincoef(54, 6) = 25827165, bits: 25, NUM bits: 35, DNM bits: 10
+[COMP] > bincoef(54, 6) = 25827165
+
+(n, k) = (54, 7)
+[REAL] > bincoef(54, 7) = 177100560, bits: 28, NUM bits: 40, DNM bits: 13
+[COMP] > bincoef(54, 7) = 177100560
+
+(n, k) = (54, 8)
+[REAL] > bincoef(54, 8) = 1040465790, bits: 30, NUM bits: 46, DNM bits: 16
+[COMP] > bincoef(54, 8) = 1040465790
+
+(n, k) = (54, 9)
+[REAL] > bincoef(54, 9) = 5317936260, bits: 33, NUM bits: 51, DNM bits: 19
+[COMP] > bincoef(54, 9) = 5317936260
+
+(n, k) = (54, 10)
+[REAL] > bincoef(54, 10) = 23930713170, bits: 35, NUM bits: 57, DNM bits: 22
+[COMP] > bincoef(54, 10) = 23930713170
+
+(n, k) = (54, 11)
+[REAL] > bincoef(54, 11) = 95722852680, bits: 37, NUM bits: 62, DNM bits: 26
+[COMP] > bincoef(54, 11) = 95722852680
+
+(n, k) = (54, 12)
+[REAL] > bincoef(54, 12) = 343006888770, bits: 39, NUM bits: 68, DNM bits: 29
+[COMP] > bincoef(54, 12) = 343006888770
+
+(n, k) = (54, 13)
+[REAL] > bincoef(54, 13) = 1108176102180, bits: 41, NUM bits: 73, DNM bits: 33
+[COMP] > bincoef(54, 13) = 1108176102180
+
+(n, k) = (54, 14)
+[REAL] > bincoef(54, 14) = 3245372870670, bits: 42, NUM bits: 78, DNM bits: 37
+[COMP] > bincoef(54, 14) = 3245372870670
+
+(n, k) = (54, 15)
+[REAL] > bincoef(54, 15) = 8654327655120, bits: 43, NUM bits: 84, DNM bits: 41
+[COMP] > bincoef(54, 15) = 8654327655120
+
+(n, k) = (54, 16)
+[REAL] > bincoef(54, 16) = 21094923659355, bits: 45, NUM bits: 89, DNM bits: 45
+[COMP] > bincoef(54, 16) = 21094923659355
+
+(n, k) = (54, 17)
+[REAL] > bincoef(54, 17) = 47153358767970, bits: 46, NUM bits: 94, DNM bits: 49
+[COMP] > bincoef(54, 17) = 47153358767970
+
+(n, k) = (54, 18)
+[REAL] > bincoef(54, 18) = 96926348578605, bits: 47, NUM bits: 99, DNM bits: 53
+[COMP] > bincoef(54, 18) = 96926348578605
+
+(n, k) = (54, 19)
+[REAL] > bincoef(54, 19) = 183649923622620, bits: 48, NUM bits: 105, DNM bits: 57
+[COMP] > bincoef(54, 19) = 183649923622620
+
+(n, k) = (54, 20)
+[REAL] > bincoef(54, 20) = 321387366339585, bits: 49, NUM bits: 110, DNM bits: 62
+[COMP] > bincoef(54, 20) = 321387366339585
+
+(n, k) = (54, 21)
+[REAL] > bincoef(54, 21) = 520341450264090, bits: 49, NUM bits: 115, DNM bits: 66
+[COMP] > bincoef(54, 21) = 520341450264090
+
+(n, k) = (54, 22)
+[REAL] > bincoef(54, 22) = 780512175396135, bits: 50, NUM bits: 120, DNM bits: 70
+[COMP] > bincoef(54, 22) = 780512175396135
+
+(n, k) = (54, 23)
+[REAL] > bincoef(54, 23) = 1085929983159840, bits: 50, NUM bits: 125, DNM bits: 75
+[COMP] > bincoef(54, 23) = 1085929983159840
+
+(n, k) = (54, 24)
+[REAL] > bincoef(54, 24) = 1402659561581460, bits: 51, NUM bits: 130, DNM bits: 80
+[COMP] > bincoef(54, 24) = 1402659561581460
+
+(n, k) = (54, 25)
+[REAL] > bincoef(54, 25) = 1683191473897752, bits: 51, NUM bits: 135, DNM bits: 84
+[COMP] > bincoef(54, 25) = 1683191473897752
+
+(n, k) = (54, 26)
+[REAL] > bincoef(54, 26) = 1877405874732108, bits: 51, NUM bits: 140, DNM bits: 89
+[COMP] > bincoef(54, 26) = 1877405874732108
+
+(n, k) = (54, 27)
+[REAL] > bincoef(54, 27) = 1946939425648112, bits: 51, NUM bits: 144, DNM bits: 94
+[COMP] > bincoef(54, 27) = 1946939425648112
+
+(n, k) = (54, 28)
+[REAL] > bincoef(54, 28) = 1877405874732108, bits: 51, NUM bits: 149, DNM bits: 98
+[COMP] > bincoef(54, 28) = 1877405874732108
+
+(n, k) = (54, 29)
+[REAL] > bincoef(54, 29) = 1683191473897752, bits: 51, NUM bits: 154, DNM bits: 103
+[COMP] > bincoef(54, 29) = 1683191473897752
+
+(n, k) = (54, 30)
+[REAL] > bincoef(54, 30) = 1402659561581460, bits: 51, NUM bits: 159, DNM bits: 108
+[COMP] > bincoef(54, 30) = 1402659561581460
+
+(n, k) = (54, 31)
+[REAL] > bincoef(54, 31) = 1085929983159840, bits: 50, NUM bits: 163, DNM bits: 113
+[COMP] > bincoef(54, 31) = 1085929983159840
+
+(n, k) = (54, 32)
+[REAL] > bincoef(54, 32) = 780512175396135, bits: 50, NUM bits: 168, DNM bits: 118
+[COMP] > bincoef(54, 32) = 780512175396135
+
+(n, k) = (54, 33)
+[REAL] > bincoef(54, 33) = 520341450264090, bits: 49, NUM bits: 172, DNM bits: 123
+[COMP] > bincoef(54, 33) = 520341450264090
+
+(n, k) = (54, 34)
+[REAL] > bincoef(54, 34) = 321387366339585, bits: 49, NUM bits: 176, DNM bits: 128
+[COMP] > bincoef(54, 34) = 321387366339585
+
+(n, k) = (54, 35)
+[REAL] > bincoef(54, 35) = 183649923622620, bits: 48, NUM bits: 181, DNM bits: 133
+[COMP] > bincoef(54, 35) = 183649923622620
+
+(n, k) = (54, 36)
+[REAL] > bincoef(54, 36) = 96926348578605, bits: 47, NUM bits: 185, DNM bits: 139
+[COMP] > bincoef(54, 36) = 96926348578605
+
+(n, k) = (54, 37)
+[REAL] > bincoef(54, 37) = 47153358767970, bits: 46, NUM bits: 189, DNM bits: 144
+[COMP] > bincoef(54, 37) = 47153358767970
+
+(n, k) = (54, 38)
+[REAL] > bincoef(54, 38) = 21094923659355, bits: 45, NUM bits: 193, DNM bits: 149
+[COMP] > bincoef(54, 38) = 21094923659355
+
+(n, k) = (54, 39)
+[REAL] > bincoef(54, 39) = 8654327655120, bits: 43, NUM bits: 197, DNM bits: 154
+[COMP] > bincoef(54, 39) = 8654327655120
+
+(n, k) = (54, 40)
+[REAL] > bincoef(54, 40) = 3245372870670, bits: 42, NUM bits: 201, DNM bits: 160
+[COMP] > bincoef(54, 40) = 3245372870670
+
+(n, k) = (54, 41)
+[REAL] > bincoef(54, 41) = 1108176102180, bits: 41, NUM bits: 205, DNM bits: 165
+[COMP] > bincoef(54, 41) = 1108176102180
+
+(n, k) = (54, 42)
+[REAL] > bincoef(54, 42) = 343006888770, bits: 39, NUM bits: 209, DNM bits: 170
+[COMP] > bincoef(54, 42) = 343006888770
+
+(n, k) = (54, 43)
+[REAL] > bincoef(54, 43) = 95722852680, bits: 37, NUM bits: 212, DNM bits: 176
+[COMP] > bincoef(54, 43) = 95722852680
+
+(n, k) = (54, 44)
+[REAL] > bincoef(54, 44) = 23930713170, bits: 35, NUM bits: 216, DNM bits: 181
+[COMP] > bincoef(54, 44) = 23930713170
+
+(n, k) = (54, 45)
+[REAL] > bincoef(54, 45) = 5317936260, bits: 33, NUM bits: 219, DNM bits: 187
+[COMP] > bincoef(54, 45) = 5317936260
+
+(n, k) = (54, 46)
+[REAL] > bincoef(54, 46) = 1040465790, bits: 30, NUM bits: 222, DNM bits: 192
+[COMP] > bincoef(54, 46) = 1040465790
+
+(n, k) = (54, 47)
+[REAL] > bincoef(54, 47) = 177100560, bits: 28, NUM bits: 225, DNM bits: 198
+[COMP] > bincoef(54, 47) = 177100560
+
+(n, k) = (54, 48)
+[REAL] > bincoef(54, 48) = 25827165, bits: 25, NUM bits: 228, DNM bits: 203
+[COMP] > bincoef(54, 48) = 25827165
+
+(n, k) = (54, 49)
+[REAL] > bincoef(54, 49) = 3162510, bits: 22, NUM bits: 231, DNM bits: 209
+[COMP] > bincoef(54, 49) = 3162510
+
+(n, k) = (54, 50)
+[REAL] > bincoef(54, 50) = 316251, bits: 19, NUM bits: 233, DNM bits: 215
+[COMP] > bincoef(54, 50) = 316251
+
+(n, k) = (54, 51)
+[REAL] > bincoef(54, 51) = 24804, bits: 15, NUM bits: 235, DNM bits: 220
+[COMP] > bincoef(54, 51) = 24804
+
+(n, k) = (54, 52)
+[REAL] > bincoef(54, 52) = 1431, bits: 11, NUM bits: 237, DNM bits: 226
+[COMP] > bincoef(54, 52) = 1431
+
+(n, k) = (54, 53)
+[REAL] > bincoef(54, 53) = 54, bits: 6, NUM bits: 238, DNM bits: 232
+[COMP] > bincoef(54, 53) = 54
+
+(n, k) = (54, 54)
+[REAL] > bincoef(54, 54) = 1, bits: 1, NUM bits: 238, DNM bits: 238
+[COMP] > bincoef(54, 54) = 1
+
+(n, k) = (55, 0)
+[REAL] > bincoef(55, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(55, 0) = 1
+
+(n, k) = (55, 1)
+[REAL] > bincoef(55, 1) = 55, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(55, 1) = 55
+
+(n, k) = (55, 2)
+[REAL] > bincoef(55, 2) = 1485, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(55, 2) = 1485
+
+(n, k) = (55, 3)
+[REAL] > bincoef(55, 3) = 26235, bits: 15, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(55, 3) = 26235
+
+(n, k) = (55, 4)
+[REAL] > bincoef(55, 4) = 341055, bits: 19, NUM bits: 23, DNM bits: 5
+[COMP] > bincoef(55, 4) = 341055
+
+(n, k) = (55, 5)
+[REAL] > bincoef(55, 5) = 3478761, bits: 22, NUM bits: 29, DNM bits: 7
+[COMP] > bincoef(55, 5) = 3478761
+
+(n, k) = (55, 6)
+[REAL] > bincoef(55, 6) = 28989675, bits: 25, NUM bits: 35, DNM bits: 10
+[COMP] > bincoef(55, 6) = 28989675
+
+(n, k) = (55, 7)
+[REAL] > bincoef(55, 7) = 202927725, bits: 28, NUM bits: 40, DNM bits: 13
+[COMP] > bincoef(55, 7) = 202927725
+
+(n, k) = (55, 8)
+[REAL] > bincoef(55, 8) = 1217566350, bits: 31, NUM bits: 46, DNM bits: 16
+[COMP] > bincoef(55, 8) = 1217566350
+
+(n, k) = (55, 9)
+[REAL] > bincoef(55, 9) = 6358402050, bits: 33, NUM bits: 52, DNM bits: 19
+[COMP] > bincoef(55, 9) = 6358402050
+
+(n, k) = (55, 10)
+[REAL] > bincoef(55, 10) = 29248649430, bits: 35, NUM bits: 57, DNM bits: 22
+[COMP] > bincoef(55, 10) = 29248649430
+
+(n, k) = (55, 11)
+[REAL] > bincoef(55, 11) = 119653565850, bits: 37, NUM bits: 63, DNM bits: 26
+[COMP] > bincoef(55, 11) = 119653565850
+
+(n, k) = (55, 12)
+[REAL] > bincoef(55, 12) = 438729741450, bits: 39, NUM bits: 68, DNM bits: 29
+[COMP] > bincoef(55, 12) = 438729741450
+
+(n, k) = (55, 13)
+[REAL] > bincoef(55, 13) = 1451182990950, bits: 41, NUM bits: 73, DNM bits: 33
+[COMP] > bincoef(55, 13) = 1451182990950
+
+(n, k) = (55, 14)
+[REAL] > bincoef(55, 14) = 4353548972850, bits: 42, NUM bits: 79, DNM bits: 37
+[COMP] > bincoef(55, 14) = 4353548972850
+
+(n, k) = (55, 15)
+[REAL] > bincoef(55, 15) = 11899700525790, bits: 44, NUM bits: 84, DNM bits: 41
+[COMP] > bincoef(55, 15) = 11899700525790
+
+(n, k) = (55, 16)
+[REAL] > bincoef(55, 16) = 29749251314475, bits: 45, NUM bits: 90, DNM bits: 45
+[COMP] > bincoef(55, 16) = 29749251314475
+
+(n, k) = (55, 17)
+[REAL] > bincoef(55, 17) = 68248282427325, bits: 46, NUM bits: 95, DNM bits: 49
+[COMP] > bincoef(55, 17) = 68248282427325
+
+(n, k) = (55, 18)
+[REAL] > bincoef(55, 18) = 144079707346575, bits: 48, NUM bits: 100, DNM bits: 53
+[COMP] > bincoef(55, 18) = 144079707346575
+
+(n, k) = (55, 19)
+[REAL] > bincoef(55, 19) = 280576272201225, bits: 48, NUM bits: 105, DNM bits: 57
+[COMP] > bincoef(55, 19) = 280576272201225
+
+(n, k) = (55, 20)
+[REAL] > bincoef(55, 20) = 505037289962205, bits: 49, NUM bits: 110, DNM bits: 62
+[COMP] > bincoef(55, 20) = 505037289962205
+
+(n, k) = (55, 21)
+[REAL] > bincoef(55, 21) = 841728816603675, bits: 50, NUM bits: 116, DNM bits: 66
+[COMP] > bincoef(55, 21) = 841728816603675
+
+(n, k) = (55, 22)
+[REAL] > bincoef(55, 22) = 1300853625660225, bits: 51, NUM bits: 121, DNM bits: 70
+[COMP] > bincoef(55, 22) = 1300853625660225
+
+(n, k) = (55, 23)
+[REAL] > bincoef(55, 23) = 1866442158555975, bits: 51, NUM bits: 126, DNM bits: 75
+[COMP] > bincoef(55, 23) = 1866442158555975
+
+(n, k) = (55, 24)
+[REAL] > bincoef(55, 24) = 2488589544741300, bits: 52, NUM bits: 131, DNM bits: 80
+[COMP] > bincoef(55, 24) = 2488589544741300
+
+(n, k) = (55, 25)
+[REAL] > bincoef(55, 25) = 3085851035479212, bits: 52, NUM bits: 136, DNM bits: 84
+[COMP] > bincoef(55, 25) = 3085851035479212
+
+(n, k) = (55, 26)
+[REAL] > bincoef(55, 26) = 3560597348629860, bits: 52, NUM bits: 141, DNM bits: 89
+[COMP] > bincoef(55, 26) = 3560597348629860
+
+(n, k) = (55, 27)
+[REAL] > bincoef(55, 27) = 3824345300380220, bits: 52, NUM bits: 145, DNM bits: 94
+[COMP] > bincoef(55, 27) = 3824345300380220
+
+(n, k) = (55, 28)
+[REAL] > bincoef(55, 28) = 3824345300380220, bits: 52, NUM bits: 150, DNM bits: 98
+[COMP] > bincoef(55, 28) = 3824345300380220
+
+(n, k) = (55, 29)
+[REAL] > bincoef(55, 29) = 3560597348629860, bits: 52, NUM bits: 155, DNM bits: 103
+[COMP] > bincoef(55, 29) = 3560597348629860
+
+(n, k) = (55, 30)
+[REAL] > bincoef(55, 30) = 3085851035479212, bits: 52, NUM bits: 160, DNM bits: 108
+[COMP] > bincoef(55, 30) = 3085851035479212
+
+(n, k) = (55, 31)
+[REAL] > bincoef(55, 31) = 2488589544741300, bits: 52, NUM bits: 164, DNM bits: 113
+[COMP] > bincoef(55, 31) = 2488589544741300
+
+(n, k) = (55, 32)
+[REAL] > bincoef(55, 32) = 1866442158555975, bits: 51, NUM bits: 169, DNM bits: 118
+[COMP] > bincoef(55, 32) = 1866442158555975
+
+(n, k) = (55, 33)
+[REAL] > bincoef(55, 33) = 1300853625660225, bits: 51, NUM bits: 173, DNM bits: 123
+[COMP] > bincoef(55, 33) = 1300853625660225
+
+(n, k) = (55, 34)
+[REAL] > bincoef(55, 34) = 841728816603675, bits: 50, NUM bits: 178, DNM bits: 128
+[COMP] > bincoef(55, 34) = 841728816603675
+
+(n, k) = (55, 35)
+[REAL] > bincoef(55, 35) = 505037289962205, bits: 49, NUM bits: 182, DNM bits: 133
+[COMP] > bincoef(55, 35) = 505037289962205
+
+(n, k) = (55, 36)
+[REAL] > bincoef(55, 36) = 280576272201225, bits: 48, NUM bits: 187, DNM bits: 139
+[COMP] > bincoef(55, 36) = 280576272201225
+
+(n, k) = (55, 37)
+[REAL] > bincoef(55, 37) = 144079707346575, bits: 48, NUM bits: 191, DNM bits: 144
+[COMP] > bincoef(55, 37) = 144079707346575
+
+(n, k) = (55, 38)
+[REAL] > bincoef(55, 38) = 68248282427325, bits: 46, NUM bits: 195, DNM bits: 149
+[COMP] > bincoef(55, 38) = 68248282427325
+
+(n, k) = (55, 39)
+[REAL] > bincoef(55, 39) = 29749251314475, bits: 45, NUM bits: 199, DNM bits: 154
+[COMP] > bincoef(55, 39) = 29749251314475
+
+(n, k) = (55, 40)
+[REAL] > bincoef(55, 40) = 11899700525790, bits: 44, NUM bits: 203, DNM bits: 160
+[COMP] > bincoef(55, 40) = 11899700525790
+
+(n, k) = (55, 41)
+[REAL] > bincoef(55, 41) = 4353548972850, bits: 42, NUM bits: 207, DNM bits: 165
+[COMP] > bincoef(55, 41) = 4353548972850
+
+(n, k) = (55, 42)
+[REAL] > bincoef(55, 42) = 1451182990950, bits: 41, NUM bits: 211, DNM bits: 170
+[COMP] > bincoef(55, 42) = 1451182990950
+
+(n, k) = (55, 43)
+[REAL] > bincoef(55, 43) = 438729741450, bits: 39, NUM bits: 215, DNM bits: 176
+[COMP] > bincoef(55, 43) = 438729741450
+
+(n, k) = (55, 44)
+[REAL] > bincoef(55, 44) = 119653565850, bits: 37, NUM bits: 218, DNM bits: 181
+[COMP] > bincoef(55, 44) = 119653565850
+
+(n, k) = (55, 45)
+[REAL] > bincoef(55, 45) = 29248649430, bits: 35, NUM bits: 222, DNM bits: 187
+[COMP] > bincoef(55, 45) = 29248649430
+
+(n, k) = (55, 46)
+[REAL] > bincoef(55, 46) = 6358402050, bits: 33, NUM bits: 225, DNM bits: 192
+[COMP] > bincoef(55, 46) = 6358402050
+
+(n, k) = (55, 47)
+[REAL] > bincoef(55, 47) = 1217566350, bits: 31, NUM bits: 228, DNM bits: 198
+[COMP] > bincoef(55, 47) = 1217566350
+
+(n, k) = (55, 48)
+[REAL] > bincoef(55, 48) = 202927725, bits: 28, NUM bits: 231, DNM bits: 203
+[COMP] > bincoef(55, 48) = 202927725
+
+(n, k) = (55, 49)
+[REAL] > bincoef(55, 49) = 28989675, bits: 25, NUM bits: 234, DNM bits: 209
+[COMP] > bincoef(55, 49) = 28989675
+
+(n, k) = (55, 50)
+[REAL] > bincoef(55, 50) = 3478761, bits: 22, NUM bits: 236, DNM bits: 215
+[COMP] > bincoef(55, 50) = 3478761
+
+(n, k) = (55, 51)
+[REAL] > bincoef(55, 51) = 341055, bits: 19, NUM bits: 239, DNM bits: 220
+[COMP] > bincoef(55, 51) = 341055
+
+(n, k) = (55, 52)
+[REAL] > bincoef(55, 52) = 26235, bits: 15, NUM bits: 241, DNM bits: 226
+[COMP] > bincoef(55, 52) = 26235
+
+(n, k) = (55, 53)
+[REAL] > bincoef(55, 53) = 1485, bits: 11, NUM bits: 242, DNM bits: 232
+[COMP] > bincoef(55, 53) = 1485
+
+(n, k) = (55, 54)
+[REAL] > bincoef(55, 54) = 55, bits: 6, NUM bits: 243, DNM bits: 238
+[COMP] > bincoef(55, 54) = 55
+
+(n, k) = (55, 55)
+[REAL] > bincoef(55, 55) = 1, bits: 1, NUM bits: 243, DNM bits: 243
+[COMP] > bincoef(55, 55) = 1
+
+(n, k) = (56, 0)
+[REAL] > bincoef(56, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(56, 0) = 1
+
+(n, k) = (56, 1)
+[REAL] > bincoef(56, 1) = 56, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(56, 1) = 56
+
+(n, k) = (56, 2)
+[REAL] > bincoef(56, 2) = 1540, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(56, 2) = 1540
+
+(n, k) = (56, 3)
+[REAL] > bincoef(56, 3) = 27720, bits: 15, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(56, 3) = 27720
+
+(n, k) = (56, 4)
+[REAL] > bincoef(56, 4) = 367290, bits: 19, NUM bits: 24, DNM bits: 5
+[COMP] > bincoef(56, 4) = 367290
+
+(n, k) = (56, 5)
+[REAL] > bincoef(56, 5) = 3819816, bits: 22, NUM bits: 29, DNM bits: 7
+[COMP] > bincoef(56, 5) = 3819816
+
+(n, k) = (56, 6)
+[REAL] > bincoef(56, 6) = 32468436, bits: 25, NUM bits: 35, DNM bits: 10
+[COMP] > bincoef(56, 6) = 32468436
+
+(n, k) = (56, 7)
+[REAL] > bincoef(56, 7) = 231917400, bits: 28, NUM bits: 41, DNM bits: 13
+[COMP] > bincoef(56, 7) = 231917400
+
+(n, k) = (56, 8)
+[REAL] > bincoef(56, 8) = 1420494075, bits: 31, NUM bits: 46, DNM bits: 16
+[COMP] > bincoef(56, 8) = 1420494075
+
+(n, k) = (56, 9)
+[REAL] > bincoef(56, 9) = 7575968400, bits: 33, NUM bits: 52, DNM bits: 19
+[COMP] > bincoef(56, 9) = 7575968400
+
+(n, k) = (56, 10)
+[REAL] > bincoef(56, 10) = 35607051480, bits: 36, NUM bits: 57, DNM bits: 22
+[COMP] > bincoef(56, 10) = 35607051480
+
+(n, k) = (56, 11)
+[REAL] > bincoef(56, 11) = 148902215280, bits: 38, NUM bits: 63, DNM bits: 26
+[COMP] > bincoef(56, 11) = 148902215280
+
+(n, k) = (56, 12)
+[REAL] > bincoef(56, 12) = 558383307300, bits: 40, NUM bits: 68, DNM bits: 29
+[COMP] > bincoef(56, 12) = 558383307300
+
+(n, k) = (56, 13)
+[REAL] > bincoef(56, 13) = 1889912732400, bits: 41, NUM bits: 74, DNM bits: 33
+[COMP] > bincoef(56, 13) = 1889912732400
+
+(n, k) = (56, 14)
+[REAL] > bincoef(56, 14) = 5804731963800, bits: 43, NUM bits: 79, DNM bits: 37
+[COMP] > bincoef(56, 14) = 5804731963800
+
+(n, k) = (56, 15)
+[REAL] > bincoef(56, 15) = 16253249498640, bits: 44, NUM bits: 85, DNM bits: 41
+[COMP] > bincoef(56, 15) = 16253249498640
+
+(n, k) = (56, 16)
+[REAL] > bincoef(56, 16) = 41648951840265, bits: 46, NUM bits: 90, DNM bits: 45
+[COMP] > bincoef(56, 16) = 41648951840265
+
+(n, k) = (56, 17)
+[REAL] > bincoef(56, 17) = 97997533741800, bits: 47, NUM bits: 95, DNM bits: 49
+[COMP] > bincoef(56, 17) = 97997533741800
+
+(n, k) = (56, 18)
+[REAL] > bincoef(56, 18) = 212327989773900, bits: 48, NUM bits: 101, DNM bits: 53
+[COMP] > bincoef(56, 18) = 212327989773900
+
+(n, k) = (56, 19)
+[REAL] > bincoef(56, 19) = 424655979547800, bits: 49, NUM bits: 106, DNM bits: 57
+[COMP] > bincoef(56, 19) = 424655979547800
+
+(n, k) = (56, 20)
+[REAL] > bincoef(56, 20) = 785613562163430, bits: 50, NUM bits: 111, DNM bits: 62
+[COMP] > bincoef(56, 20) = 785613562163430
+
+(n, k) = (56, 21)
+[REAL] > bincoef(56, 21) = 1346766106565880, bits: 51, NUM bits: 116, DNM bits: 66
+[COMP] > bincoef(56, 21) = 1346766106565880
+
+(n, k) = (56, 22)
+[REAL] > bincoef(56, 22) = 2142582442263900, bits: 51, NUM bits: 121, DNM bits: 70
+[COMP] > bincoef(56, 22) = 2142582442263900
+
+(n, k) = (56, 23)
+[REAL] > bincoef(56, 23) = 3167295784216200, bits: 52, NUM bits: 126, DNM bits: 75
+[COMP] > bincoef(56, 23) = 3167295784216200
+
+(n, k) = (56, 24)
+[REAL] > bincoef(56, 24) = 4355031703297275, bits: 52, NUM bits: 131, DNM bits: 80
+[COMP] > bincoef(56, 24) = 4355031703297275
+
+(n, k) = (56, 25)
+[REAL] > bincoef(56, 25) = 5574440580220512, bits: 53, NUM bits: 136, DNM bits: 84
+[COMP] > bincoef(56, 25) = 5574440580220512
+
+(n, k) = (56, 26)
+[REAL] > bincoef(56, 26) = 6646448384109072, bits: 53, NUM bits: 141, DNM bits: 89
+[COMP] > bincoef(56, 26) = 6646448384109072
+
+(n, k) = (56, 27)
+[REAL] > bincoef(56, 27) = 7384942649010080, bits: 53, NUM bits: 146, DNM bits: 94
+[COMP] > bincoef(56, 27) = 7384942649010080
+
+(n, k) = (56, 28)
+[REAL] > bincoef(56, 28) = 7648690600760440, bits: 53, NUM bits: 151, DNM bits: 98
+[COMP] > bincoef(56, 28) = 7648690600760440
+
+(n, k) = (56, 29)
+[REAL] > bincoef(56, 29) = 7384942649010080, bits: 53, NUM bits: 156, DNM bits: 103
+[COMP] > bincoef(56, 29) = 7384942649010080
+
+(n, k) = (56, 30)
+[REAL] > bincoef(56, 30) = 6646448384109072, bits: 53, NUM bits: 161, DNM bits: 108
+[COMP] > bincoef(56, 30) = 6646448384109072
+
+(n, k) = (56, 31)
+[REAL] > bincoef(56, 31) = 5574440580220512, bits: 53, NUM bits: 165, DNM bits: 113
+[COMP] > bincoef(56, 31) = 5574440580220512
+
+(n, k) = (56, 32)
+[REAL] > bincoef(56, 32) = 4355031703297275, bits: 52, NUM bits: 170, DNM bits: 118
+[COMP] > bincoef(56, 32) = 4355031703297275
+
+(n, k) = (56, 33)
+[REAL] > bincoef(56, 33) = 3167295784216200, bits: 52, NUM bits: 175, DNM bits: 123
+[COMP] > bincoef(56, 33) = 3167295784216200
+
+(n, k) = (56, 34)
+[REAL] > bincoef(56, 34) = 2142582442263900, bits: 51, NUM bits: 179, DNM bits: 128
+[COMP] > bincoef(56, 34) = 2142582442263900
+
+(n, k) = (56, 35)
+[REAL] > bincoef(56, 35) = 1346766106565880, bits: 51, NUM bits: 184, DNM bits: 133
+[COMP] > bincoef(56, 35) = 1346766106565880
+
+(n, k) = (56, 36)
+[REAL] > bincoef(56, 36) = 785613562163430, bits: 50, NUM bits: 188, DNM bits: 139
+[COMP] > bincoef(56, 36) = 785613562163430
+
+(n, k) = (56, 37)
+[REAL] > bincoef(56, 37) = 424655979547800, bits: 49, NUM bits: 192, DNM bits: 144
+[COMP] > bincoef(56, 37) = 424655979547800
+
+(n, k) = (56, 38)
+[REAL] > bincoef(56, 38) = 212327989773900, bits: 48, NUM bits: 197, DNM bits: 149
+[COMP] > bincoef(56, 38) = 212327989773900
+
+(n, k) = (56, 39)
+[REAL] > bincoef(56, 39) = 97997533741800, bits: 47, NUM bits: 201, DNM bits: 154
+[COMP] > bincoef(56, 39) = 97997533741800
+
+(n, k) = (56, 40)
+[REAL] > bincoef(56, 40) = 41648951840265, bits: 46, NUM bits: 205, DNM bits: 160
+[COMP] > bincoef(56, 40) = 41648951840265
+
+(n, k) = (56, 41)
+[REAL] > bincoef(56, 41) = 16253249498640, bits: 44, NUM bits: 209, DNM bits: 165
+[COMP] > bincoef(56, 41) = 16253249498640
+
+(n, k) = (56, 42)
+[REAL] > bincoef(56, 42) = 5804731963800, bits: 43, NUM bits: 213, DNM bits: 170
+[COMP] > bincoef(56, 42) = 5804731963800
+
+(n, k) = (56, 43)
+[REAL] > bincoef(56, 43) = 1889912732400, bits: 41, NUM bits: 217, DNM bits: 176
+[COMP] > bincoef(56, 43) = 1889912732400
+
+(n, k) = (56, 44)
+[REAL] > bincoef(56, 44) = 558383307300, bits: 40, NUM bits: 220, DNM bits: 181
+[COMP] > bincoef(56, 44) = 558383307300
+
+(n, k) = (56, 45)
+[REAL] > bincoef(56, 45) = 148902215280, bits: 38, NUM bits: 224, DNM bits: 187
+[COMP] > bincoef(56, 45) = 148902215280
+
+(n, k) = (56, 46)
+[REAL] > bincoef(56, 46) = 35607051480, bits: 36, NUM bits: 227, DNM bits: 192
+[COMP] > bincoef(56, 46) = 35607051480
+
+(n, k) = (56, 47)
+[REAL] > bincoef(56, 47) = 7575968400, bits: 33, NUM bits: 231, DNM bits: 198
+[COMP] > bincoef(56, 47) = 7575968400
+
+(n, k) = (56, 48)
+[REAL] > bincoef(56, 48) = 1420494075, bits: 31, NUM bits: 234, DNM bits: 203
+[COMP] > bincoef(56, 48) = 1420494075
+
+(n, k) = (56, 49)
+[REAL] > bincoef(56, 49) = 231917400, bits: 28, NUM bits: 237, DNM bits: 209
+[COMP] > bincoef(56, 49) = 231917400
+
+(n, k) = (56, 50)
+[REAL] > bincoef(56, 50) = 32468436, bits: 25, NUM bits: 240, DNM bits: 215
+[COMP] > bincoef(56, 50) = 32468436
+
+(n, k) = (56, 51)
+[REAL] > bincoef(56, 51) = 3819816, bits: 22, NUM bits: 242, DNM bits: 220
+[COMP] > bincoef(56, 51) = 3819816
+
+(n, k) = (56, 52)
+[REAL] > bincoef(56, 52) = 367290, bits: 19, NUM bits: 245, DNM bits: 226
+[COMP] > bincoef(56, 52) = 367290
+
+(n, k) = (56, 53)
+[REAL] > bincoef(56, 53) = 27720, bits: 15, NUM bits: 247, DNM bits: 232
+[COMP] > bincoef(56, 53) = 27720
+
+(n, k) = (56, 54)
+[REAL] > bincoef(56, 54) = 1540, bits: 11, NUM bits: 248, DNM bits: 238
+[COMP] > bincoef(56, 54) = 1540
+
+(n, k) = (56, 55)
+[REAL] > bincoef(56, 55) = 56, bits: 6, NUM bits: 249, DNM bits: 243
+[COMP] > bincoef(56, 55) = 56
+
+(n, k) = (56, 56)
+[REAL] > bincoef(56, 56) = 1, bits: 1, NUM bits: 249, DNM bits: 249
+[COMP] > bincoef(56, 56) = 1
+
+(n, k) = (57, 0)
+[REAL] > bincoef(57, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(57, 0) = 1
+
+(n, k) = (57, 1)
+[REAL] > bincoef(57, 1) = 57, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(57, 1) = 57
+
+(n, k) = (57, 2)
+[REAL] > bincoef(57, 2) = 1596, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(57, 2) = 1596
+
+(n, k) = (57, 3)
+[REAL] > bincoef(57, 3) = 29260, bits: 15, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(57, 3) = 29260
+
+(n, k) = (57, 4)
+[REAL] > bincoef(57, 4) = 395010, bits: 19, NUM bits: 24, DNM bits: 5
+[COMP] > bincoef(57, 4) = 395010
+
+(n, k) = (57, 5)
+[REAL] > bincoef(57, 5) = 4187106, bits: 22, NUM bits: 29, DNM bits: 7
+[COMP] > bincoef(57, 5) = 4187106
+
+(n, k) = (57, 6)
+[REAL] > bincoef(57, 6) = 36288252, bits: 26, NUM bits: 35, DNM bits: 10
+[COMP] > bincoef(57, 6) = 36288252
+
+(n, k) = (57, 7)
+[REAL] > bincoef(57, 7) = 264385836, bits: 28, NUM bits: 41, DNM bits: 13
+[COMP] > bincoef(57, 7) = 264385836
+
+(n, k) = (57, 8)
+[REAL] > bincoef(57, 8) = 1652411475, bits: 31, NUM bits: 46, DNM bits: 16
+[COMP] > bincoef(57, 8) = 1652411475
+
+(n, k) = (57, 9)
+[REAL] > bincoef(57, 9) = 8996462475, bits: 34, NUM bits: 52, DNM bits: 19
+[COMP] > bincoef(57, 9) = 8996462475
+
+(n, k) = (57, 10)
+[REAL] > bincoef(57, 10) = 43183019880, bits: 36, NUM bits: 58, DNM bits: 22
+[COMP] > bincoef(57, 10) = 43183019880
+
+(n, k) = (57, 11)
+[REAL] > bincoef(57, 11) = 184509266760, bits: 38, NUM bits: 63, DNM bits: 26
+[COMP] > bincoef(57, 11) = 184509266760
+
+(n, k) = (57, 12)
+[REAL] > bincoef(57, 12) = 707285522580, bits: 40, NUM bits: 69, DNM bits: 29
+[COMP] > bincoef(57, 12) = 707285522580
+
+(n, k) = (57, 13)
+[REAL] > bincoef(57, 13) = 2448296039700, bits: 42, NUM bits: 74, DNM bits: 33
+[COMP] > bincoef(57, 13) = 2448296039700
+
+(n, k) = (57, 14)
+[REAL] > bincoef(57, 14) = 7694644696200, bits: 43, NUM bits: 80, DNM bits: 37
+[COMP] > bincoef(57, 14) = 7694644696200
+
+(n, k) = (57, 15)
+[REAL] > bincoef(57, 15) = 22057981462440, bits: 45, NUM bits: 85, DNM bits: 41
+[COMP] > bincoef(57, 15) = 22057981462440
+
+(n, k) = (57, 16)
+[REAL] > bincoef(57, 16) = 57902201338905, bits: 46, NUM bits: 90, DNM bits: 45
+[COMP] > bincoef(57, 16) = 57902201338905
+
+(n, k) = (57, 17)
+[REAL] > bincoef(57, 17) = 139646485582065, bits: 47, NUM bits: 96, DNM bits: 49
+[COMP] > bincoef(57, 17) = 139646485582065
+
+(n, k) = (57, 18)
+[REAL] > bincoef(57, 18) = 310325523515700, bits: 49, NUM bits: 101, DNM bits: 53
+[COMP] > bincoef(57, 18) = 310325523515700
+
+(n, k) = (57, 19)
+[REAL] > bincoef(57, 19) = 636983969321700, bits: 50, NUM bits: 106, DNM bits: 57
+[COMP] > bincoef(57, 19) = 636983969321700
+
+(n, k) = (57, 20)
+[REAL] > bincoef(57, 20) = 1210269541711230, bits: 51, NUM bits: 112, DNM bits: 62
+[COMP] > bincoef(57, 20) = 1210269541711230
+
+(n, k) = (57, 21)
+[REAL] > bincoef(57, 21) = 2132379668729310, bits: 51, NUM bits: 117, DNM bits: 66
+[COMP] > bincoef(57, 21) = 2132379668729310
+
+(n, k) = (57, 22)
+[REAL] > bincoef(57, 22) = 3489348548829780, bits: 52, NUM bits: 122, DNM bits: 70
+[COMP] > bincoef(57, 22) = 3489348548829780
+
+(n, k) = (57, 23)
+[REAL] > bincoef(57, 23) = 5309878226480100, bits: 53, NUM bits: 127, DNM bits: 75
+[COMP] > bincoef(57, 23) = 5309878226480100
+
+(n, k) = (57, 24)
+[REAL] > bincoef(57, 24) = 7522327487513475, bits: 53, NUM bits: 132, DNM bits: 80
+[COMP] > bincoef(57, 24) = 7522327487513475
+
+(n, k) = (57, 25)
+[REAL] > bincoef(57, 25) = 9929472283517787, bits: 54, NUM bits: 137, DNM bits: 84
+[COMP] > bincoef(57, 25) = 9929472283517787
+
+(n, k) = (57, 26)
+[REAL] > bincoef(57, 26) = 12220888964329584, bits: 54, NUM bits: 142, DNM bits: 89
+[COMP] > bincoef(57, 26) = 12220888964329584
+
+(n, k) = (57, 27)
+[REAL] > bincoef(57, 27) = 14031391033119152, bits: 54, NUM bits: 147, DNM bits: 94
+[COMP] > bincoef(57, 27) = 14031391033119152
+
+(n, k) = (57, 28)
+[REAL] > bincoef(57, 28) = 15033633249770520, bits: 54, NUM bits: 152, DNM bits: 98
+[COMP] > bincoef(57, 28) = 15033633249770520
+
+(n, k) = (57, 29)
+[REAL] > bincoef(57, 29) = 15033633249770520, bits: 54, NUM bits: 157, DNM bits: 103
+[COMP] > bincoef(57, 29) = 15033633249770520
+
+(n, k) = (57, 30)
+[REAL] > bincoef(57, 30) = 14031391033119152, bits: 54, NUM bits: 162, DNM bits: 108
+[COMP] > bincoef(57, 30) = 14031391033119152
+
+(n, k) = (57, 31)
+[REAL] > bincoef(57, 31) = 12220888964329584, bits: 54, NUM bits: 167, DNM bits: 113
+[COMP] > bincoef(57, 31) = 12220888964329584
+
+(n, k) = (57, 32)
+[REAL] > bincoef(57, 32) = 9929472283517787, bits: 54, NUM bits: 171, DNM bits: 118
+[COMP] > bincoef(57, 32) = 9929472283517787
+
+(n, k) = (57, 33)
+[REAL] > bincoef(57, 33) = 7522327487513475, bits: 53, NUM bits: 176, DNM bits: 123
+[COMP] > bincoef(57, 33) = 7522327487513475
+
+(n, k) = (57, 34)
+[REAL] > bincoef(57, 34) = 5309878226480100, bits: 53, NUM bits: 181, DNM bits: 128
+[COMP] > bincoef(57, 34) = 5309878226480100
+
+(n, k) = (57, 35)
+[REAL] > bincoef(57, 35) = 3489348548829780, bits: 52, NUM bits: 185, DNM bits: 133
+[COMP] > bincoef(57, 35) = 3489348548829780
+
+(n, k) = (57, 36)
+[REAL] > bincoef(57, 36) = 2132379668729310, bits: 51, NUM bits: 190, DNM bits: 139
+[COMP] > bincoef(57, 36) = 2132379668729310
+
+(n, k) = (57, 37)
+[REAL] > bincoef(57, 37) = 1210269541711230, bits: 51, NUM bits: 194, DNM bits: 144
+[COMP] > bincoef(57, 37) = 1210269541711230
+
+(n, k) = (57, 38)
+[REAL] > bincoef(57, 38) = 636983969321700, bits: 50, NUM bits: 198, DNM bits: 149
+[COMP] > bincoef(57, 38) = 636983969321700
+
+(n, k) = (57, 39)
+[REAL] > bincoef(57, 39) = 310325523515700, bits: 49, NUM bits: 202, DNM bits: 154
+[COMP] > bincoef(57, 39) = 310325523515700
+
+(n, k) = (57, 40)
+[REAL] > bincoef(57, 40) = 139646485582065, bits: 47, NUM bits: 207, DNM bits: 160
+[COMP] > bincoef(57, 40) = 139646485582065
+
+(n, k) = (57, 41)
+[REAL] > bincoef(57, 41) = 57902201338905, bits: 46, NUM bits: 211, DNM bits: 165
+[COMP] > bincoef(57, 41) = 57902201338905
+
+(n, k) = (57, 42)
+[REAL] > bincoef(57, 42) = 22057981462440, bits: 45, NUM bits: 215, DNM bits: 170
+[COMP] > bincoef(57, 42) = 22057981462440
+
+(n, k) = (57, 43)
+[REAL] > bincoef(57, 43) = 7694644696200, bits: 43, NUM bits: 219, DNM bits: 176
+[COMP] > bincoef(57, 43) = 7694644696200
+
+(n, k) = (57, 44)
+[REAL] > bincoef(57, 44) = 2448296039700, bits: 42, NUM bits: 222, DNM bits: 181
+[COMP] > bincoef(57, 44) = 2448296039700
+
+(n, k) = (57, 45)
+[REAL] > bincoef(57, 45) = 707285522580, bits: 40, NUM bits: 226, DNM bits: 187
+[COMP] > bincoef(57, 45) = 707285522580
+
+(n, k) = (57, 46)
+[REAL] > bincoef(57, 46) = 184509266760, bits: 38, NUM bits: 230, DNM bits: 192
+[COMP] > bincoef(57, 46) = 184509266760
+
+(n, k) = (57, 47)
+[REAL] > bincoef(57, 47) = 43183019880, bits: 36, NUM bits: 233, DNM bits: 198
+[COMP] > bincoef(57, 47) = 43183019880
+
+(n, k) = (57, 48)
+[REAL] > bincoef(57, 48) = 8996462475, bits: 34, NUM bits: 237, DNM bits: 203
+[COMP] > bincoef(57, 48) = 8996462475
+
+(n, k) = (57, 49)
+[REAL] > bincoef(57, 49) = 1652411475, bits: 31, NUM bits: 240, DNM bits: 209
+[COMP] > bincoef(57, 49) = 1652411475
+
+(n, k) = (57, 50)
+[REAL] > bincoef(57, 50) = 264385836, bits: 28, NUM bits: 243, DNM bits: 215
+[COMP] > bincoef(57, 50) = 264385836
+
+(n, k) = (57, 51)
+[REAL] > bincoef(57, 51) = 36288252, bits: 26, NUM bits: 245, DNM bits: 220
+[COMP] > bincoef(57, 51) = 36288252
+
+(n, k) = (57, 52)
+[REAL] > bincoef(57, 52) = 4187106, bits: 22, NUM bits: 248, DNM bits: 226
+[COMP] > bincoef(57, 52) = 4187106
+
+(n, k) = (57, 53)
+[REAL] > bincoef(57, 53) = 395010, bits: 19, NUM bits: 250, DNM bits: 232
+[COMP] > bincoef(57, 53) = 395010
+
+(n, k) = (57, 54)
+[REAL] > bincoef(57, 54) = 29260, bits: 15, NUM bits: 252, DNM bits: 238
+[COMP] > bincoef(57, 54) = 29260
+
+(n, k) = (57, 55)
+[REAL] > bincoef(57, 55) = 1596, bits: 11, NUM bits: 254, DNM bits: 243
+[COMP] > bincoef(57, 55) = 1596
+
+(n, k) = (57, 56)
+[REAL] > bincoef(57, 56) = 57, bits: 6, NUM bits: 255, DNM bits: 249
+[COMP] > bincoef(57, 56) = 57
+
+(n, k) = (57, 57)
+[REAL] > bincoef(57, 57) = 1, bits: 1, NUM bits: 255, DNM bits: 255
+[COMP] > bincoef(57, 57) = 1
+
+(n, k) = (58, 0)
+[REAL] > bincoef(58, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(58, 0) = 1
+
+(n, k) = (58, 1)
+[REAL] > bincoef(58, 1) = 58, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(58, 1) = 58
+
+(n, k) = (58, 2)
+[REAL] > bincoef(58, 2) = 1653, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(58, 2) = 1653
+
+(n, k) = (58, 3)
+[REAL] > bincoef(58, 3) = 30856, bits: 15, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(58, 3) = 30856
+
+(n, k) = (58, 4)
+[REAL] > bincoef(58, 4) = 424270, bits: 19, NUM bits: 24, DNM bits: 5
+[COMP] > bincoef(58, 4) = 424270
+
+(n, k) = (58, 5)
+[REAL] > bincoef(58, 5) = 4582116, bits: 23, NUM bits: 30, DNM bits: 7
+[COMP] > bincoef(58, 5) = 4582116
+
+(n, k) = (58, 6)
+[REAL] > bincoef(58, 6) = 40475358, bits: 26, NUM bits: 35, DNM bits: 10
+[COMP] > bincoef(58, 6) = 40475358
+
+(n, k) = (58, 7)
+[REAL] > bincoef(58, 7) = 300674088, bits: 29, NUM bits: 41, DNM bits: 13
+[COMP] > bincoef(58, 7) = 300674088
+
+(n, k) = (58, 8)
+[REAL] > bincoef(58, 8) = 1916797311, bits: 31, NUM bits: 47, DNM bits: 16
+[COMP] > bincoef(58, 8) = 1916797311
+
+(n, k) = (58, 9)
+[REAL] > bincoef(58, 9) = 10648873950, bits: 34, NUM bits: 52, DNM bits: 19
+[COMP] > bincoef(58, 9) = 10648873950
+
+(n, k) = (58, 10)
+[REAL] > bincoef(58, 10) = 52179482355, bits: 36, NUM bits: 58, DNM bits: 22
+[COMP] > bincoef(58, 10) = 52179482355
+
+(n, k) = (58, 11)
+[REAL] > bincoef(58, 11) = 227692286640, bits: 38, NUM bits: 63, DNM bits: 26
+[COMP] > bincoef(58, 11) = 227692286640
+
+(n, k) = (58, 12)
+[REAL] > bincoef(58, 12) = 891794789340, bits: 40, NUM bits: 69, DNM bits: 29
+[COMP] > bincoef(58, 12) = 891794789340
+
+(n, k) = (58, 13)
+[REAL] > bincoef(58, 13) = 3155581562280, bits: 42, NUM bits: 75, DNM bits: 33
+[COMP] > bincoef(58, 13) = 3155581562280
+
+(n, k) = (58, 14)
+[REAL] > bincoef(58, 14) = 10142940735900, bits: 44, NUM bits: 80, DNM bits: 37
+[COMP] > bincoef(58, 14) = 10142940735900
+
+(n, k) = (58, 15)
+[REAL] > bincoef(58, 15) = 29752626158640, bits: 45, NUM bits: 86, DNM bits: 41
+[COMP] > bincoef(58, 15) = 29752626158640
+
+(n, k) = (58, 16)
+[REAL] > bincoef(58, 16) = 79960182801345, bits: 47, NUM bits: 91, DNM bits: 45
+[COMP] > bincoef(58, 16) = 79960182801345
+
+(n, k) = (58, 17)
+[REAL] > bincoef(58, 17) = 197548686920970, bits: 48, NUM bits: 96, DNM bits: 49
+[COMP] > bincoef(58, 17) = 197548686920970
+
+(n, k) = (58, 18)
+[REAL] > bincoef(58, 18) = 449972009097765, bits: 49, NUM bits: 102, DNM bits: 53
+[COMP] > bincoef(58, 18) = 449972009097765
+
+(n, k) = (58, 19)
+[REAL] > bincoef(58, 19) = 947309492837400, bits: 50, NUM bits: 107, DNM bits: 57
+[COMP] > bincoef(58, 19) = 947309492837400
+
+(n, k) = (58, 20)
+[REAL] > bincoef(58, 20) = 1847253511032930, bits: 51, NUM bits: 112, DNM bits: 62
+[COMP] > bincoef(58, 20) = 1847253511032930
+
+(n, k) = (58, 21)
+[REAL] > bincoef(58, 21) = 3342649210440540, bits: 52, NUM bits: 118, DNM bits: 66
+[COMP] > bincoef(58, 21) = 3342649210440540
+
+(n, k) = (58, 22)
+[REAL] > bincoef(58, 22) = 5621728217559090, bits: 53, NUM bits: 123, DNM bits: 70
+[COMP] > bincoef(58, 22) = 5621728217559090
+
+(n, k) = (58, 23)
+[REAL] > bincoef(58, 23) = 8799226775309880, bits: 53, NUM bits: 128, DNM bits: 75
+[COMP] > bincoef(58, 23) = 8799226775309880
+
+(n, k) = (58, 24)
+[REAL] > bincoef(58, 24) = 12832205713993575, bits: 54, NUM bits: 133, DNM bits: 80
+[COMP] > bincoef(58, 24) = 12832205713993575
+
+(n, k) = (58, 25)
+[REAL] > bincoef(58, 25) = 17451799771031262, bits: 54, NUM bits: 138, DNM bits: 84
+[COMP] > bincoef(58, 25) = 17451799771031262
+
+(n, k) = (58, 26)
+[REAL] > bincoef(58, 26) = 22150361247847371, bits: 55, NUM bits: 143, DNM bits: 89
+[COMP] > bincoef(58, 26) = 22150361247847371
+
+(n, k) = (58, 27)
+[REAL] > bincoef(58, 27) = 26252279997448736, bits: 55, NUM bits: 148, DNM bits: 94
+[COMP] > bincoef(58, 27) = 26252279997448736
+
+(n, k) = (58, 28)
+[REAL] > bincoef(58, 28) = 29065024282889672, bits: 55, NUM bits: 153, DNM bits: 98
+[COMP] > bincoef(58, 28) = 29065024282889672
+
+(n, k) = (58, 29)
+[REAL] > bincoef(58, 29) = 30067266499541040, bits: 55, NUM bits: 158, DNM bits: 103
+[COMP] > bincoef(58, 29) = 30067266499541040
+
+(n, k) = (58, 30)
+[REAL] > bincoef(58, 30) = 29065024282889672, bits: 55, NUM bits: 163, DNM bits: 108
+[COMP] > bincoef(58, 30) = 29065024282889672
+
+(n, k) = (58, 31)
+[REAL] > bincoef(58, 31) = 26252279997448736, bits: 55, NUM bits: 168, DNM bits: 113
+[COMP] > bincoef(58, 31) = 26252279997448736
+
+(n, k) = (58, 32)
+[REAL] > bincoef(58, 32) = 22150361247847371, bits: 55, NUM bits: 172, DNM bits: 118
+[COMP] > bincoef(58, 32) = 22150361247847371
+
+(n, k) = (58, 33)
+[REAL] > bincoef(58, 33) = 17451799771031262, bits: 54, NUM bits: 177, DNM bits: 123
+[COMP] > bincoef(58, 33) = 17451799771031262
+
+(n, k) = (58, 34)
+[REAL] > bincoef(58, 34) = 12832205713993575, bits: 54, NUM bits: 182, DNM bits: 128
+[COMP] > bincoef(58, 34) = 12832205713993575
+
+(n, k) = (58, 35)
+[REAL] > bincoef(58, 35) = 8799226775309880, bits: 53, NUM bits: 186, DNM bits: 133
+[COMP] > bincoef(58, 35) = 8799226775309880
+
+(n, k) = (58, 36)
+[REAL] > bincoef(58, 36) = 5621728217559090, bits: 53, NUM bits: 191, DNM bits: 139
+[COMP] > bincoef(58, 36) = 5621728217559090
+
+(n, k) = (58, 37)
+[REAL] > bincoef(58, 37) = 3342649210440540, bits: 52, NUM bits: 195, DNM bits: 144
+[COMP] > bincoef(58, 37) = 3342649210440540
+
+(n, k) = (58, 38)
+[REAL] > bincoef(58, 38) = 1847253511032930, bits: 51, NUM bits: 200, DNM bits: 149
+[COMP] > bincoef(58, 38) = 1847253511032930
+
+(n, k) = (58, 39)
+[REAL] > bincoef(58, 39) = 947309492837400, bits: 50, NUM bits: 204, DNM bits: 154
+[COMP] > bincoef(58, 39) = 947309492837400
+
+(n, k) = (58, 40)
+[REAL] > bincoef(58, 40) = 449972009097765, bits: 49, NUM bits: 208, DNM bits: 160
+[COMP] > bincoef(58, 40) = 449972009097765
+
+(n, k) = (58, 41)
+[REAL] > bincoef(58, 41) = 197548686920970, bits: 48, NUM bits: 213, DNM bits: 165
+[COMP] > bincoef(58, 41) = 197548686920970
+
+(n, k) = (58, 42)
+[REAL] > bincoef(58, 42) = 79960182801345, bits: 47, NUM bits: 217, DNM bits: 170
+[COMP] > bincoef(58, 42) = 79960182801345
+
+(n, k) = (58, 43)
+[REAL] > bincoef(58, 43) = 29752626158640, bits: 45, NUM bits: 221, DNM bits: 176
+[COMP] > bincoef(58, 43) = 29752626158640
+
+(n, k) = (58, 44)
+[REAL] > bincoef(58, 44) = 10142940735900, bits: 44, NUM bits: 225, DNM bits: 181
+[COMP] > bincoef(58, 44) = 10142940735900
+
+(n, k) = (58, 45)
+[REAL] > bincoef(58, 45) = 3155581562280, bits: 42, NUM bits: 228, DNM bits: 187
+[COMP] > bincoef(58, 45) = 3155581562280
+
+(n, k) = (58, 46)
+[REAL] > bincoef(58, 46) = 891794789340, bits: 40, NUM bits: 232, DNM bits: 192
+[COMP] > bincoef(58, 46) = 891794789340
+
+(n, k) = (58, 47)
+[REAL] > bincoef(58, 47) = 227692286640, bits: 38, NUM bits: 236, DNM bits: 198
+[COMP] > bincoef(58, 47) = 227692286640
+
+(n, k) = (58, 48)
+[REAL] > bincoef(58, 48) = 52179482355, bits: 36, NUM bits: 239, DNM bits: 203
+[COMP] > bincoef(58, 48) = 52179482355
+
+(n, k) = (58, 49)
+[REAL] > bincoef(58, 49) = 10648873950, bits: 34, NUM bits: 242, DNM bits: 209
+[COMP] > bincoef(58, 49) = 10648873950
+
+(n, k) = (58, 50)
+[REAL] > bincoef(58, 50) = 1916797311, bits: 31, NUM bits: 246, DNM bits: 215
+[COMP] > bincoef(58, 50) = 1916797311
+
+(n, k) = (58, 51)
+[REAL] > bincoef(58, 51) = 300674088, bits: 29, NUM bits: 249, DNM bits: 220
+[COMP] > bincoef(58, 51) = 300674088
+
+(n, k) = (58, 52)
+[REAL] > bincoef(58, 52) = 40475358, bits: 26, NUM bits: 251, DNM bits: 226
+[COMP] > bincoef(58, 52) = 40475358
+
+(n, k) = (58, 53)
+[REAL] > bincoef(58, 53) = 4582116, bits: 23, NUM bits: 254, DNM bits: 232
+[COMP] > bincoef(58, 53) = 4582116
+
+(n, k) = (58, 54)
+[REAL] > bincoef(58, 54) = 424270, bits: 19, NUM bits: 256, DNM bits: 238
+[COMP] > bincoef(58, 54) = 424270
+
+(n, k) = (58, 55)
+[REAL] > bincoef(58, 55) = 30856, bits: 15, NUM bits: 258, DNM bits: 243
+[COMP] > bincoef(58, 55) = 30856
+
+(n, k) = (58, 56)
+[REAL] > bincoef(58, 56) = 1653, bits: 11, NUM bits: 260, DNM bits: 249
+[COMP] > bincoef(58, 56) = 1653
+
+(n, k) = (58, 57)
+[REAL] > bincoef(58, 57) = 58, bits: 6, NUM bits: 261, DNM bits: 255
+[COMP] > bincoef(58, 57) = 58
+
+(n, k) = (58, 58)
+[REAL] > bincoef(58, 58) = 1, bits: 1, NUM bits: 261, DNM bits: 261
+[COMP] > bincoef(58, 58) = 1
+
+(n, k) = (59, 0)
+[REAL] > bincoef(59, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(59, 0) = 1
+
+(n, k) = (59, 1)
+[REAL] > bincoef(59, 1) = 59, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(59, 1) = 59
+
+(n, k) = (59, 2)
+[REAL] > bincoef(59, 2) = 1711, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(59, 2) = 1711
+
+(n, k) = (59, 3)
+[REAL] > bincoef(59, 3) = 32509, bits: 15, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(59, 3) = 32509
+
+(n, k) = (59, 4)
+[REAL] > bincoef(59, 4) = 455126, bits: 19, NUM bits: 24, DNM bits: 5
+[COMP] > bincoef(59, 4) = 455126
+
+(n, k) = (59, 5)
+[REAL] > bincoef(59, 5) = 5006386, bits: 23, NUM bits: 30, DNM bits: 7
+[COMP] > bincoef(59, 5) = 5006386
+
+(n, k) = (59, 6)
+[REAL] > bincoef(59, 6) = 45057474, bits: 26, NUM bits: 35, DNM bits: 10
+[COMP] > bincoef(59, 6) = 45057474
+
+(n, k) = (59, 7)
+[REAL] > bincoef(59, 7) = 341149446, bits: 29, NUM bits: 41, DNM bits: 13
+[COMP] > bincoef(59, 7) = 341149446
+
+(n, k) = (59, 8)
+[REAL] > bincoef(59, 8) = 2217471399, bits: 32, NUM bits: 47, DNM bits: 16
+[COMP] > bincoef(59, 8) = 2217471399
+
+(n, k) = (59, 9)
+[REAL] > bincoef(59, 9) = 12565671261, bits: 34, NUM bits: 53, DNM bits: 19
+[COMP] > bincoef(59, 9) = 12565671261
+
+(n, k) = (59, 10)
+[REAL] > bincoef(59, 10) = 62828356305, bits: 36, NUM bits: 58, DNM bits: 22
+[COMP] > bincoef(59, 10) = 62828356305
+
+(n, k) = (59, 11)
+[REAL] > bincoef(59, 11) = 279871768995, bits: 39, NUM bits: 64, DNM bits: 26
+[COMP] > bincoef(59, 11) = 279871768995
+
+(n, k) = (59, 12)
+[REAL] > bincoef(59, 12) = 1119487075980, bits: 41, NUM bits: 69, DNM bits: 29
+[COMP] > bincoef(59, 12) = 1119487075980
+
+(n, k) = (59, 13)
+[REAL] > bincoef(59, 13) = 4047376351620, bits: 42, NUM bits: 75, DNM bits: 33
+[COMP] > bincoef(59, 13) = 4047376351620
+
+(n, k) = (59, 14)
+[REAL] > bincoef(59, 14) = 13298522298180, bits: 44, NUM bits: 80, DNM bits: 37
+[COMP] > bincoef(59, 14) = 13298522298180
+
+(n, k) = (59, 15)
+[REAL] > bincoef(59, 15) = 39895566894540, bits: 46, NUM bits: 86, DNM bits: 41
+[COMP] > bincoef(59, 15) = 39895566894540
+
+(n, k) = (59, 16)
+[REAL] > bincoef(59, 16) = 109712808959985, bits: 47, NUM bits: 91, DNM bits: 45
+[COMP] > bincoef(59, 16) = 109712808959985
+
+(n, k) = (59, 17)
+[REAL] > bincoef(59, 17) = 277508869722315, bits: 48, NUM bits: 97, DNM bits: 49
+[COMP] > bincoef(59, 17) = 277508869722315
+
+(n, k) = (59, 18)
+[REAL] > bincoef(59, 18) = 647520696018735, bits: 50, NUM bits: 102, DNM bits: 53
+[COMP] > bincoef(59, 18) = 647520696018735
+
+(n, k) = (59, 19)
+[REAL] > bincoef(59, 19) = 1397281501935165, bits: 51, NUM bits: 108, DNM bits: 57
+[COMP] > bincoef(59, 19) = 1397281501935165
+
+(n, k) = (59, 20)
+[REAL] > bincoef(59, 20) = 2794563003870330, bits: 52, NUM bits: 113, DNM bits: 62
+[COMP] > bincoef(59, 20) = 2794563003870330
+
+(n, k) = (59, 21)
+[REAL] > bincoef(59, 21) = 5189902721473470, bits: 53, NUM bits: 118, DNM bits: 66
+[COMP] > bincoef(59, 21) = 5189902721473470
+
+(n, k) = (59, 22)
+[REAL] > bincoef(59, 22) = 8964377427999630, bits: 53, NUM bits: 123, DNM bits: 70
+[COMP] > bincoef(59, 22) = 8964377427999630
+
+(n, k) = (59, 23)
+[REAL] > bincoef(59, 23) = 14420954992868970, bits: 54, NUM bits: 129, DNM bits: 75
+[COMP] > bincoef(59, 23) = 14420954992868970
+
+(n, k) = (59, 24)
+[REAL] > bincoef(59, 24) = 21631432489303455, bits: 55, NUM bits: 134, DNM bits: 80
+[COMP] > bincoef(59, 24) = 21631432489303455
+
+(n, k) = (59, 25)
+[REAL] > bincoef(59, 25) = 30284005485024837, bits: 55, NUM bits: 139, DNM bits: 84
+[COMP] > bincoef(59, 25) = 30284005485024837
+
+(n, k) = (59, 26)
+[REAL] > bincoef(59, 26) = 39602161018878633, bits: 56, NUM bits: 144, DNM bits: 89
+[COMP] > bincoef(59, 26) = 39602161018878633
+
+(n, k) = (59, 27)
+[REAL] > bincoef(59, 27) = 48402641245296107, bits: 56, NUM bits: 149, DNM bits: 94
+[COMP] > bincoef(59, 27) = 48402641245296107
+
+(n, k) = (59, 28)
+[REAL] > bincoef(59, 28) = 55317304280338408, bits: 56, NUM bits: 154, DNM bits: 98
+[COMP] > bincoef(59, 28) = 55317304280338408
+
+(n, k) = (59, 29)
+[REAL] > bincoef(59, 29) = 59132290782430712, bits: 56, NUM bits: 159, DNM bits: 103
+[COMP] > bincoef(59, 29) = 59132290782430712
+
+(n, k) = (59, 30)
+[REAL] > bincoef(59, 30) = 59132290782430712, bits: 56, NUM bits: 164, DNM bits: 108
+[COMP] > bincoef(59, 30) = 59132290782430712
+
+(n, k) = (59, 31)
+[REAL] > bincoef(59, 31) = 55317304280338408, bits: 56, NUM bits: 169, DNM bits: 113
+[COMP] > bincoef(59, 31) = 55317304280338408
+
+(n, k) = (59, 32)
+[REAL] > bincoef(59, 32) = 48402641245296107, bits: 56, NUM bits: 174, DNM bits: 118
+[COMP] > bincoef(59, 32) = 48402641245296107
+
+(n, k) = (59, 33)
+[REAL] > bincoef(59, 33) = 39602161018878633, bits: 56, NUM bits: 178, DNM bits: 123
+[COMP] > bincoef(59, 33) = 39602161018878633
+
+(n, k) = (59, 34)
+[REAL] > bincoef(59, 34) = 30284005485024837, bits: 55, NUM bits: 183, DNM bits: 128
+[COMP] > bincoef(59, 34) = 30284005485024837
+
+(n, k) = (59, 35)
+[REAL] > bincoef(59, 35) = 21631432489303455, bits: 55, NUM bits: 188, DNM bits: 133
+[COMP] > bincoef(59, 35) = 21631432489303455
+
+(n, k) = (59, 36)
+[REAL] > bincoef(59, 36) = 14420954992868970, bits: 54, NUM bits: 192, DNM bits: 139
+[COMP] > bincoef(59, 36) = 14420954992868970
+
+(n, k) = (59, 37)
+[REAL] > bincoef(59, 37) = 8964377427999630, bits: 53, NUM bits: 197, DNM bits: 144
+[COMP] > bincoef(59, 37) = 8964377427999630
+
+(n, k) = (59, 38)
+[REAL] > bincoef(59, 38) = 5189902721473470, bits: 53, NUM bits: 201, DNM bits: 149
+[COMP] > bincoef(59, 38) = 5189902721473470
+
+(n, k) = (59, 39)
+[REAL] > bincoef(59, 39) = 2794563003870330, bits: 52, NUM bits: 206, DNM bits: 154
+[COMP] > bincoef(59, 39) = 2794563003870330
+
+(n, k) = (59, 40)
+[REAL] > bincoef(59, 40) = 1397281501935165, bits: 51, NUM bits: 210, DNM bits: 160
+[COMP] > bincoef(59, 40) = 1397281501935165
+
+(n, k) = (59, 41)
+[REAL] > bincoef(59, 41) = 647520696018735, bits: 50, NUM bits: 214, DNM bits: 165
+[COMP] > bincoef(59, 41) = 647520696018735
+
+(n, k) = (59, 42)
+[REAL] > bincoef(59, 42) = 277508869722315, bits: 48, NUM bits: 218, DNM bits: 170
+[COMP] > bincoef(59, 42) = 277508869722315
+
+(n, k) = (59, 43)
+[REAL] > bincoef(59, 43) = 109712808959985, bits: 47, NUM bits: 222, DNM bits: 176
+[COMP] > bincoef(59, 43) = 109712808959985
+
+(n, k) = (59, 44)
+[REAL] > bincoef(59, 44) = 39895566894540, bits: 46, NUM bits: 226, DNM bits: 181
+[COMP] > bincoef(59, 44) = 39895566894540
+
+(n, k) = (59, 45)
+[REAL] > bincoef(59, 45) = 13298522298180, bits: 44, NUM bits: 230, DNM bits: 187
+[COMP] > bincoef(59, 45) = 13298522298180
+
+(n, k) = (59, 46)
+[REAL] > bincoef(59, 46) = 4047376351620, bits: 42, NUM bits: 234, DNM bits: 192
+[COMP] > bincoef(59, 46) = 4047376351620
+
+(n, k) = (59, 47)
+[REAL] > bincoef(59, 47) = 1119487075980, bits: 41, NUM bits: 238, DNM bits: 198
+[COMP] > bincoef(59, 47) = 1119487075980
+
+(n, k) = (59, 48)
+[REAL] > bincoef(59, 48) = 279871768995, bits: 39, NUM bits: 241, DNM bits: 203
+[COMP] > bincoef(59, 48) = 279871768995
+
+(n, k) = (59, 49)
+[REAL] > bincoef(59, 49) = 62828356305, bits: 36, NUM bits: 245, DNM bits: 209
+[COMP] > bincoef(59, 49) = 62828356305
+
+(n, k) = (59, 50)
+[REAL] > bincoef(59, 50) = 12565671261, bits: 34, NUM bits: 248, DNM bits: 215
+[COMP] > bincoef(59, 50) = 12565671261
+
+(n, k) = (59, 51)
+[REAL] > bincoef(59, 51) = 2217471399, bits: 32, NUM bits: 251, DNM bits: 220
+[COMP] > bincoef(59, 51) = 2217471399
+
+(n, k) = (59, 52)
+[REAL] > bincoef(59, 52) = 341149446, bits: 29, NUM bits: 254, DNM bits: 226
+[COMP] > bincoef(59, 52) = 341149446
+
+(n, k) = (59, 53)
+[REAL] > bincoef(59, 53) = 45057474, bits: 26, NUM bits: 257, DNM bits: 232
+[COMP] > bincoef(59, 53) = 45057474
+
+(n, k) = (59, 54)
+[REAL] > bincoef(59, 54) = 5006386, bits: 23, NUM bits: 260, DNM bits: 238
+[COMP] > bincoef(59, 54) = 5006386
+
+(n, k) = (59, 55)
+[REAL] > bincoef(59, 55) = 455126, bits: 19, NUM bits: 262, DNM bits: 243
+[COMP] > bincoef(59, 55) = 455126
+
+(n, k) = (59, 56)
+[REAL] > bincoef(59, 56) = 32509, bits: 15, NUM bits: 264, DNM bits: 249
+[COMP] > bincoef(59, 56) = 32509
+
+(n, k) = (59, 57)
+[REAL] > bincoef(59, 57) = 1711, bits: 11, NUM bits: 266, DNM bits: 255
+[COMP] > bincoef(59, 57) = 1711
+
+(n, k) = (59, 58)
+[REAL] > bincoef(59, 58) = 59, bits: 6, NUM bits: 267, DNM bits: 261
+[COMP] > bincoef(59, 58) = 59
+
+(n, k) = (59, 59)
+[REAL] > bincoef(59, 59) = 1, bits: 1, NUM bits: 267, DNM bits: 267
+[COMP] > bincoef(59, 59) = 1
+
+(n, k) = (60, 0)
+[REAL] > bincoef(60, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(60, 0) = 1
+
+(n, k) = (60, 1)
+[REAL] > bincoef(60, 1) = 60, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(60, 1) = 60
+
+(n, k) = (60, 2)
+[REAL] > bincoef(60, 2) = 1770, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(60, 2) = 1770
+
+(n, k) = (60, 3)
+[REAL] > bincoef(60, 3) = 34220, bits: 16, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(60, 3) = 34220
+
+(n, k) = (60, 4)
+[REAL] > bincoef(60, 4) = 487635, bits: 19, NUM bits: 24, DNM bits: 5
+[COMP] > bincoef(60, 4) = 487635
+
+(n, k) = (60, 5)
+[REAL] > bincoef(60, 5) = 5461512, bits: 23, NUM bits: 30, DNM bits: 7
+[COMP] > bincoef(60, 5) = 5461512
+
+(n, k) = (60, 6)
+[REAL] > bincoef(60, 6) = 50063860, bits: 26, NUM bits: 36, DNM bits: 10
+[COMP] > bincoef(60, 6) = 50063860
+
+(n, k) = (60, 7)
+[REAL] > bincoef(60, 7) = 386206920, bits: 29, NUM bits: 41, DNM bits: 13
+[COMP] > bincoef(60, 7) = 386206920
+
+(n, k) = (60, 8)
+[REAL] > bincoef(60, 8) = 2558620845, bits: 32, NUM bits: 47, DNM bits: 16
+[COMP] > bincoef(60, 8) = 2558620845
+
+(n, k) = (60, 9)
+[REAL] > bincoef(60, 9) = 14783142660, bits: 34, NUM bits: 53, DNM bits: 19
+[COMP] > bincoef(60, 9) = 14783142660
+
+(n, k) = (60, 10)
+[REAL] > bincoef(60, 10) = 75394027566, bits: 37, NUM bits: 58, DNM bits: 22
+[COMP] > bincoef(60, 10) = 75394027566
+
+(n, k) = (60, 11)
+[REAL] > bincoef(60, 11) = 342700125300, bits: 39, NUM bits: 64, DNM bits: 26
+[COMP] > bincoef(60, 11) = 342700125300
+
+(n, k) = (60, 12)
+[REAL] > bincoef(60, 12) = 1399358844975, bits: 41, NUM bits: 70, DNM bits: 29
+[COMP] > bincoef(60, 12) = 1399358844975
+
+(n, k) = (60, 13)
+[REAL] > bincoef(60, 13) = 5166863427600, bits: 43, NUM bits: 75, DNM bits: 33
+[COMP] > bincoef(60, 13) = 5166863427600
+
+(n, k) = (60, 14)
+[REAL] > bincoef(60, 14) = 17345898649800, bits: 44, NUM bits: 81, DNM bits: 37
+[COMP] > bincoef(60, 14) = 17345898649800
+
+(n, k) = (60, 15)
+[REAL] > bincoef(60, 15) = 53194089192720, bits: 46, NUM bits: 86, DNM bits: 41
+[COMP] > bincoef(60, 15) = 53194089192720
+
+(n, k) = (60, 16)
+[REAL] > bincoef(60, 16) = 149608375854525, bits: 48, NUM bits: 92, DNM bits: 45
+[COMP] > bincoef(60, 16) = 149608375854525
+
+(n, k) = (60, 17)
+[REAL] > bincoef(60, 17) = 387221678682300, bits: 49, NUM bits: 97, DNM bits: 49
+[COMP] > bincoef(60, 17) = 387221678682300
+
+(n, k) = (60, 18)
+[REAL] > bincoef(60, 18) = 925029565741050, bits: 50, NUM bits: 103, DNM bits: 53
+[COMP] > bincoef(60, 18) = 925029565741050
+
+(n, k) = (60, 19)
+[REAL] > bincoef(60, 19) = 2044802197953900, bits: 51, NUM bits: 108, DNM bits: 57
+[COMP] > bincoef(60, 19) = 2044802197953900
+
+(n, k) = (60, 20)
+[REAL] > bincoef(60, 20) = 4191844505805495, bits: 52, NUM bits: 113, DNM bits: 62
+[COMP] > bincoef(60, 20) = 4191844505805495
+
+(n, k) = (60, 21)
+[REAL] > bincoef(60, 21) = 7984465725343800, bits: 53, NUM bits: 119, DNM bits: 66
+[COMP] > bincoef(60, 21) = 7984465725343800
+
+(n, k) = (60, 22)
+[REAL] > bincoef(60, 22) = 14154280149473100, bits: 54, NUM bits: 124, DNM bits: 70
+[COMP] > bincoef(60, 22) = 14154280149473100
+
+(n, k) = (60, 23)
+[REAL] > bincoef(60, 23) = 23385332420868600, bits: 55, NUM bits: 129, DNM bits: 75
+[COMP] > bincoef(60, 23) = 23385332420868600
+
+(n, k) = (60, 24)
+[REAL] > bincoef(60, 24) = 36052387482172425, bits: 56, NUM bits: 135, DNM bits: 80
+[COMP] > bincoef(60, 24) = 36052387482172425
+
+(n, k) = (60, 25)
+[REAL] > bincoef(60, 25) = 51915437974328292, bits: 56, NUM bits: 140, DNM bits: 84
+[COMP] > bincoef(60, 25) = 51915437974328292
+
+(n, k) = (60, 26)
+[REAL] > bincoef(60, 26) = 69886166503903470, bits: 56, NUM bits: 145, DNM bits: 89
+[COMP] > bincoef(60, 26) = 69886166503903470
+
+(n, k) = (60, 27)
+[REAL] > bincoef(60, 27) = 88004802264174740, bits: 57, NUM bits: 150, DNM bits: 94
+[COMP] > bincoef(60, 27) = 88004802264174740
+
+(n, k) = (60, 28)
+[REAL] > bincoef(60, 28) = 103719945525634515, bits: 57, NUM bits: 155, DNM bits: 98
+[COMP] > bincoef(60, 28) = 103719945525634515
+
+(n, k) = (60, 29)
+[REAL] > bincoef(60, 29) = 114449595062769120, bits: 57, NUM bits: 160, DNM bits: 103
+[COMP] > bincoef(60, 29) = 114449595062769120
+
+(n, k) = (60, 30)
+[REAL] > bincoef(60, 30) = 118264581564861424, bits: 57, NUM bits: 165, DNM bits: 108
+[COMP] > bincoef(60, 30) = 118264581564861424
+
+(n, k) = (60, 31)
+[REAL] > bincoef(60, 31) = 114449595062769120, bits: 57, NUM bits: 170, DNM bits: 113
+[COMP] > bincoef(60, 31) = 114449595062769120
+
+(n, k) = (60, 32)
+[REAL] > bincoef(60, 32) = 103719945525634515, bits: 57, NUM bits: 175, DNM bits: 118
+[COMP] > bincoef(60, 32) = 103719945525634515
+
+(n, k) = (60, 33)
+[REAL] > bincoef(60, 33) = 88004802264174740, bits: 57, NUM bits: 179, DNM bits: 123
+[COMP] > bincoef(60, 33) = 88004802264174740
+
+(n, k) = (60, 34)
+[REAL] > bincoef(60, 34) = 69886166503903470, bits: 56, NUM bits: 184, DNM bits: 128
+[COMP] > bincoef(60, 34) = 69886166503903470
+
+(n, k) = (60, 35)
+[REAL] > bincoef(60, 35) = 51915437974328292, bits: 56, NUM bits: 189, DNM bits: 133
+[COMP] > bincoef(60, 35) = 51915437974328292
+
+(n, k) = (60, 36)
+[REAL] > bincoef(60, 36) = 36052387482172425, bits: 56, NUM bits: 194, DNM bits: 139
+[COMP] > bincoef(60, 36) = 36052387482172425
+
+(n, k) = (60, 37)
+[REAL] > bincoef(60, 37) = 23385332420868600, bits: 55, NUM bits: 198, DNM bits: 144
+[COMP] > bincoef(60, 37) = 23385332420868600
+
+(n, k) = (60, 38)
+[REAL] > bincoef(60, 38) = 14154280149473100, bits: 54, NUM bits: 203, DNM bits: 149
+[COMP] > bincoef(60, 38) = 14154280149473100
+
+(n, k) = (60, 39)
+[REAL] > bincoef(60, 39) = 7984465725343800, bits: 53, NUM bits: 207, DNM bits: 154
+[COMP] > bincoef(60, 39) = 7984465725343800
+
+(n, k) = (60, 40)
+[REAL] > bincoef(60, 40) = 4191844505805495, bits: 52, NUM bits: 212, DNM bits: 160
+[COMP] > bincoef(60, 40) = 4191844505805495
+
+(n, k) = (60, 41)
+[REAL] > bincoef(60, 41) = 2044802197953900, bits: 51, NUM bits: 216, DNM bits: 165
+[COMP] > bincoef(60, 41) = 2044802197953900
+
+(n, k) = (60, 42)
+[REAL] > bincoef(60, 42) = 925029565741050, bits: 50, NUM bits: 220, DNM bits: 170
+[COMP] > bincoef(60, 42) = 925029565741050
+
+(n, k) = (60, 43)
+[REAL] > bincoef(60, 43) = 387221678682300, bits: 49, NUM bits: 224, DNM bits: 176
+[COMP] > bincoef(60, 43) = 387221678682300
+
+(n, k) = (60, 44)
+[REAL] > bincoef(60, 44) = 149608375854525, bits: 48, NUM bits: 228, DNM bits: 181
+[COMP] > bincoef(60, 44) = 149608375854525
+
+(n, k) = (60, 45)
+[REAL] > bincoef(60, 45) = 53194089192720, bits: 46, NUM bits: 232, DNM bits: 187
+[COMP] > bincoef(60, 45) = 53194089192720
+
+(n, k) = (60, 46)
+[REAL] > bincoef(60, 46) = 17345898649800, bits: 44, NUM bits: 236, DNM bits: 192
+[COMP] > bincoef(60, 46) = 17345898649800
+
+(n, k) = (60, 47)
+[REAL] > bincoef(60, 47) = 5166863427600, bits: 43, NUM bits: 240, DNM bits: 198
+[COMP] > bincoef(60, 47) = 5166863427600
+
+(n, k) = (60, 48)
+[REAL] > bincoef(60, 48) = 1399358844975, bits: 41, NUM bits: 244, DNM bits: 203
+[COMP] > bincoef(60, 48) = 1399358844975
+
+(n, k) = (60, 49)
+[REAL] > bincoef(60, 49) = 342700125300, bits: 39, NUM bits: 247, DNM bits: 209
+[COMP] > bincoef(60, 49) = 342700125300
+
+(n, k) = (60, 50)
+[REAL] > bincoef(60, 50) = 75394027566, bits: 37, NUM bits: 251, DNM bits: 215
+[COMP] > bincoef(60, 50) = 75394027566
+
+(n, k) = (60, 51)
+[REAL] > bincoef(60, 51) = 14783142660, bits: 34, NUM bits: 254, DNM bits: 220
+[COMP] > bincoef(60, 51) = 14783142660
+
+(n, k) = (60, 52)
+[REAL] > bincoef(60, 52) = 2558620845, bits: 32, NUM bits: 257, DNM bits: 226
+[COMP] > bincoef(60, 52) = 2558620845
+
+(n, k) = (60, 53)
+[REAL] > bincoef(60, 53) = 386206920, bits: 29, NUM bits: 260, DNM bits: 232
+[COMP] > bincoef(60, 53) = 386206920
+
+(n, k) = (60, 54)
+[REAL] > bincoef(60, 54) = 50063860, bits: 26, NUM bits: 263, DNM bits: 238
+[COMP] > bincoef(60, 54) = 50063860
+
+(n, k) = (60, 55)
+[REAL] > bincoef(60, 55) = 5461512, bits: 23, NUM bits: 266, DNM bits: 243
+[COMP] > bincoef(60, 55) = 5461512
+
+(n, k) = (60, 56)
+[REAL] > bincoef(60, 56) = 487635, bits: 19, NUM bits: 268, DNM bits: 249
+[COMP] > bincoef(60, 56) = 487635
+
+(n, k) = (60, 57)
+[REAL] > bincoef(60, 57) = 34220, bits: 16, NUM bits: 270, DNM bits: 255
+[COMP] > bincoef(60, 57) = 34220
+
+(n, k) = (60, 58)
+[REAL] > bincoef(60, 58) = 1770, bits: 11, NUM bits: 272, DNM bits: 261
+[COMP] > bincoef(60, 58) = 1770
+
+(n, k) = (60, 59)
+[REAL] > bincoef(60, 59) = 60, bits: 6, NUM bits: 273, DNM bits: 267
+[COMP] > bincoef(60, 59) = 60
+
+(n, k) = (60, 60)
+[REAL] > bincoef(60, 60) = 1, bits: 1, NUM bits: 273, DNM bits: 273
+[COMP] > bincoef(60, 60) = 1
+
+(n, k) = (61, 0)
+[REAL] > bincoef(61, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(61, 0) = 1
+
+(n, k) = (61, 1)
+[REAL] > bincoef(61, 1) = 61, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(61, 1) = 61
+
+(n, k) = (61, 2)
+[REAL] > bincoef(61, 2) = 1830, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(61, 2) = 1830
+
+(n, k) = (61, 3)
+[REAL] > bincoef(61, 3) = 35990, bits: 16, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(61, 3) = 35990
+
+(n, k) = (61, 4)
+[REAL] > bincoef(61, 4) = 521855, bits: 19, NUM bits: 24, DNM bits: 5
+[COMP] > bincoef(61, 4) = 521855
+
+(n, k) = (61, 5)
+[REAL] > bincoef(61, 5) = 5949147, bits: 23, NUM bits: 30, DNM bits: 7
+[COMP] > bincoef(61, 5) = 5949147
+
+(n, k) = (61, 6)
+[REAL] > bincoef(61, 6) = 55525372, bits: 26, NUM bits: 36, DNM bits: 10
+[COMP] > bincoef(61, 6) = 55525372
+
+(n, k) = (61, 7)
+[REAL] > bincoef(61, 7) = 436270780, bits: 29, NUM bits: 41, DNM bits: 13
+[COMP] > bincoef(61, 7) = 436270780
+
+(n, k) = (61, 8)
+[REAL] > bincoef(61, 8) = 2944827765, bits: 32, NUM bits: 47, DNM bits: 16
+[COMP] > bincoef(61, 8) = 2944827765
+
+(n, k) = (61, 9)
+[REAL] > bincoef(61, 9) = 17341763505, bits: 35, NUM bits: 53, DNM bits: 19
+[COMP] > bincoef(61, 9) = 17341763505
+
+(n, k) = (61, 10)
+[REAL] > bincoef(61, 10) = 90177170226, bits: 37, NUM bits: 59, DNM bits: 22
+[COMP] > bincoef(61, 10) = 90177170226
+
+(n, k) = (61, 11)
+[REAL] > bincoef(61, 11) = 418094152866, bits: 39, NUM bits: 64, DNM bits: 26
+[COMP] > bincoef(61, 11) = 418094152866
+
+(n, k) = (61, 12)
+[REAL] > bincoef(61, 12) = 1742058970275, bits: 41, NUM bits: 70, DNM bits: 29
+[COMP] > bincoef(61, 12) = 1742058970275
+
+(n, k) = (61, 13)
+[REAL] > bincoef(61, 13) = 6566222272575, bits: 43, NUM bits: 76, DNM bits: 33
+[COMP] > bincoef(61, 13) = 6566222272575
+
+(n, k) = (61, 14)
+[REAL] > bincoef(61, 14) = 22512762077400, bits: 45, NUM bits: 81, DNM bits: 37
+[COMP] > bincoef(61, 14) = 22512762077400
+
+(n, k) = (61, 15)
+[REAL] > bincoef(61, 15) = 70539987842520, bits: 47, NUM bits: 87, DNM bits: 41
+[COMP] > bincoef(61, 15) = 70539987842520
+
+(n, k) = (61, 16)
+[REAL] > bincoef(61, 16) = 202802465047245, bits: 48, NUM bits: 92, DNM bits: 45
+[COMP] > bincoef(61, 16) = 202802465047245
+
+(n, k) = (61, 17)
+[REAL] > bincoef(61, 17) = 536830054536825, bits: 49, NUM bits: 98, DNM bits: 49
+[COMP] > bincoef(61, 17) = 536830054536825
+
+(n, k) = (61, 18)
+[REAL] > bincoef(61, 18) = 1312251244423350, bits: 51, NUM bits: 103, DNM bits: 53
+[COMP] > bincoef(61, 18) = 1312251244423350
+
+(n, k) = (61, 19)
+[REAL] > bincoef(61, 19) = 2969831763694950, bits: 52, NUM bits: 109, DNM bits: 57
+[COMP] > bincoef(61, 19) = 2969831763694950
+
+(n, k) = (61, 20)
+[REAL] > bincoef(61, 20) = 6236646703759395, bits: 53, NUM bits: 114, DNM bits: 62
+[COMP] > bincoef(61, 20) = 6236646703759395
+
+(n, k) = (61, 21)
+[REAL] > bincoef(61, 21) = 12176310231149295, bits: 54, NUM bits: 119, DNM bits: 66
+[COMP] > bincoef(61, 21) = 12176310231149295
+
+(n, k) = (61, 22)
+[REAL] > bincoef(61, 22) = 22138745874816900, bits: 55, NUM bits: 125, DNM bits: 70
+[COMP] > bincoef(61, 22) = 22138745874816900
+
+(n, k) = (61, 23)
+[REAL] > bincoef(61, 23) = 37539612570341700, bits: 56, NUM bits: 130, DNM bits: 75
+[COMP] > bincoef(61, 23) = 37539612570341700
+
+(n, k) = (61, 24)
+[REAL] > bincoef(61, 24) = 59437719903041025, bits: 56, NUM bits: 135, DNM bits: 80
+[COMP] > bincoef(61, 24) = 59437719903041025
+
+(n, k) = (61, 25)
+[REAL] > bincoef(61, 25) = 87967825456500717, bits: 57, NUM bits: 140, DNM bits: 84
+[COMP] > bincoef(61, 25) = 87967825456500717
+
+(n, k) = (61, 26)
+[REAL] > bincoef(61, 26) = 121801604478231762, bits: 57, NUM bits: 146, DNM bits: 89
+[COMP] > bincoef(61, 26) = 121801604478231762
+
+(n, k) = (61, 27)
+[REAL] > bincoef(61, 27) = 157890968768078210, bits: 58, NUM bits: 151, DNM bits: 94
+[COMP] > bincoef(61, 27) = 157890968768078210
+
+(n, k) = (61, 28)
+[REAL] > bincoef(61, 28) = 191724747789809255, bits: 58, NUM bits: 156, DNM bits: 98
+[COMP] > bincoef(61, 28) = 191724747789809255
+
+(n, k) = (61, 29)
+[REAL] > bincoef(61, 29) = 218169540588403635, bits: 58, NUM bits: 161, DNM bits: 103
+[COMP] > bincoef(61, 29) = 218169540588403635
+
+(n, k) = (61, 30)
+[REAL] > bincoef(61, 30) = 232714176627630544, bits: 58, NUM bits: 166, DNM bits: 108
+[COMP] > bincoef(61, 30) = 232714176627630544
+
+(n, k) = (61, 31)
+[REAL] > bincoef(61, 31) = 232714176627630544, bits: 58, NUM bits: 171, DNM bits: 113
+[COMP] > bincoef(61, 31) = 232714176627630544
+
+(n, k) = (61, 32)
+[REAL] > bincoef(61, 32) = 218169540588403635, bits: 58, NUM bits: 176, DNM bits: 118
+[COMP] > bincoef(61, 32) = 218169540588403635
+
+(n, k) = (61, 33)
+[REAL] > bincoef(61, 33) = 191724747789809255, bits: 58, NUM bits: 181, DNM bits: 123
+[COMP] > bincoef(61, 33) = 191724747789809255
+
+(n, k) = (61, 34)
+[REAL] > bincoef(61, 34) = 157890968768078210, bits: 58, NUM bits: 185, DNM bits: 128
+[COMP] > bincoef(61, 34) = 157890968768078210
+
+(n, k) = (61, 35)
+[REAL] > bincoef(61, 35) = 121801604478231762, bits: 57, NUM bits: 190, DNM bits: 133
+[COMP] > bincoef(61, 35) = 121801604478231762
+
+(n, k) = (61, 36)
+[REAL] > bincoef(61, 36) = 87967825456500717, bits: 57, NUM bits: 195, DNM bits: 139
+[COMP] > bincoef(61, 36) = 87967825456500717
+
+(n, k) = (61, 37)
+[REAL] > bincoef(61, 37) = 59437719903041025, bits: 56, NUM bits: 200, DNM bits: 144
+[COMP] > bincoef(61, 37) = 59437719903041025
+
+(n, k) = (61, 38)
+[REAL] > bincoef(61, 38) = 37539612570341700, bits: 56, NUM bits: 204, DNM bits: 149
+[COMP] > bincoef(61, 38) = 37539612570341700
+
+(n, k) = (61, 39)
+[REAL] > bincoef(61, 39) = 22138745874816900, bits: 55, NUM bits: 209, DNM bits: 154
+[COMP] > bincoef(61, 39) = 22138745874816900
+
+(n, k) = (61, 40)
+[REAL] > bincoef(61, 40) = 12176310231149295, bits: 54, NUM bits: 213, DNM bits: 160
+[COMP] > bincoef(61, 40) = 12176310231149295
+
+(n, k) = (61, 41)
+[REAL] > bincoef(61, 41) = 6236646703759395, bits: 53, NUM bits: 217, DNM bits: 165
+[COMP] > bincoef(61, 41) = 6236646703759395
+
+(n, k) = (61, 42)
+[REAL] > bincoef(61, 42) = 2969831763694950, bits: 52, NUM bits: 222, DNM bits: 170
+[COMP] > bincoef(61, 42) = 2969831763694950
+
+(n, k) = (61, 43)
+[REAL] > bincoef(61, 43) = 1312251244423350, bits: 51, NUM bits: 226, DNM bits: 176
+[COMP] > bincoef(61, 43) = 1312251244423350
+
+(n, k) = (61, 44)
+[REAL] > bincoef(61, 44) = 536830054536825, bits: 49, NUM bits: 230, DNM bits: 181
+[COMP] > bincoef(61, 44) = 536830054536825
+
+(n, k) = (61, 45)
+[REAL] > bincoef(61, 45) = 202802465047245, bits: 48, NUM bits: 234, DNM bits: 187
+[COMP] > bincoef(61, 45) = 202802465047245
+
+(n, k) = (61, 46)
+[REAL] > bincoef(61, 46) = 70539987842520, bits: 47, NUM bits: 238, DNM bits: 192
+[COMP] > bincoef(61, 46) = 70539987842520
+
+(n, k) = (61, 47)
+[REAL] > bincoef(61, 47) = 22512762077400, bits: 45, NUM bits: 242, DNM bits: 198
+[COMP] > bincoef(61, 47) = 22512762077400
+
+(n, k) = (61, 48)
+[REAL] > bincoef(61, 48) = 6566222272575, bits: 43, NUM bits: 246, DNM bits: 203
+[COMP] > bincoef(61, 48) = 6566222272575
+
+(n, k) = (61, 49)
+[REAL] > bincoef(61, 49) = 1742058970275, bits: 41, NUM bits: 250, DNM bits: 209
+[COMP] > bincoef(61, 49) = 1742058970275
+
+(n, k) = (61, 50)
+[REAL] > bincoef(61, 50) = 418094152866, bits: 39, NUM bits: 253, DNM bits: 215
+[COMP] > bincoef(61, 50) = 418094152866
+
+(n, k) = (61, 51)
+[REAL] > bincoef(61, 51) = 90177170226, bits: 37, NUM bits: 257, DNM bits: 220
+[COMP] > bincoef(61, 51) = 90177170226
+
+(n, k) = (61, 52)
+[REAL] > bincoef(61, 52) = 17341763505, bits: 35, NUM bits: 260, DNM bits: 226
+[COMP] > bincoef(61, 52) = 17341763505
+
+(n, k) = (61, 53)
+[REAL] > bincoef(61, 53) = 2944827765, bits: 32, NUM bits: 263, DNM bits: 232
+[COMP] > bincoef(61, 53) = 2944827765
+
+(n, k) = (61, 54)
+[REAL] > bincoef(61, 54) = 436270780, bits: 29, NUM bits: 266, DNM bits: 238
+[COMP] > bincoef(61, 54) = 436270780
+
+(n, k) = (61, 55)
+[REAL] > bincoef(61, 55) = 55525372, bits: 26, NUM bits: 269, DNM bits: 243
+[COMP] > bincoef(61, 55) = 55525372
+
+(n, k) = (61, 56)
+[REAL] > bincoef(61, 56) = 5949147, bits: 23, NUM bits: 272, DNM bits: 249
+[COMP] > bincoef(61, 56) = 5949147
+
+(n, k) = (61, 57)
+[REAL] > bincoef(61, 57) = 521855, bits: 19, NUM bits: 274, DNM bits: 255
+[COMP] > bincoef(61, 57) = 521855
+
+(n, k) = (61, 58)
+[REAL] > bincoef(61, 58) = 35990, bits: 16, NUM bits: 276, DNM bits: 261
+[COMP] > bincoef(61, 58) = 35990
+
+(n, k) = (61, 59)
+[REAL] > bincoef(61, 59) = 1830, bits: 11, NUM bits: 278, DNM bits: 267
+[COMP] > bincoef(61, 59) = 1830
+
+(n, k) = (61, 60)
+[REAL] > bincoef(61, 60) = 61, bits: 6, NUM bits: 279, DNM bits: 273
+[COMP] > bincoef(61, 60) = 61
+
+(n, k) = (61, 61)
+[REAL] > bincoef(61, 61) = 1, bits: 1, NUM bits: 279, DNM bits: 279
+[COMP] > bincoef(61, 61) = 1
+
+(n, k) = (62, 0)
+[REAL] > bincoef(62, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(62, 0) = 1
+
+(n, k) = (62, 1)
+[REAL] > bincoef(62, 1) = 62, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(62, 1) = 62
+
+(n, k) = (62, 2)
+[REAL] > bincoef(62, 2) = 1891, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(62, 2) = 1891
+
+(n, k) = (62, 3)
+[REAL] > bincoef(62, 3) = 37820, bits: 16, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(62, 3) = 37820
+
+(n, k) = (62, 4)
+[REAL] > bincoef(62, 4) = 557845, bits: 20, NUM bits: 24, DNM bits: 5
+[COMP] > bincoef(62, 4) = 557845
+
+(n, k) = (62, 5)
+[REAL] > bincoef(62, 5) = 6471002, bits: 23, NUM bits: 30, DNM bits: 7
+[COMP] > bincoef(62, 5) = 6471002
+
+(n, k) = (62, 6)
+[REAL] > bincoef(62, 6) = 61474519, bits: 26, NUM bits: 36, DNM bits: 10
+[COMP] > bincoef(62, 6) = 61474519
+
+(n, k) = (62, 7)
+[REAL] > bincoef(62, 7) = 491796152, bits: 29, NUM bits: 42, DNM bits: 13
+[COMP] > bincoef(62, 7) = 491796152
+
+(n, k) = (62, 8)
+[REAL] > bincoef(62, 8) = 3381098545, bits: 32, NUM bits: 47, DNM bits: 16
+[COMP] > bincoef(62, 8) = 3381098545
+
+(n, k) = (62, 9)
+[REAL] > bincoef(62, 9) = 20286591270, bits: 35, NUM bits: 53, DNM bits: 19
+[COMP] > bincoef(62, 9) = 20286591270
+
+(n, k) = (62, 10)
+[REAL] > bincoef(62, 10) = 107518933731, bits: 37, NUM bits: 59, DNM bits: 22
+[COMP] > bincoef(62, 10) = 107518933731
+
+(n, k) = (62, 11)
+[REAL] > bincoef(62, 11) = 508271323092, bits: 39, NUM bits: 65, DNM bits: 26
+[COMP] > bincoef(62, 11) = 508271323092
+
+(n, k) = (62, 12)
+[REAL] > bincoef(62, 12) = 2160153123141, bits: 41, NUM bits: 70, DNM bits: 29
+[COMP] > bincoef(62, 12) = 2160153123141
+
+(n, k) = (62, 13)
+[REAL] > bincoef(62, 13) = 8308281242850, bits: 43, NUM bits: 76, DNM bits: 33
+[COMP] > bincoef(62, 13) = 8308281242850
+
+(n, k) = (62, 14)
+[REAL] > bincoef(62, 14) = 29078984349975, bits: 45, NUM bits: 82, DNM bits: 37
+[COMP] > bincoef(62, 14) = 29078984349975
+
+(n, k) = (62, 15)
+[REAL] > bincoef(62, 15) = 93052749919920, bits: 47, NUM bits: 87, DNM bits: 41
+[COMP] > bincoef(62, 15) = 93052749919920
+
+(n, k) = (62, 16)
+[REAL] > bincoef(62, 16) = 273342452889765, bits: 48, NUM bits: 93, DNM bits: 45
+[COMP] > bincoef(62, 16) = 273342452889765
+
+(n, k) = (62, 17)
+[REAL] > bincoef(62, 17) = 739632519584070, bits: 50, NUM bits: 98, DNM bits: 49
+[COMP] > bincoef(62, 17) = 739632519584070
+
+(n, k) = (62, 18)
+[REAL] > bincoef(62, 18) = 1849081298960175, bits: 51, NUM bits: 104, DNM bits: 53
+[COMP] > bincoef(62, 18) = 1849081298960175
+
+(n, k) = (62, 19)
+[REAL] > bincoef(62, 19) = 4282083008118300, bits: 52, NUM bits: 109, DNM bits: 57
+[COMP] > bincoef(62, 19) = 4282083008118300
+
+(n, k) = (62, 20)
+[REAL] > bincoef(62, 20) = 9206478467454345, bits: 54, NUM bits: 115, DNM bits: 62
+[COMP] > bincoef(62, 20) = 9206478467454345
+
+(n, k) = (62, 21)
+[REAL] > bincoef(62, 21) = 18412956934908690, bits: 55, NUM bits: 120, DNM bits: 66
+[COMP] > bincoef(62, 21) = 18412956934908690
+
+(n, k) = (62, 22)
+[REAL] > bincoef(62, 22) = 34315056105966195, bits: 55, NUM bits: 125, DNM bits: 70
+[COMP] > bincoef(62, 22) = 34315056105966195
+
+(n, k) = (62, 23)
+[REAL] > bincoef(62, 23) = 59678358445158600, bits: 56, NUM bits: 131, DNM bits: 75
+[COMP] > bincoef(62, 23) = 59678358445158600
+
+(n, k) = (62, 24)
+[REAL] > bincoef(62, 24) = 96977332473382725, bits: 57, NUM bits: 136, DNM bits: 80
+[COMP] > bincoef(62, 24) = 96977332473382725
+
+(n, k) = (62, 25)
+[REAL] > bincoef(62, 25) = 147405545359541742, bits: 58, NUM bits: 141, DNM bits: 84
+[COMP] > bincoef(62, 25) = 147405545359541742
+
+(n, k) = (62, 26)
+[REAL] > bincoef(62, 26) = 209769429934732479, bits: 58, NUM bits: 146, DNM bits: 89
+[COMP] > bincoef(62, 26) = 209769429934732479
+
+(n, k) = (62, 27)
+[REAL] > bincoef(62, 27) = 279692573246309972, bits: 58, NUM bits: 152, DNM bits: 94
+[COMP] > bincoef(62, 27) = 279692573246309972
+
+(n, k) = (62, 28)
+[REAL] > bincoef(62, 28) = 349615716557887465, bits: 59, NUM bits: 157, DNM bits: 98
+[COMP] > bincoef(62, 28) = 349615716557887465
+
+(n, k) = (62, 29)
+[REAL] > bincoef(62, 29) = 409894288378212890, bits: 59, NUM bits: 162, DNM bits: 103
+[COMP] > bincoef(62, 29) = 409894288378212890
+
+(n, k) = (62, 30)
+[REAL] > bincoef(62, 30) = 450883717216034179, bits: 59, NUM bits: 167, DNM bits: 108
+[COMP] > bincoef(62, 30) = 450883717216034179
+
+(n, k) = (62, 31)
+[REAL] > bincoef(62, 31) = 465428353255261088, bits: 59, NUM bits: 172, DNM bits: 113
+[COMP] > bincoef(62, 31) = 465428353255261088
+
+(n, k) = (62, 32)
+[REAL] > bincoef(62, 32) = 450883717216034179, bits: 59, NUM bits: 177, DNM bits: 118
+[COMP] > bincoef(62, 32) = 450883717216034179
+
+(n, k) = (62, 33)
+[REAL] > bincoef(62, 33) = 409894288378212890, bits: 59, NUM bits: 182, DNM bits: 123
+[COMP] > bincoef(62, 33) = 409894288378212890
+
+(n, k) = (62, 34)
+[REAL] > bincoef(62, 34) = 349615716557887465, bits: 59, NUM bits: 187, DNM bits: 128
+[COMP] > bincoef(62, 34) = 349615716557887465
+
+(n, k) = (62, 35)
+[REAL] > bincoef(62, 35) = 279692573246309972, bits: 58, NUM bits: 191, DNM bits: 133
+[COMP] > bincoef(62, 35) = 279692573246309972
+
+(n, k) = (62, 36)
+[REAL] > bincoef(62, 36) = 209769429934732479, bits: 58, NUM bits: 196, DNM bits: 139
+[COMP] > bincoef(62, 36) = 209769429934732479
+
+(n, k) = (62, 37)
+[REAL] > bincoef(62, 37) = 147405545359541742, bits: 58, NUM bits: 201, DNM bits: 144
+[COMP] > bincoef(62, 37) = 147405545359541742
+
+(n, k) = (62, 38)
+[REAL] > bincoef(62, 38) = 96977332473382725, bits: 57, NUM bits: 205, DNM bits: 149
+[COMP] > bincoef(62, 38) = 96977332473382725
+
+(n, k) = (62, 39)
+[REAL] > bincoef(62, 39) = 59678358445158600, bits: 56, NUM bits: 210, DNM bits: 154
+[COMP] > bincoef(62, 39) = 59678358445158600
+
+(n, k) = (62, 40)
+[REAL] > bincoef(62, 40) = 34315056105966195, bits: 55, NUM bits: 215, DNM bits: 160
+[COMP] > bincoef(62, 40) = 34315056105966195
+
+(n, k) = (62, 41)
+[REAL] > bincoef(62, 41) = 18412956934908690, bits: 55, NUM bits: 219, DNM bits: 165
+[COMP] > bincoef(62, 41) = 18412956934908690
+
+(n, k) = (62, 42)
+[REAL] > bincoef(62, 42) = 9206478467454345, bits: 54, NUM bits: 223, DNM bits: 170
+[COMP] > bincoef(62, 42) = 9206478467454345
+
+(n, k) = (62, 43)
+[REAL] > bincoef(62, 43) = 4282083008118300, bits: 52, NUM bits: 228, DNM bits: 176
+[COMP] > bincoef(62, 43) = 4282083008118300
+
+(n, k) = (62, 44)
+[REAL] > bincoef(62, 44) = 1849081298960175, bits: 51, NUM bits: 232, DNM bits: 181
+[COMP] > bincoef(62, 44) = 1849081298960175
+
+(n, k) = (62, 45)
+[REAL] > bincoef(62, 45) = 739632519584070, bits: 50, NUM bits: 236, DNM bits: 187
+[COMP] > bincoef(62, 45) = 739632519584070
+
+(n, k) = (62, 46)
+[REAL] > bincoef(62, 46) = 273342452889765, bits: 48, NUM bits: 240, DNM bits: 192
+[COMP] > bincoef(62, 46) = 273342452889765
+
+(n, k) = (62, 47)
+[REAL] > bincoef(62, 47) = 93052749919920, bits: 47, NUM bits: 244, DNM bits: 198
+[COMP] > bincoef(62, 47) = 93052749919920
+
+(n, k) = (62, 48)
+[REAL] > bincoef(62, 48) = 29078984349975, bits: 45, NUM bits: 248, DNM bits: 203
+[COMP] > bincoef(62, 48) = 29078984349975
+
+(n, k) = (62, 49)
+[REAL] > bincoef(62, 49) = 8308281242850, bits: 43, NUM bits: 252, DNM bits: 209
+[COMP] > bincoef(62, 49) = 8308281242850
+
+(n, k) = (62, 50)
+[REAL] > bincoef(62, 50) = 2160153123141, bits: 41, NUM bits: 256, DNM bits: 215
+[COMP] > bincoef(62, 50) = 2160153123141
+
+(n, k) = (62, 51)
+[REAL] > bincoef(62, 51) = 508271323092, bits: 39, NUM bits: 259, DNM bits: 220
+[COMP] > bincoef(62, 51) = 508271323092
+
+(n, k) = (62, 52)
+[REAL] > bincoef(62, 52) = 107518933731, bits: 37, NUM bits: 263, DNM bits: 226
+[COMP] > bincoef(62, 52) = 107518933731
+
+(n, k) = (62, 53)
+[REAL] > bincoef(62, 53) = 20286591270, bits: 35, NUM bits: 266, DNM bits: 232
+[COMP] > bincoef(62, 53) = 20286591270
+
+(n, k) = (62, 54)
+[REAL] > bincoef(62, 54) = 3381098545, bits: 32, NUM bits: 269, DNM bits: 238
+[COMP] > bincoef(62, 54) = 3381098545
+
+(n, k) = (62, 55)
+[REAL] > bincoef(62, 55) = 491796152, bits: 29, NUM bits: 272, DNM bits: 243
+[COMP] > bincoef(62, 55) = 491796152
+
+(n, k) = (62, 56)
+[REAL] > bincoef(62, 56) = 61474519, bits: 26, NUM bits: 275, DNM bits: 249
+[COMP] > bincoef(62, 56) = 61474519
+
+(n, k) = (62, 57)
+[REAL] > bincoef(62, 57) = 6471002, bits: 23, NUM bits: 278, DNM bits: 255
+[COMP] > bincoef(62, 57) = 6471002
+
+(n, k) = (62, 58)
+[REAL] > bincoef(62, 58) = 557845, bits: 20, NUM bits: 280, DNM bits: 261
+[COMP] > bincoef(62, 58) = 557845
+
+(n, k) = (62, 59)
+[REAL] > bincoef(62, 59) = 37820, bits: 16, NUM bits: 282, DNM bits: 267
+[COMP] > bincoef(62, 59) = 37820
+
+(n, k) = (62, 60)
+[REAL] > bincoef(62, 60) = 1891, bits: 11, NUM bits: 284, DNM bits: 273
+[COMP] > bincoef(62, 60) = 1891
+
+(n, k) = (62, 61)
+[REAL] > bincoef(62, 61) = 62, bits: 6, NUM bits: 285, DNM bits: 279
+[COMP] > bincoef(62, 61) = 62
+
+(n, k) = (62, 62)
+[REAL] > bincoef(62, 62) = 1, bits: 1, NUM bits: 285, DNM bits: 285
+[COMP] > bincoef(62, 62) = 1
+
+(n, k) = (63, 0)
+[REAL] > bincoef(63, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(63, 0) = 1
+
+(n, k) = (63, 1)
+[REAL] > bincoef(63, 1) = 63, bits: 6, NUM bits: 6, DNM bits: 1
+[COMP] > bincoef(63, 1) = 63
+
+(n, k) = (63, 2)
+[REAL] > bincoef(63, 2) = 1953, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(63, 2) = 1953
+
+(n, k) = (63, 3)
+[REAL] > bincoef(63, 3) = 39711, bits: 16, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(63, 3) = 39711
+
+(n, k) = (63, 4)
+[REAL] > bincoef(63, 4) = 595665, bits: 20, NUM bits: 24, DNM bits: 5
+[COMP] > bincoef(63, 4) = 595665
+
+(n, k) = (63, 5)
+[REAL] > bincoef(63, 5) = 7028847, bits: 23, NUM bits: 30, DNM bits: 7
+[COMP] > bincoef(63, 5) = 7028847
+
+(n, k) = (63, 6)
+[REAL] > bincoef(63, 6) = 67945521, bits: 27, NUM bits: 36, DNM bits: 10
+[COMP] > bincoef(63, 6) = 67945521
+
+(n, k) = (63, 7)
+[REAL] > bincoef(63, 7) = 553270671, bits: 30, NUM bits: 42, DNM bits: 13
+[COMP] > bincoef(63, 7) = 553270671
+
+(n, k) = (63, 8)
+[REAL] > bincoef(63, 8) = 3872894697, bits: 32, NUM bits: 48, DNM bits: 16
+[COMP] > bincoef(63, 8) = 3872894697
+
+(n, k) = (63, 9)
+[REAL] > bincoef(63, 9) = 23667689815, bits: 35, NUM bits: 53, DNM bits: 19
+[COMP] > bincoef(63, 9) = 23667689815
+
+(n, k) = (63, 10)
+[REAL] > bincoef(63, 10) = 127805525001, bits: 37, NUM bits: 59, DNM bits: 22
+[COMP] > bincoef(63, 10) = 127805525001
+
+(n, k) = (63, 11)
+[REAL] > bincoef(63, 11) = 615790256823, bits: 40, NUM bits: 65, DNM bits: 26
+[COMP] > bincoef(63, 11) = 615790256823
+
+(n, k) = (63, 12)
+[REAL] > bincoef(63, 12) = 2668424446233, bits: 42, NUM bits: 71, DNM bits: 29
+[COMP] > bincoef(63, 12) = 2668424446233
+
+(n, k) = (63, 13)
+[REAL] > bincoef(63, 13) = 10468434365991, bits: 44, NUM bits: 76, DNM bits: 33
+[COMP] > bincoef(63, 13) = 10468434365991
+
+(n, k) = (63, 14)
+[REAL] > bincoef(63, 14) = 37387265592825, bits: 46, NUM bits: 82, DNM bits: 37
+[COMP] > bincoef(63, 14) = 37387265592825
+
+(n, k) = (63, 15)
+[REAL] > bincoef(63, 15) = 122131734269895, bits: 47, NUM bits: 88, DNM bits: 41
+[COMP] > bincoef(63, 15) = 122131734269895
+
+(n, k) = (63, 16)
+[REAL] > bincoef(63, 16) = 366395202809685, bits: 49, NUM bits: 93, DNM bits: 45
+[COMP] > bincoef(63, 16) = 366395202809685
+
+(n, k) = (63, 17)
+[REAL] > bincoef(63, 17) = 1012974972473835, bits: 50, NUM bits: 99, DNM bits: 49
+[COMP] > bincoef(63, 17) = 1012974972473835
+
+(n, k) = (63, 18)
+[REAL] > bincoef(63, 18) = 2588713818544245, bits: 52, NUM bits: 104, DNM bits: 53
+[COMP] > bincoef(63, 18) = 2588713818544245
+
+(n, k) = (63, 19)
+[REAL] > bincoef(63, 19) = 6131164307078475, bits: 53, NUM bits: 110, DNM bits: 57
+[COMP] > bincoef(63, 19) = 6131164307078475
+
+(n, k) = (63, 20)
+[REAL] > bincoef(63, 20) = 13488561475572645, bits: 54, NUM bits: 115, DNM bits: 62
+[COMP] > bincoef(63, 20) = 13488561475572645
+
+(n, k) = (63, 21)
+[REAL] > bincoef(63, 21) = 27619435402363035, bits: 55, NUM bits: 121, DNM bits: 66
+[COMP] > bincoef(63, 21) = 27619435402363035
+
+(n, k) = (63, 22)
+[REAL] > bincoef(63, 22) = 52728013040874885, bits: 56, NUM bits: 126, DNM bits: 70
+[COMP] > bincoef(63, 22) = 52728013040874885
+
+(n, k) = (63, 23)
+[REAL] > bincoef(63, 23) = 93993414551124795, bits: 57, NUM bits: 131, DNM bits: 75
+[COMP] > bincoef(63, 23) = 93993414551124795
+
+(n, k) = (63, 24)
+[REAL] > bincoef(63, 24) = 156655690918541325, bits: 58, NUM bits: 137, DNM bits: 80
+[COMP] > bincoef(63, 24) = 156655690918541325
+
+(n, k) = (63, 25)
+[REAL] > bincoef(63, 25) = 244382877832924467, bits: 58, NUM bits: 142, DNM bits: 84
+[COMP] > bincoef(63, 25) = 244382877832924467
+
+(n, k) = (63, 26)
+[REAL] > bincoef(63, 26) = 357174975294274221, bits: 59, NUM bits: 147, DNM bits: 89
+[COMP] > bincoef(63, 26) = 357174975294274221
+
+(n, k) = (63, 27)
+[REAL] > bincoef(63, 27) = 489462003181042451, bits: 59, NUM bits: 152, DNM bits: 94
+[COMP] > bincoef(63, 27) = 489462003181042451
+
+(n, k) = (63, 28)
+[REAL] > bincoef(63, 28) = 629308289804197437, bits: 60, NUM bits: 158, DNM bits: 98
+[COMP] > bincoef(63, 28) = 629308289804197437
+
+(n, k) = (63, 29)
+[REAL] > bincoef(63, 29) = 759510004936100355, bits: 60, NUM bits: 163, DNM bits: 103
+[COMP] > bincoef(63, 29) = 123415381704736506
+
+(n, k) = (63, 30)
+[REAL] > bincoef(63, 30) = 860778005594247069, bits: 60, NUM bits: 168, DNM bits: 108
+[COMP] > bincoef(63, 30) = 139870765932034706
+
+(n, k) = (63, 31)
+[REAL] > bincoef(63, 31) = 916312070471295267, bits: 60, NUM bits: 173, DNM bits: 113
+[COMP] > bincoef(63, 31) = 148894686314746622
+
+(n, k) = (63, 32)
+[REAL] > bincoef(63, 32) = 916312070471295267, bits: 60, NUM bits: 178, DNM bits: 118
+[COMP] > bincoef(63, 32) = 148894686314746622
+
+(n, k) = (63, 33)
+[REAL] > bincoef(63, 33) = 860778005594247069, bits: 60, NUM bits: 183, DNM bits: 123
+[COMP] > bincoef(63, 33) = 139870765932034705
+
+(n, k) = (63, 34)
+[REAL] > bincoef(63, 34) = 759510004936100355, bits: 60, NUM bits: 188, DNM bits: 128
+[COMP] > bincoef(63, 34) = 123415381704736504
+
+(n, k) = (63, 35)
+[REAL] > bincoef(63, 35) = 629308289804197437, bits: 60, NUM bits: 193, DNM bits: 133
+[COMP] > bincoef(63, 35) = 102258459126781674
+
+(n, k) = (63, 36)
+[REAL] > bincoef(63, 36) = 489462003181042451, bits: 59, NUM bits: 197, DNM bits: 139
+[COMP] > bincoef(63, 36) = 79534357098607968
+
+(n, k) = (63, 37)
+[REAL] > bincoef(63, 37) = 357174975294274221, bits: 59, NUM bits: 202, DNM bits: 144
+[COMP] > bincoef(63, 37) = 58038584909795003
+
+(n, k) = (63, 38)
+[REAL] > bincoef(63, 38) = 244382877832924467, bits: 58, NUM bits: 207, DNM bits: 149
+[COMP] > bincoef(63, 38) = 39710610727754475
+
+(n, k) = (63, 39)
+[REAL] > bincoef(63, 39) = 156655690918541325, bits: 58, NUM bits: 211, DNM bits: 154
+[COMP] > bincoef(63, 39) = 25455519697278509
+
+(n, k) = (63, 40)
+[REAL] > bincoef(63, 40) = 93993414551124795, bits: 57, NUM bits: 216, DNM bits: 160
+[COMP] > bincoef(63, 40) = 15273311818367105
+
+(n, k) = (63, 41)
+[REAL] > bincoef(63, 41) = 52728013040874885, bits: 56, NUM bits: 221, DNM bits: 165
+[COMP] > bincoef(63, 41) = 8567955410303497
+
+(n, k) = (63, 42)
+[REAL] > bincoef(63, 42) = 27619435402363035, bits: 55, NUM bits: 225, DNM bits: 170
+[COMP] > bincoef(63, 42) = 4487976643492307
+
+(n, k) = (63, 43)
+[REAL] > bincoef(63, 43) = 13488561475572645, bits: 54, NUM bits: 229, DNM bits: 176
+[COMP] > bincoef(63, 43) = 2191802546821824
+
+(n, k) = (63, 44)
+[REAL] > bincoef(63, 44) = 6131164307078475, bits: 53, NUM bits: 234, DNM bits: 181
+[COMP] > bincoef(63, 44) = 996273884919010
+
+(n, k) = (63, 45)
+[REAL] > bincoef(63, 45) = 2588713818544245, bits: 52, NUM bits: 238, DNM bits: 187
+[COMP] > bincoef(63, 45) = 420648973632470
+
+(n, k) = (63, 46)
+[REAL] > bincoef(63, 46) = 1012974972473835, bits: 50, NUM bits: 242, DNM bits: 192
+[COMP] > bincoef(63, 46) = 164601772290966
+
+(n, k) = (63, 47)
+[REAL] > bincoef(63, 47) = 366395202809685, bits: 49, NUM bits: 246, DNM bits: 198
+[COMP] > bincoef(63, 47) = 59536811254179
+
+(n, k) = (63, 48)
+[REAL] > bincoef(63, 48) = 122131734269895, bits: 47, NUM bits: 250, DNM bits: 203
+[COMP] > bincoef(63, 48) = 19845603751393
+
+(n, k) = (63, 49)
+[REAL] > bincoef(63, 49) = 37387265592825, bits: 46, NUM bits: 254, DNM bits: 209
+[COMP] > bincoef(63, 49) = 6075184821855
+
+(n, k) = (63, 50)
+[REAL] > bincoef(63, 50) = 10468434365991, bits: 44, NUM bits: 258, DNM bits: 215
+[COMP] > bincoef(63, 50) = 1701051750119
+
+(n, k) = (63, 51)
+[REAL] > bincoef(63, 51) = 2668424446233, bits: 42, NUM bits: 262, DNM bits: 220
+[COMP] > bincoef(63, 51) = 433601426500
+
+(n, k) = (63, 52)
+[REAL] > bincoef(63, 52) = 615790256823, bits: 40, NUM bits: 265, DNM bits: 226
+[COMP] > bincoef(63, 52) = 100061867653
+
+(n, k) = (63, 53)
+[REAL] > bincoef(63, 53) = 127805525001, bits: 37, NUM bits: 269, DNM bits: 232
+[COMP] > bincoef(63, 53) = 20767557437
+
+(n, k) = (63, 54)
+[REAL] > bincoef(63, 54) = 23667689815, bits: 35, NUM bits: 272, DNM bits: 238
+[COMP] > bincoef(63, 54) = 3845843969
+
+(n, k) = (63, 55)
+[REAL] > bincoef(63, 55) = 3872894697, bits: 32, NUM bits: 275, DNM bits: 243
+[COMP] > bincoef(63, 55) = 629319922
+
+(n, k) = (63, 56)
+[REAL] > bincoef(63, 56) = 553270671, bits: 30, NUM bits: 278, DNM bits: 249
+[COMP] > bincoef(63, 56) = 89902846
+
+(n, k) = (63, 57)
+[REAL] > bincoef(63, 57) = 67945521, bits: 27, NUM bits: 281, DNM bits: 255
+[COMP] > bincoef(63, 57) = 11040700
+
+(n, k) = (63, 58)
+[REAL] > bincoef(63, 58) = 7028847, bits: 23, NUM bits: 284, DNM bits: 261
+[COMP] > bincoef(63, 58) = 1142141
+
+(n, k) = (63, 59)
+[REAL] > bincoef(63, 59) = 595665, bits: 20, NUM bits: 286, DNM bits: 267
+[COMP] > bincoef(63, 59) = 96791
+
+(n, k) = (63, 60)
+[REAL] > bincoef(63, 60) = 39711, bits: 16, NUM bits: 288, DNM bits: 273
+[COMP] > bincoef(63, 60) = 6452
+
+(n, k) = (63, 61)
+[REAL] > bincoef(63, 61) = 1953, bits: 11, NUM bits: 289, DNM bits: 279
+[COMP] > bincoef(63, 61) = 317
+
+(n, k) = (63, 62)
+[REAL] > bincoef(63, 62) = 63, bits: 6, NUM bits: 290, DNM bits: 285
+[COMP] > bincoef(63, 62) = 10
+
+(n, k) = (63, 63)
+[REAL] > bincoef(63, 63) = 1, bits: 1, NUM bits: 290, DNM bits: 290
+[COMP] > bincoef(63, 63) = 0
+
+(n, k) = (64, 0)
+[REAL] > bincoef(64, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(64, 0) = 1
+
+(n, k) = (64, 1)
+[REAL] > bincoef(64, 1) = 64, bits: 7, NUM bits: 7, DNM bits: 1
+[COMP] > bincoef(64, 1) = 64
+
+(n, k) = (64, 2)
+[REAL] > bincoef(64, 2) = 2016, bits: 11, NUM bits: 12, DNM bits: 2
+[COMP] > bincoef(64, 2) = 2016
+
+(n, k) = (64, 3)
+[REAL] > bincoef(64, 3) = 41664, bits: 16, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(64, 3) = 41664
+
+(n, k) = (64, 4)
+[REAL] > bincoef(64, 4) = 635376, bits: 20, NUM bits: 24, DNM bits: 5
+[COMP] > bincoef(64, 4) = 635376
+
+(n, k) = (64, 5)
+[REAL] > bincoef(64, 5) = 7624512, bits: 23, NUM bits: 30, DNM bits: 7
+[COMP] > bincoef(64, 5) = 7624512
+
+(n, k) = (64, 6)
+[REAL] > bincoef(64, 6) = 74974368, bits: 27, NUM bits: 36, DNM bits: 10
+[COMP] > bincoef(64, 6) = 74974368
+
+(n, k) = (64, 7)
+[REAL] > bincoef(64, 7) = 621216192, bits: 30, NUM bits: 42, DNM bits: 13
+[COMP] > bincoef(64, 7) = 621216192
+
+(n, k) = (64, 8)
+[REAL] > bincoef(64, 8) = 4426165368, bits: 33, NUM bits: 48, DNM bits: 16
+[COMP] > bincoef(64, 8) = 4426165368
+
+(n, k) = (64, 9)
+[REAL] > bincoef(64, 9) = 27540584512, bits: 35, NUM bits: 54, DNM bits: 19
+[COMP] > bincoef(64, 9) = 27540584512
+
+(n, k) = (64, 10)
+[REAL] > bincoef(64, 10) = 151473214816, bits: 38, NUM bits: 59, DNM bits: 22
+[COMP] > bincoef(64, 10) = 151473214816
+
+(n, k) = (64, 11)
+[REAL] > bincoef(64, 11) = 743595781824, bits: 40, NUM bits: 65, DNM bits: 26
+[COMP] > bincoef(64, 11) = 743595781824
+
+(n, k) = (64, 12)
+[REAL] > bincoef(64, 12) = 3284214703056, bits: 42, NUM bits: 71, DNM bits: 29
+[COMP] > bincoef(64, 12) = 3284214703056
+
+(n, k) = (64, 13)
+[REAL] > bincoef(64, 13) = 13136858812224, bits: 44, NUM bits: 77, DNM bits: 33
+[COMP] > bincoef(64, 13) = 13136858812224
+
+(n, k) = (64, 14)
+[REAL] > bincoef(64, 14) = 47855699958816, bits: 46, NUM bits: 82, DNM bits: 37
+[COMP] > bincoef(64, 14) = 47855699958816
+
+(n, k) = (64, 15)
+[REAL] > bincoef(64, 15) = 159518999862720, bits: 48, NUM bits: 88, DNM bits: 41
+[COMP] > bincoef(64, 15) = 159518999862720
+
+(n, k) = (64, 16)
+[REAL] > bincoef(64, 16) = 488526937079580, bits: 49, NUM bits: 94, DNM bits: 45
+[COMP] > bincoef(64, 16) = 488526937079580
+
+(n, k) = (64, 17)
+[REAL] > bincoef(64, 17) = 1379370175283520, bits: 51, NUM bits: 99, DNM bits: 49
+[COMP] > bincoef(64, 17) = 1379370175283520
+
+(n, k) = (64, 18)
+[REAL] > bincoef(64, 18) = 3601688791018080, bits: 52, NUM bits: 105, DNM bits: 53
+[COMP] > bincoef(64, 18) = 3601688791018080
+
+(n, k) = (64, 19)
+[REAL] > bincoef(64, 19) = 8719878125622720, bits: 53, NUM bits: 110, DNM bits: 57
+[COMP] > bincoef(64, 19) = 8719878125622720
+
+(n, k) = (64, 20)
+[REAL] > bincoef(64, 20) = 19619725782651120, bits: 55, NUM bits: 116, DNM bits: 62
+[COMP] > bincoef(64, 20) = 19619725782651120
+
+(n, k) = (64, 21)
+[REAL] > bincoef(64, 21) = 41107996877935680, bits: 56, NUM bits: 121, DNM bits: 66
+[COMP] > bincoef(64, 21) = 41107996877935680
+
+(n, k) = (64, 22)
+[REAL] > bincoef(64, 22) = 80347448443237920, bits: 57, NUM bits: 127, DNM bits: 70
+[COMP] > bincoef(64, 22) = 80347448443237920
+
+(n, k) = (64, 23)
+[REAL] > bincoef(64, 23) = 146721427591999680, bits: 58, NUM bits: 132, DNM bits: 75
+[COMP] > bincoef(64, 23) = 146721427591999680
+
+(n, k) = (64, 24)
+[REAL] > bincoef(64, 24) = 250649105469666120, bits: 58, NUM bits: 137, DNM bits: 80
+[COMP] > bincoef(64, 24) = 250649105469666120
+
+(n, k) = (64, 25)
+[REAL] > bincoef(64, 25) = 401038568751465792, bits: 59, NUM bits: 143, DNM bits: 84
+[COMP] > bincoef(64, 25) = 401038568751465792
+
+(n, k) = (64, 26)
+[REAL] > bincoef(64, 26) = 601557853127198688, bits: 60, NUM bits: 148, DNM bits: 89
+[COMP] > bincoef(64, 26) = 601557853127198688
+
+(n, k) = (64, 27)
+[REAL] > bincoef(64, 27) = 846636978475316672, bits: 60, NUM bits: 153, DNM bits: 94
+[COMP] > bincoef(64, 27) = 163424235004592538
+
+(n, k) = (64, 28)
+[REAL] > bincoef(64, 28) = 1118770292985239888, bits: 60, NUM bits: 158, DNM bits: 98
+[COMP] > bincoef(64, 28) = 215953453398925853
+
+(n, k) = (64, 29)
+[REAL] > bincoef(64, 29) = 1388818294740297792, bits: 61, NUM bits: 164, DNM bits: 103
+[COMP] > bincoef(64, 29) = 268080149046942438
+
+(n, k) = (64, 30)
+[REAL] > bincoef(64, 30) = 1620288010530347424, bits: 61, NUM bits: 169, DNM bits: 108
+[COMP] > bincoef(64, 30) = 312760173888099511
+
+(n, k) = (64, 31)
+[REAL] > bincoef(64, 31) = 1777090076065542336, bits: 61, NUM bits: 174, DNM bits: 113
+[COMP] > bincoef(64, 31) = 343027287490173657
+
+(n, k) = (64, 32)
+[REAL] > bincoef(64, 32) = 1832624140942590534, bits: 61, NUM bits: 179, DNM bits: 118
+[COMP] > bincoef(64, 32) = 353746890224241583
+
+(n, k) = (64, 33)
+[REAL] > bincoef(64, 33) = 1777090076065542336, bits: 61, NUM bits: 184, DNM bits: 123
+[COMP] > bincoef(64, 33) = 343027287490173656
+
+(n, k) = (64, 34)
+[REAL] > bincoef(64, 34) = 1620288010530347424, bits: 61, NUM bits: 189, DNM bits: 128
+[COMP] > bincoef(64, 34) = 312760173888099509
+
+(n, k) = (64, 35)
+[REAL] > bincoef(64, 35) = 1388818294740297792, bits: 61, NUM bits: 194, DNM bits: 133
+[COMP] > bincoef(64, 35) = 268080149046942436
+
+(n, k) = (64, 36)
+[REAL] > bincoef(64, 36) = 1118770292985239888, bits: 60, NUM bits: 199, DNM bits: 139
+[COMP] > bincoef(64, 36) = 215953453398925851
+
+(n, k) = (64, 37)
+[REAL] > bincoef(64, 37) = 846636978475316672, bits: 60, NUM bits: 203, DNM bits: 144
+[COMP] > bincoef(64, 37) = 163424235004592535
+
+(n, k) = (64, 38)
+[REAL] > bincoef(64, 38) = 601557853127198688, bits: 60, NUM bits: 208, DNM bits: 149
+[COMP] > bincoef(64, 38) = 116117219608526274
+
+(n, k) = (64, 39)
+[REAL] > bincoef(64, 39) = 401038568751465792, bits: 59, NUM bits: 213, DNM bits: 154
+[COMP] > bincoef(64, 39) = 77411479739017516
+
+(n, k) = (64, 40)
+[REAL] > bincoef(64, 40) = 250649105469666120, bits: 58, NUM bits: 217, DNM bits: 160
+[COMP] > bincoef(64, 40) = 48382174836885947
+
+(n, k) = (64, 41)
+[REAL] > bincoef(64, 41) = 146721427591999680, bits: 58, NUM bits: 222, DNM bits: 165
+[COMP] > bincoef(64, 41) = 28321273075250310
+
+(n, k) = (64, 42)
+[REAL] > bincoef(64, 42) = 80347448443237920, bits: 57, NUM bits: 227, DNM bits: 170
+[COMP] > bincoef(64, 42) = 15509268588827550
+
+(n, k) = (64, 43)
+[REAL] > bincoef(64, 43) = 41107996877935680, bits: 56, NUM bits: 231, DNM bits: 176
+[COMP] > bincoef(64, 43) = 7934974626842002
+
+(n, k) = (64, 44)
+[REAL] > bincoef(64, 44) = 19619725782651120, bits: 55, NUM bits: 235, DNM bits: 181
+[COMP] > bincoef(64, 44) = 3787146980992773
+
+(n, k) = (64, 45)
+[REAL] > bincoef(64, 45) = 8719878125622720, bits: 53, NUM bits: 240, DNM bits: 187
+[COMP] > bincoef(64, 45) = 1683176435996788
+
+(n, k) = (64, 46)
+[REAL] > bincoef(64, 46) = 3601688791018080, bits: 52, NUM bits: 244, DNM bits: 192
+[COMP] > bincoef(64, 46) = 695225049650847
+
+(n, k) = (64, 47)
+[REAL] > bincoef(64, 47) = 1379370175283520, bits: 51, NUM bits: 248, DNM bits: 198
+[COMP] > bincoef(64, 47) = 266256401993941
+
+(n, k) = (64, 48)
+[REAL] > bincoef(64, 48) = 488526937079580, bits: 49, NUM bits: 252, DNM bits: 203
+[COMP] > bincoef(64, 48) = 94299142372854
+
+(n, k) = (64, 49)
+[REAL] > bincoef(64, 49) = 159518999862720, bits: 48, NUM bits: 256, DNM bits: 209
+[COMP] > bincoef(64, 49) = 30791556693176
+
+(n, k) = (64, 50)
+[REAL] > bincoef(64, 50) = 47855699958816, bits: 46, NUM bits: 260, DNM bits: 215
+[COMP] > bincoef(64, 50) = 9237467007952
+
+(n, k) = (64, 51)
+[REAL] > bincoef(64, 51) = 13136858812224, bits: 44, NUM bits: 264, DNM bits: 220
+[COMP] > bincoef(64, 51) = 2535775257084
+
+(n, k) = (64, 52)
+[REAL] > bincoef(64, 52) = 3284214703056, bits: 42, NUM bits: 268, DNM bits: 226
+[COMP] > bincoef(64, 52) = 633943814271
+
+(n, k) = (64, 53)
+[REAL] > bincoef(64, 53) = 743595781824, bits: 40, NUM bits: 271, DNM bits: 232
+[COMP] > bincoef(64, 53) = 143534448514
+
+(n, k) = (64, 54)
+[REAL] > bincoef(64, 54) = 151473214816, bits: 38, NUM bits: 275, DNM bits: 238
+[COMP] > bincoef(64, 54) = 29238498771
+
+(n, k) = (64, 55)
+[REAL] > bincoef(64, 55) = 27540584512, bits: 35, NUM bits: 278, DNM bits: 243
+[COMP] > bincoef(64, 55) = 5316090685
+
+(n, k) = (64, 56)
+[REAL] > bincoef(64, 56) = 4426165368, bits: 33, NUM bits: 281, DNM bits: 249
+[COMP] > bincoef(64, 56) = 854371717
+
+(n, k) = (64, 57)
+[REAL] > bincoef(64, 57) = 621216192, bits: 30, NUM bits: 284, DNM bits: 255
+[COMP] > bincoef(64, 57) = 119911819
+
+(n, k) = (64, 58)
+[REAL] > bincoef(64, 58) = 74974368, bits: 27, NUM bits: 287, DNM bits: 261
+[COMP] > bincoef(64, 58) = 14472116
+
+(n, k) = (64, 59)
+[REAL] > bincoef(64, 59) = 7624512, bits: 23, NUM bits: 290, DNM bits: 267
+[COMP] > bincoef(64, 59) = 1471740
+
+(n, k) = (64, 60)
+[REAL] > bincoef(64, 60) = 635376, bits: 20, NUM bits: 292, DNM bits: 273
+[COMP] > bincoef(64, 60) = 122645
+
+(n, k) = (64, 61)
+[REAL] > bincoef(64, 61) = 41664, bits: 16, NUM bits: 294, DNM bits: 279
+[COMP] > bincoef(64, 61) = 8042
+
+(n, k) = (64, 62)
+[REAL] > bincoef(64, 62) = 2016, bits: 11, NUM bits: 295, DNM bits: 285
+[COMP] > bincoef(64, 62) = 389
+
+(n, k) = (64, 63)
+[REAL] > bincoef(64, 63) = 64, bits: 7, NUM bits: 296, DNM bits: 290
+[COMP] > bincoef(64, 63) = 12
+
+(n, k) = (64, 64)
+[REAL] > bincoef(64, 64) = 1, bits: 1, NUM bits: 296, DNM bits: 296
+[COMP] > bincoef(64, 64) = 0
+
+(n, k) = (65, 0)
+[REAL] > bincoef(65, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(65, 0) = 1
+
+(n, k) = (65, 1)
+[REAL] > bincoef(65, 1) = 65, bits: 7, NUM bits: 7, DNM bits: 1
+[COMP] > bincoef(65, 1) = 65
+
+(n, k) = (65, 2)
+[REAL] > bincoef(65, 2) = 2080, bits: 12, NUM bits: 13, DNM bits: 2
+[COMP] > bincoef(65, 2) = 2080
+
+(n, k) = (65, 3)
+[REAL] > bincoef(65, 3) = 43680, bits: 16, NUM bits: 18, DNM bits: 3
+[COMP] > bincoef(65, 3) = 43680
+
+(n, k) = (65, 4)
+[REAL] > bincoef(65, 4) = 677040, bits: 20, NUM bits: 24, DNM bits: 5
+[COMP] > bincoef(65, 4) = 677040
+
+(n, k) = (65, 5)
+[REAL] > bincoef(65, 5) = 8259888, bits: 23, NUM bits: 30, DNM bits: 7
+[COMP] > bincoef(65, 5) = 8259888
+
+(n, k) = (65, 6)
+[REAL] > bincoef(65, 6) = 82598880, bits: 27, NUM bits: 36, DNM bits: 10
+[COMP] > bincoef(65, 6) = 82598880
+
+(n, k) = (65, 7)
+[REAL] > bincoef(65, 7) = 696190560, bits: 30, NUM bits: 42, DNM bits: 13
+[COMP] > bincoef(65, 7) = 696190560
+
+(n, k) = (65, 8)
+[REAL] > bincoef(65, 8) = 5047381560, bits: 33, NUM bits: 48, DNM bits: 16
+[COMP] > bincoef(65, 8) = 5047381560
+
+(n, k) = (65, 9)
+[REAL] > bincoef(65, 9) = 31966749880, bits: 35, NUM bits: 54, DNM bits: 19
+[COMP] > bincoef(65, 9) = 31966749880
+
+(n, k) = (65, 10)
+[REAL] > bincoef(65, 10) = 179013799328, bits: 38, NUM bits: 60, DNM bits: 22
+[COMP] > bincoef(65, 10) = 179013799328
+
+(n, k) = (65, 11)
+[REAL] > bincoef(65, 11) = 895068996640, bits: 40, NUM bits: 65, DNM bits: 26
+[COMP] > bincoef(65, 11) = 895068996640
+
+(n, k) = (65, 12)
+[REAL] > bincoef(65, 12) = 4027810484880, bits: 42, NUM bits: 71, DNM bits: 29
+[COMP] > bincoef(65, 12) = 4027810484880
+
+(n, k) = (65, 13)
+[REAL] > bincoef(65, 13) = 16421073515280, bits: 44, NUM bits: 77, DNM bits: 33
+[COMP] > bincoef(65, 13) = 16421073515280
+
+(n, k) = (65, 14)
+[REAL] > bincoef(65, 14) = 60992558771040, bits: 46, NUM bits: 83, DNM bits: 37
+[COMP] > bincoef(65, 14) = 60992558771040
+
+(n, k) = (65, 15)
+[REAL] > bincoef(65, 15) = 207374699821536, bits: 48, NUM bits: 88, DNM bits: 41
+[COMP] > bincoef(65, 15) = 207374699821536
+
+(n, k) = (65, 16)
+[REAL] > bincoef(65, 16) = 648045936942300, bits: 50, NUM bits: 94, DNM bits: 45
+[COMP] > bincoef(65, 16) = 648045936942300
+
+(n, k) = (65, 17)
+[REAL] > bincoef(65, 17) = 1867897112363100, bits: 51, NUM bits: 100, DNM bits: 49
+[COMP] > bincoef(65, 17) = 1867897112363100
+
+(n, k) = (65, 18)
+[REAL] > bincoef(65, 18) = 4981058966301600, bits: 53, NUM bits: 105, DNM bits: 53
+[COMP] > bincoef(65, 18) = 4981058966301600
+
+(n, k) = (65, 19)
+[REAL] > bincoef(65, 19) = 12321566916640800, bits: 54, NUM bits: 111, DNM bits: 57
+[COMP] > bincoef(65, 19) = 12321566916640800
+
+(n, k) = (65, 20)
+[REAL] > bincoef(65, 20) = 28339603908273840, bits: 55, NUM bits: 116, DNM bits: 62
+[COMP] > bincoef(65, 20) = 28339603908273840
+
+(n, k) = (65, 21)
+[REAL] > bincoef(65, 21) = 60727722660586800, bits: 56, NUM bits: 122, DNM bits: 66
+[COMP] > bincoef(65, 21) = 60727722660586800
+
+(n, k) = (65, 22)
+[REAL] > bincoef(65, 22) = 121455445321173600, bits: 57, NUM bits: 127, DNM bits: 70
+[COMP] > bincoef(65, 22) = 121455445321173600
+
+(n, k) = (65, 23)
+[REAL] > bincoef(65, 23) = 227068876035237600, bits: 58, NUM bits: 133, DNM bits: 75
+[COMP] > bincoef(65, 23) = 227068876035237600
+
+(n, k) = (65, 24)
+[REAL] > bincoef(65, 24) = 397370533061665800, bits: 59, NUM bits: 138, DNM bits: 80
+[COMP] > bincoef(65, 24) = 397370533061665800
+
+(n, k) = (65, 25)
+[REAL] > bincoef(65, 25) = 651687674221131912, bits: 60, NUM bits: 143, DNM bits: 84
+[COMP] > bincoef(65, 25) = 651687674221131912
+
+(n, k) = (65, 26)
+[REAL] > bincoef(65, 26) = 1002596421878664480, bits: 60, NUM bits: 149, DNM bits: 89
+[COMP] > bincoef(65, 26) = 293106265197527879
+
+(n, k) = (65, 27)
+[REAL] > bincoef(65, 27) = 1448194831602515360, bits: 61, NUM bits: 154, DNM bits: 94
+[COMP] > bincoef(65, 27) = 423375716396429158
+
+(n, k) = (65, 28)
+[REAL] > bincoef(65, 28) = 1965407271460556560, bits: 61, NUM bits: 159, DNM bits: 98
+[COMP] > bincoef(65, 28) = 574581329395153857
+
+(n, k) = (65, 29)
+[REAL] > bincoef(65, 29) = 2507588587725537680, bits: 62, NUM bits: 164, DNM bits: 103
+[COMP] > bincoef(65, 29) = 96991900479694520
+
+(n, k) = (65, 30)
+[REAL] > bincoef(65, 30) = 3009106305270645216, bits: 62, NUM bits: 170, DNM bits: 108
+[COMP] > bincoef(65, 30) = 116390280575633424
+
+(n, k) = (65, 31)
+[REAL] > bincoef(65, 31) = 3397378086595889760, bits: 62, NUM bits: 175, DNM bits: 113
+[COMP] > bincoef(65, 31) = 131408381295069994
+
+(n, k) = (65, 32)
+[REAL] > bincoef(65, 32) = 3609714217008132870, bits: 62, NUM bits: 180, DNM bits: 118
+[COMP] > bincoef(65, 32) = 139621405126011868
+
+(n, k) = (65, 33)
+[REAL] > bincoef(65, 33) = 3609714217008132870, bits: 62, NUM bits: 185, DNM bits: 123
+[COMP] > bincoef(65, 33) = 139621405126011868
+
+(n, k) = (65, 34)
+[REAL] > bincoef(65, 34) = 3397378086595889760, bits: 62, NUM bits: 190, DNM bits: 128
+[COMP] > bincoef(65, 34) = 131408381295069993
+
+(n, k) = (65, 35)
+[REAL] > bincoef(65, 35) = 3009106305270645216, bits: 62, NUM bits: 195, DNM bits: 133
+[COMP] > bincoef(65, 35) = 116390280575633422
+
+(n, k) = (65, 36)
+[REAL] > bincoef(65, 36) = 2507588587725537680, bits: 62, NUM bits: 200, DNM bits: 139
+[COMP] > bincoef(65, 36) = 96991900479694518
+
+(n, k) = (65, 37)
+[REAL] > bincoef(65, 37) = 1965407271460556560, bits: 61, NUM bits: 205, DNM bits: 144
+[COMP] > bincoef(65, 37) = 76020678754355162
+
+(n, k) = (65, 38)
+[REAL] > bincoef(65, 38) = 1448194831602515360, bits: 61, NUM bits: 209, DNM bits: 149
+[COMP] > bincoef(65, 38) = 56015236976893277
+
+(n, k) = (65, 39)
+[REAL] > bincoef(65, 39) = 1002596421878664480, bits: 60, NUM bits: 214, DNM bits: 154
+[COMP] > bincoef(65, 39) = 38779779445541499
+
+(n, k) = (65, 40)
+[REAL] > bincoef(65, 40) = 651687674221131912, bits: 60, NUM bits: 219, DNM bits: 160
+[COMP] > bincoef(65, 40) = 25206856639601974
+
+(n, k) = (65, 41)
+[REAL] > bincoef(65, 41) = 397370533061665800, bits: 59, NUM bits: 223, DNM bits: 165
+[COMP] > bincoef(65, 41) = 15370034536342667
+
+(n, k) = (65, 42)
+[REAL] > bincoef(65, 42) = 227068876035237600, bits: 58, NUM bits: 228, DNM bits: 170
+[COMP] > bincoef(65, 42) = 8782876877910095
+
+(n, k) = (65, 43)
+[REAL] > bincoef(65, 43) = 121455445321173600, bits: 57, NUM bits: 233, DNM bits: 176
+[COMP] > bincoef(65, 43) = 4697817864928655
+
+(n, k) = (65, 44)
+[REAL] > bincoef(65, 44) = 60727722660586800, bits: 56, NUM bits: 237, DNM bits: 181
+[COMP] > bincoef(65, 44) = 2348908932464327
+
+(n, k) = (65, 45)
+[REAL] > bincoef(65, 45) = 28339603908273840, bits: 55, NUM bits: 241, DNM bits: 187
+[COMP] > bincoef(65, 45) = 1096157501816685
+
+(n, k) = (65, 46)
+[REAL] > bincoef(65, 46) = 12321566916640800, bits: 54, NUM bits: 246, DNM bits: 192
+[COMP] > bincoef(65, 46) = 476590218181167
+
+(n, k) = (65, 47)
+[REAL] > bincoef(65, 47) = 4981058966301600, bits: 53, NUM bits: 250, DNM bits: 198
+[COMP] > bincoef(65, 47) = 192664130754088
+
+(n, k) = (65, 48)
+[REAL] > bincoef(65, 48) = 1867897112363100, bits: 51, NUM bits: 254, DNM bits: 203
+[COMP] > bincoef(65, 48) = 72249049032783
+
+(n, k) = (65, 49)
+[REAL] > bincoef(65, 49) = 648045936942300, bits: 50, NUM bits: 258, DNM bits: 209
+[COMP] > bincoef(65, 49) = 25065996603210
+
+(n, k) = (65, 50)
+[REAL] > bincoef(65, 50) = 207374699821536, bits: 48, NUM bits: 262, DNM bits: 215
+[COMP] > bincoef(65, 50) = 8021118913027
+
+(n, k) = (65, 51)
+[REAL] > bincoef(65, 51) = 60992558771040, bits: 46, NUM bits: 266, DNM bits: 220
+[COMP] > bincoef(65, 51) = 2359152621478
+
+(n, k) = (65, 52)
+[REAL] > bincoef(65, 52) = 16421073515280, bits: 44, NUM bits: 270, DNM bits: 226
+[COMP] > bincoef(65, 52) = 635156475013
+
+(n, k) = (65, 53)
+[REAL] > bincoef(65, 53) = 4027810484880, bits: 42, NUM bits: 274, DNM bits: 232
+[COMP] > bincoef(65, 53) = 155793097644
+
+(n, k) = (65, 54)
+[REAL] > bincoef(65, 54) = 895068996640, bits: 40, NUM bits: 277, DNM bits: 238
+[COMP] > bincoef(65, 54) = 34620688365
+
+(n, k) = (65, 55)
+[REAL] > bincoef(65, 55) = 179013799328, bits: 38, NUM bits: 281, DNM bits: 243
+[COMP] > bincoef(65, 55) = 6924137673
+
+(n, k) = (65, 56)
+[REAL] > bincoef(65, 56) = 31966749880, bits: 35, NUM bits: 284, DNM bits: 249
+[COMP] > bincoef(65, 56) = 1236453155
+
+(n, k) = (65, 57)
+[REAL] > bincoef(65, 57) = 5047381560, bits: 33, NUM bits: 287, DNM bits: 255
+[COMP] > bincoef(65, 57) = 195229445
+
+(n, k) = (65, 58)
+[REAL] > bincoef(65, 58) = 696190560, bits: 30, NUM bits: 290, DNM bits: 261
+[COMP] > bincoef(65, 58) = 26928199
+
+(n, k) = (65, 59)
+[REAL] > bincoef(65, 59) = 82598880, bits: 27, NUM bits: 293, DNM bits: 267
+[COMP] > bincoef(65, 59) = 3194871
+
+(n, k) = (65, 60)
+[REAL] > bincoef(65, 60) = 8259888, bits: 23, NUM bits: 296, DNM bits: 273
+[COMP] > bincoef(65, 60) = 319487
+
+(n, k) = (65, 61)
+[REAL] > bincoef(65, 61) = 677040, bits: 20, NUM bits: 298, DNM bits: 279
+[COMP] > bincoef(65, 61) = 26187
+
+(n, k) = (65, 62)
+[REAL] > bincoef(65, 62) = 43680, bits: 16, NUM bits: 300, DNM bits: 285
+[COMP] > bincoef(65, 62) = 1689
+
+(n, k) = (65, 63)
+[REAL] > bincoef(65, 63) = 2080, bits: 12, NUM bits: 302, DNM bits: 290
+[COMP] > bincoef(65, 63) = 80
+
+(n, k) = (65, 64)
+[REAL] > bincoef(65, 64) = 65, bits: 7, NUM bits: 303, DNM bits: 296
+[COMP] > bincoef(65, 64) = 2
+
+(n, k) = (65, 65)
+[REAL] > bincoef(65, 65) = 1, bits: 1, NUM bits: 303, DNM bits: 303
+[COMP] > bincoef(65, 65) = 0
+
+(n, k) = (66, 0)
+[REAL] > bincoef(66, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(66, 0) = 1
+
+(n, k) = (66, 1)
+[REAL] > bincoef(66, 1) = 66, bits: 7, NUM bits: 7, DNM bits: 1
+[COMP] > bincoef(66, 1) = 66
+
+(n, k) = (66, 2)
+[REAL] > bincoef(66, 2) = 2145, bits: 12, NUM bits: 13, DNM bits: 2
+[COMP] > bincoef(66, 2) = 2145
+
+(n, k) = (66, 3)
+[REAL] > bincoef(66, 3) = 45760, bits: 16, NUM bits: 19, DNM bits: 3
+[COMP] > bincoef(66, 3) = 45760
+
+(n, k) = (66, 4)
+[REAL] > bincoef(66, 4) = 720720, bits: 20, NUM bits: 25, DNM bits: 5
+[COMP] > bincoef(66, 4) = 720720
+
+(n, k) = (66, 5)
+[REAL] > bincoef(66, 5) = 8936928, bits: 24, NUM bits: 30, DNM bits: 7
+[COMP] > bincoef(66, 5) = 8936928
+
+(n, k) = (66, 6)
+[REAL] > bincoef(66, 6) = 90858768, bits: 27, NUM bits: 36, DNM bits: 10
+[COMP] > bincoef(66, 6) = 90858768
+
+(n, k) = (66, 7)
+[REAL] > bincoef(66, 7) = 778789440, bits: 30, NUM bits: 42, DNM bits: 13
+[COMP] > bincoef(66, 7) = 778789440
+
+(n, k) = (66, 8)
+[REAL] > bincoef(66, 8) = 5743572120, bits: 33, NUM bits: 48, DNM bits: 16
+[COMP] > bincoef(66, 8) = 5743572120
+
+(n, k) = (66, 9)
+[REAL] > bincoef(66, 9) = 37014131440, bits: 36, NUM bits: 54, DNM bits: 19
+[COMP] > bincoef(66, 9) = 37014131440
+
+(n, k) = (66, 10)
+[REAL] > bincoef(66, 10) = 210980549208, bits: 38, NUM bits: 60, DNM bits: 22
+[COMP] > bincoef(66, 10) = 210980549208
+
+(n, k) = (66, 11)
+[REAL] > bincoef(66, 11) = 1074082795968, bits: 40, NUM bits: 66, DNM bits: 26
+[COMP] > bincoef(66, 11) = 1074082795968
+
+(n, k) = (66, 12)
+[REAL] > bincoef(66, 12) = 4922879481520, bits: 43, NUM bits: 71, DNM bits: 29
+[COMP] > bincoef(66, 12) = 4922879481520
+
+(n, k) = (66, 13)
+[REAL] > bincoef(66, 13) = 20448884000160, bits: 45, NUM bits: 77, DNM bits: 33
+[COMP] > bincoef(66, 13) = 20448884000160
+
+(n, k) = (66, 14)
+[REAL] > bincoef(66, 14) = 77413632286320, bits: 47, NUM bits: 83, DNM bits: 37
+[COMP] > bincoef(66, 14) = 77413632286320
+
+(n, k) = (66, 15)
+[REAL] > bincoef(66, 15) = 268367258592576, bits: 48, NUM bits: 89, DNM bits: 41
+[COMP] > bincoef(66, 15) = 268367258592576
+
+(n, k) = (66, 16)
+[REAL] > bincoef(66, 16) = 855420636763836, bits: 50, NUM bits: 94, DNM bits: 45
+[COMP] > bincoef(66, 16) = 855420636763836
+
+(n, k) = (66, 17)
+[REAL] > bincoef(66, 17) = 2515943049305400, bits: 52, NUM bits: 100, DNM bits: 49
+[COMP] > bincoef(66, 17) = 2515943049305400
+
+(n, k) = (66, 18)
+[REAL] > bincoef(66, 18) = 6848956078664700, bits: 53, NUM bits: 106, DNM bits: 53
+[COMP] > bincoef(66, 18) = 6848956078664700
+
+(n, k) = (66, 19)
+[REAL] > bincoef(66, 19) = 17302625882942400, bits: 54, NUM bits: 111, DNM bits: 57
+[COMP] > bincoef(66, 19) = 17302625882942400
+
+(n, k) = (66, 20)
+[REAL] > bincoef(66, 20) = 40661170824914640, bits: 56, NUM bits: 117, DNM bits: 62
+[COMP] > bincoef(66, 20) = 40661170824914640
+
+(n, k) = (66, 21)
+[REAL] > bincoef(66, 21) = 89067326568860640, bits: 57, NUM bits: 122, DNM bits: 66
+[COMP] > bincoef(66, 21) = 89067326568860640
+
+(n, k) = (66, 22)
+[REAL] > bincoef(66, 22) = 182183167981760400, bits: 58, NUM bits: 128, DNM bits: 70
+[COMP] > bincoef(66, 22) = 182183167981760400
+
+(n, k) = (66, 23)
+[REAL] > bincoef(66, 23) = 348524321356411200, bits: 59, NUM bits: 133, DNM bits: 75
+[COMP] > bincoef(66, 23) = 348524321356411200
+
+(n, k) = (66, 24)
+[REAL] > bincoef(66, 24) = 624439409096903400, bits: 60, NUM bits: 139, DNM bits: 80
+[COMP] > bincoef(66, 24) = 624439409096903400
+
+(n, k) = (66, 25)
+[REAL] > bincoef(66, 25) = 1049058207282797712, bits: 60, NUM bits: 144, DNM bits: 84
+[COMP] > bincoef(66, 25) = 311188444334415647
+
+(n, k) = (66, 26)
+[REAL] > bincoef(66, 26) = 1654284096099796392, bits: 61, NUM bits: 149, DNM bits: 89
+[COMP] > bincoef(66, 26) = 490720239142732366
+
+(n, k) = (66, 27)
+[REAL] > bincoef(66, 27) = 2450791253481179840, bits: 62, NUM bits: 155, DNM bits: 94
+[COMP] > bincoef(66, 27) = 43780203407397889
+
+(n, k) = (66, 28)
+[REAL] > bincoef(66, 28) = 3413602103063071920, bits: 62, NUM bits: 160, DNM bits: 98
+[COMP] > bincoef(66, 28) = 60979569031732773
+
+(n, k) = (66, 29)
+[REAL] > bincoef(66, 29) = 4472995859186094240, bits: 62, NUM bits: 165, DNM bits: 103
+[COMP] > bincoef(66, 29) = 79904262869167081
+
+(n, k) = (66, 30)
+[REAL] > bincoef(66, 30) = 5516694892996182896, bits: 63, NUM bits: 170, DNM bits: 108
+[COMP] > bincoef(66, 30) = 98548590871972733
+
+(n, k) = (66, 31)
+[REAL] > bincoef(66, 31) = 6406484391866534976, bits: 63, NUM bits: 176, DNM bits: 113
+[COMP] > bincoef(66, 31) = 114443524883581238
+
+(n, k) = (66, 32)
+[REAL] > bincoef(66, 32) = 7007092303604022630, bits: 63, NUM bits: 181, DNM bits: 118
+[COMP] > bincoef(66, 32) = 125172605341416979
+
+(n, k) = (66, 33)
+[REAL] > bincoef(66, 33) = 7219428434016265740, bits: 63, NUM bits: 186, DNM bits: 123
+[COMP] > bincoef(66, 33) = 128965714594187190
+
+(n, k) = (66, 34)
+[REAL] > bincoef(66, 34) = 7007092303604022630, bits: 63, NUM bits: 191, DNM bits: 128
+[COMP] > bincoef(66, 34) = 125172605341416978
+
+(n, k) = (66, 35)
+[REAL] > bincoef(66, 35) = 6406484391866534976, bits: 63, NUM bits: 196, DNM bits: 133
+[COMP] > bincoef(66, 35) = 114443524883581237
+
+(n, k) = (66, 36)
+[REAL] > bincoef(66, 36) = 5516694892996182896, bits: 63, NUM bits: 201, DNM bits: 139
+[COMP] > bincoef(66, 36) = 98548590871972731
+
+(n, k) = (66, 37)
+[REAL] > bincoef(66, 37) = 4472995859186094240, bits: 62, NUM bits: 206, DNM bits: 144
+[COMP] > bincoef(66, 37) = 79904262869167079
+
+(n, k) = (66, 38)
+[REAL] > bincoef(66, 38) = 3413602103063071920, bits: 62, NUM bits: 211, DNM bits: 149
+[COMP] > bincoef(66, 38) = 60979569031732770
+
+(n, k) = (66, 39)
+[REAL] > bincoef(66, 39) = 2450791253481179840, bits: 62, NUM bits: 215, DNM bits: 154
+[COMP] > bincoef(66, 39) = 43780203407397886
+
+(n, k) = (66, 40)
+[REAL] > bincoef(66, 40) = 1654284096099796392, bits: 61, NUM bits: 220, DNM bits: 160
+[COMP] > bincoef(66, 40) = 29551637299993573
+
+(n, k) = (66, 41)
+[REAL] > bincoef(66, 41) = 1049058207282797712, bits: 60, NUM bits: 225, DNM bits: 165
+[COMP] > bincoef(66, 41) = 18740062678044704
+
+(n, k) = (66, 42)
+[REAL] > bincoef(66, 42) = 624439409096903400, bits: 60, NUM bits: 230, DNM bits: 170
+[COMP] > bincoef(66, 42) = 11154799213121847
+
+(n, k) = (66, 43)
+[REAL] > bincoef(66, 43) = 348524321356411200, bits: 59, NUM bits: 234, DNM bits: 176
+[COMP] > bincoef(66, 43) = 6225934444533123
+
+(n, k) = (66, 44)
+[REAL] > bincoef(66, 44) = 182183167981760400, bits: 58, NUM bits: 239, DNM bits: 181
+[COMP] > bincoef(66, 44) = 3254465732369587
+
+(n, k) = (66, 45)
+[REAL] > bincoef(66, 45) = 89067326568860640, bits: 57, NUM bits: 243, DNM bits: 187
+[COMP] > bincoef(66, 45) = 1591072135825131
+
+(n, k) = (66, 46)
+[REAL] > bincoef(66, 46) = 40661170824914640, bits: 56, NUM bits: 247, DNM bits: 192
+[COMP] > bincoef(66, 46) = 726359018528864
+
+(n, k) = (66, 47)
+[REAL] > bincoef(66, 47) = 17302625882942400, bits: 54, NUM bits: 252, DNM bits: 198
+[COMP] > bincoef(66, 47) = 309088944054835
+
+(n, k) = (66, 48)
+[REAL] > bincoef(66, 48) = 6848956078664700, bits: 53, NUM bits: 256, DNM bits: 203
+[COMP] > bincoef(66, 48) = 122347707021705
+
+(n, k) = (66, 49)
+[REAL] > bincoef(66, 49) = 2515943049305400, bits: 52, NUM bits: 260, DNM bits: 209
+[COMP] > bincoef(66, 49) = 44944055640626
+
+(n, k) = (66, 50)
+[REAL] > bincoef(66, 50) = 855420636763836, bits: 50, NUM bits: 264, DNM bits: 215
+[COMP] > bincoef(66, 50) = 15280978917812
+
+(n, k) = (66, 51)
+[REAL] > bincoef(66, 51) = 268367258592576, bits: 48, NUM bits: 268, DNM bits: 220
+[COMP] > bincoef(66, 51) = 4794032601666
+
+(n, k) = (66, 52)
+[REAL] > bincoef(66, 52) = 77413632286320, bits: 47, NUM bits: 272, DNM bits: 226
+[COMP] > bincoef(66, 52) = 1382894019711
+
+(n, k) = (66, 53)
+[REAL] > bincoef(66, 53) = 20448884000160, bits: 45, NUM bits: 276, DNM bits: 232
+[COMP] > bincoef(66, 53) = 365292759923
+
+(n, k) = (66, 54)
+[REAL] > bincoef(66, 54) = 4922879481520, bits: 43, NUM bits: 280, DNM bits: 238
+[COMP] > bincoef(66, 54) = 87940849611
+
+(n, k) = (66, 55)
+[REAL] > bincoef(66, 55) = 1074082795968, bits: 40, NUM bits: 283, DNM bits: 243
+[COMP] > bincoef(66, 55) = 19187094460
+
+(n, k) = (66, 56)
+[REAL] > bincoef(66, 56) = 210980549208, bits: 38, NUM bits: 287, DNM bits: 249
+[COMP] > bincoef(66, 56) = 3768893554
+
+(n, k) = (66, 57)
+[REAL] > bincoef(66, 57) = 37014131440, bits: 36, NUM bits: 290, DNM bits: 255
+[COMP] > bincoef(66, 57) = 661209395
+
+(n, k) = (66, 58)
+[REAL] > bincoef(66, 58) = 5743572120, bits: 33, NUM bits: 293, DNM bits: 261
+[COMP] > bincoef(66, 58) = 102601457
+
+(n, k) = (66, 59)
+[REAL] > bincoef(66, 59) = 778789440, bits: 30, NUM bits: 296, DNM bits: 267
+[COMP] > bincoef(66, 59) = 13912061
+
+(n, k) = (66, 60)
+[REAL] > bincoef(66, 60) = 90858768, bits: 27, NUM bits: 299, DNM bits: 273
+[COMP] > bincoef(66, 60) = 1623073
+
+(n, k) = (66, 61)
+[REAL] > bincoef(66, 61) = 8936928, bits: 24, NUM bits: 302, DNM bits: 279
+[COMP] > bincoef(66, 61) = 159646
+
+(n, k) = (66, 62)
+[REAL] > bincoef(66, 62) = 720720, bits: 20, NUM bits: 304, DNM bits: 285
+[COMP] > bincoef(66, 62) = 12874
+
+(n, k) = (66, 63)
+[REAL] > bincoef(66, 63) = 45760, bits: 16, NUM bits: 306, DNM bits: 290
+[COMP] > bincoef(66, 63) = 817
+
+(n, k) = (66, 64)
+[REAL] > bincoef(66, 64) = 2145, bits: 12, NUM bits: 308, DNM bits: 296
+[COMP] > bincoef(66, 64) = 38
+
+(n, k) = (66, 65)
+[REAL] > bincoef(66, 65) = 66, bits: 7, NUM bits: 309, DNM bits: 303
+[COMP] > bincoef(66, 65) = 1
+
+(n, k) = (66, 66)
+[REAL] > bincoef(66, 66) = 1, bits: 1, NUM bits: 309, DNM bits: 309
+[COMP] > bincoef(66, 66) = 0
+
+(n, k) = (67, 0)
+[REAL] > bincoef(67, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(67, 0) = 1
+
+(n, k) = (67, 1)
+[REAL] > bincoef(67, 1) = 67, bits: 7, NUM bits: 7, DNM bits: 1
+[COMP] > bincoef(67, 1) = 67
+
+(n, k) = (67, 2)
+[REAL] > bincoef(67, 2) = 2211, bits: 12, NUM bits: 13, DNM bits: 2
+[COMP] > bincoef(67, 2) = 2211
+
+(n, k) = (67, 3)
+[REAL] > bincoef(67, 3) = 47905, bits: 16, NUM bits: 19, DNM bits: 3
+[COMP] > bincoef(67, 3) = 47905
+
+(n, k) = (67, 4)
+[REAL] > bincoef(67, 4) = 766480, bits: 20, NUM bits: 25, DNM bits: 5
+[COMP] > bincoef(67, 4) = 766480
+
+(n, k) = (67, 5)
+[REAL] > bincoef(67, 5) = 9657648, bits: 24, NUM bits: 31, DNM bits: 7
+[COMP] > bincoef(67, 5) = 9657648
+
+(n, k) = (67, 6)
+[REAL] > bincoef(67, 6) = 99795696, bits: 27, NUM bits: 37, DNM bits: 10
+[COMP] > bincoef(67, 6) = 99795696
+
+(n, k) = (67, 7)
+[REAL] > bincoef(67, 7) = 869648208, bits: 30, NUM bits: 42, DNM bits: 13
+[COMP] > bincoef(67, 7) = 869648208
+
+(n, k) = (67, 8)
+[REAL] > bincoef(67, 8) = 6522361560, bits: 33, NUM bits: 48, DNM bits: 16
+[COMP] > bincoef(67, 8) = 6522361560
+
+(n, k) = (67, 9)
+[REAL] > bincoef(67, 9) = 42757703560, bits: 36, NUM bits: 54, DNM bits: 19
+[COMP] > bincoef(67, 9) = 42757703560
+
+(n, k) = (67, 10)
+[REAL] > bincoef(67, 10) = 247994680648, bits: 38, NUM bits: 60, DNM bits: 22
+[COMP] > bincoef(67, 10) = 247994680648
+
+(n, k) = (67, 11)
+[REAL] > bincoef(67, 11) = 1285063345176, bits: 41, NUM bits: 66, DNM bits: 26
+[COMP] > bincoef(67, 11) = 1285063345176
+
+(n, k) = (67, 12)
+[REAL] > bincoef(67, 12) = 5996962277488, bits: 43, NUM bits: 72, DNM bits: 29
+[COMP] > bincoef(67, 12) = 5996962277488
+
+(n, k) = (67, 13)
+[REAL] > bincoef(67, 13) = 25371763481680, bits: 45, NUM bits: 78, DNM bits: 33
+[COMP] > bincoef(67, 13) = 25371763481680
+
+(n, k) = (67, 14)
+[REAL] > bincoef(67, 14) = 97862516286480, bits: 47, NUM bits: 83, DNM bits: 37
+[COMP] > bincoef(67, 14) = 97862516286480
+
+(n, k) = (67, 15)
+[REAL] > bincoef(67, 15) = 345780890878896, bits: 49, NUM bits: 89, DNM bits: 41
+[COMP] > bincoef(67, 15) = 345780890878896
+
+(n, k) = (67, 16)
+[REAL] > bincoef(67, 16) = 1123787895356412, bits: 50, NUM bits: 95, DNM bits: 45
+[COMP] > bincoef(67, 16) = 1123787895356412
+
+(n, k) = (67, 17)
+[REAL] > bincoef(67, 17) = 3371363686069236, bits: 52, NUM bits: 100, DNM bits: 49
+[COMP] > bincoef(67, 17) = 3371363686069236
+
+(n, k) = (67, 18)
+[REAL] > bincoef(67, 18) = 9364899127970100, bits: 54, NUM bits: 106, DNM bits: 53
+[COMP] > bincoef(67, 18) = 9364899127970100
+
+(n, k) = (67, 19)
+[REAL] > bincoef(67, 19) = 24151581961607100, bits: 55, NUM bits: 112, DNM bits: 57
+[COMP] > bincoef(67, 19) = 24151581961607100
+
+(n, k) = (67, 20)
+[REAL] > bincoef(67, 20) = 57963796707857040, bits: 56, NUM bits: 117, DNM bits: 62
+[COMP] > bincoef(67, 20) = 57963796707857040
+
+(n, k) = (67, 21)
+[REAL] > bincoef(67, 21) = 129728497393775280, bits: 57, NUM bits: 123, DNM bits: 66
+[COMP] > bincoef(67, 21) = 129728497393775280
+
+(n, k) = (67, 22)
+[REAL] > bincoef(67, 22) = 271250494550621040, bits: 58, NUM bits: 128, DNM bits: 70
+[COMP] > bincoef(67, 22) = 271250494550621040
+
+(n, k) = (67, 23)
+[REAL] > bincoef(67, 23) = 530707489338171600, bits: 59, NUM bits: 134, DNM bits: 75
+[COMP] > bincoef(67, 23) = 530707489338171600
+
+(n, k) = (67, 24)
+[REAL] > bincoef(67, 24) = 972963730453314600, bits: 60, NUM bits: 139, DNM bits: 80
+[COMP] > bincoef(67, 24) = 204349394048749949
+
+(n, k) = (67, 25)
+[REAL] > bincoef(67, 25) = 1673497616379701112, bits: 61, NUM bits: 145, DNM bits: 84
+[COMP] > bincoef(67, 25) = 351480957763849912
+
+(n, k) = (67, 26)
+[REAL] > bincoef(67, 26) = 2703342303382594104, bits: 62, NUM bits: 150, DNM bits: 89
+[COMP] > bincoef(67, 26) = 567776931772372934
+
+(n, k) = (67, 27)
+[REAL] > bincoef(67, 27) = 4105075349580976232, bits: 62, NUM bits: 155, DNM bits: 94
+[COMP] > bincoef(67, 27) = 178967041813249580
+
+(n, k) = (67, 28)
+[REAL] > bincoef(67, 28) = 5864393356544251760, bits: 63, NUM bits: 161, DNM bits: 98
+[COMP] > bincoef(67, 28) = 255667202590356542
+
+(n, k) = (67, 29)
+[REAL] > bincoef(67, 29) = 7886597962249166160, bits: 63, NUM bits: 166, DNM bits: 103
+[COMP] > bincoef(67, 29) = 343828306931858797
+
+(n, k) = (67, 30)
+[REAL] > bincoef(67, 30) = 9989690752182277136, bits: 64, NUM bits: 171, DNM bits: 108
+[COMP] > bincoef(67, 30) = 435515855447021142
+
+(n, k) = (67, 31)
+[REAL] > bincoef(67, 31) = 11923179284862717872, bits: 64, NUM bits: 177, DNM bits: 113
+[COMP] > bincoef(67, 31) = 519809246823863943
+
+(n, k) = (67, 32)
+[REAL] > bincoef(67, 32) = 13413576695470557606, bits: 64, NUM bits: 182, DNM bits: 118
+[COMP] > bincoef(67, 32) = 8324650373423447
+
+(n, k) = (67, 33)
+[REAL] > bincoef(67, 33) = 14226520737620288370, bits: 64, NUM bits: 187, DNM bits: 123
+[COMP] > bincoef(67, 33) = 8829174638479413
+
+(n, k) = (67, 34)
+[REAL] > bincoef(67, 34) = 14226520737620288370, bits: 64, NUM bits: 192, DNM bits: 128
+[COMP] > bincoef(67, 34) = 8829174638479413
+
+(n, k) = (67, 35)
+[REAL] > bincoef(67, 35) = 13413576695470557606, bits: 64, NUM bits: 197, DNM bits: 133
+[COMP] > bincoef(67, 35) = 8324650373423446
+
+(n, k) = (67, 36)
+[REAL] > bincoef(67, 36) = 11923179284862717872, bits: 64, NUM bits: 202, DNM bits: 139
+[COMP] > bincoef(67, 36) = 7399689220820840
+
+(n, k) = (67, 37)
+[REAL] > bincoef(67, 37) = 9989690752182277136, bits: 64, NUM bits: 207, DNM bits: 144
+[COMP] > bincoef(67, 37) = 6199739617444487
+
+(n, k) = (67, 38)
+[REAL] > bincoef(67, 38) = 7886597962249166160, bits: 63, NUM bits: 212, DNM bits: 149
+[COMP] > bincoef(67, 38) = 4894531276929858
+
+(n, k) = (67, 39)
+[REAL] > bincoef(67, 39) = 5864393356544251760, bits: 63, NUM bits: 217, DNM bits: 154
+[COMP] > bincoef(67, 39) = 3639523257204253
+
+(n, k) = (67, 40)
+[REAL] > bincoef(67, 40) = 4105075349580976232, bits: 62, NUM bits: 221, DNM bits: 160
+[COMP] > bincoef(67, 40) = 2547666280042977
+
+(n, k) = (67, 41)
+[REAL] > bincoef(67, 41) = 2703342303382594104, bits: 62, NUM bits: 226, DNM bits: 165
+[COMP] > bincoef(67, 41) = 1677731452711228
+
+(n, k) = (67, 42)
+[REAL] > bincoef(67, 42) = 1673497616379701112, bits: 61, NUM bits: 231, DNM bits: 170
+[COMP] > bincoef(67, 42) = 1038595661202188
+
+(n, k) = (67, 43)
+[REAL] > bincoef(67, 43) = 972963730453314600, bits: 60, NUM bits: 236, DNM bits: 176
+[COMP] > bincoef(67, 43) = 603834686745458
+
+(n, k) = (67, 44)
+[REAL] > bincoef(67, 44) = 530707489338171600, bits: 59, NUM bits: 240, DNM bits: 181
+[COMP] > bincoef(67, 44) = 329364374588431
+
+(n, k) = (67, 45)
+[REAL] > bincoef(67, 45) = 271250494550621040, bits: 58, NUM bits: 245, DNM bits: 187
+[COMP] > bincoef(67, 45) = 168341791456309
+
+(n, k) = (67, 46)
+[REAL] > bincoef(67, 46) = 129728497393775280, bits: 57, NUM bits: 249, DNM bits: 192
+[COMP] > bincoef(67, 46) = 80511291566060
+
+(n, k) = (67, 47)
+[REAL] > bincoef(67, 47) = 57963796707857040, bits: 56, NUM bits: 254, DNM bits: 198
+[COMP] > bincoef(67, 47) = 35973130274197
+
+(n, k) = (67, 48)
+[REAL] > bincoef(67, 48) = 24151581961607100, bits: 55, NUM bits: 258, DNM bits: 203
+[COMP] > bincoef(67, 48) = 14988804280915
+
+(n, k) = (67, 49)
+[REAL] > bincoef(67, 49) = 9364899127970100, bits: 54, NUM bits: 262, DNM bits: 209
+[COMP] > bincoef(67, 49) = 5811985333416
+
+(n, k) = (67, 50)
+[REAL] > bincoef(67, 50) = 3371363686069236, bits: 52, NUM bits: 266, DNM bits: 215
+[COMP] > bincoef(67, 50) = 2092314720029
+
+(n, k) = (67, 51)
+[REAL] > bincoef(67, 51) = 1123787895356412, bits: 50, NUM bits: 270, DNM bits: 220
+[COMP] > bincoef(67, 51) = 697438240009
+
+(n, k) = (67, 52)
+[REAL] > bincoef(67, 52) = 345780890878896, bits: 49, NUM bits: 274, DNM bits: 226
+[COMP] > bincoef(67, 52) = 214596381541
+
+(n, k) = (67, 53)
+[REAL] > bincoef(67, 53) = 97862516286480, bits: 47, NUM bits: 278, DNM bits: 232
+[COMP] > bincoef(67, 53) = 60734824964
+
+(n, k) = (67, 54)
+[REAL] > bincoef(67, 54) = 25371763481680, bits: 45, NUM bits: 282, DNM bits: 238
+[COMP] > bincoef(67, 54) = 15746065731
+
+(n, k) = (67, 55)
+[REAL] > bincoef(67, 55) = 5996962277488, bits: 43, NUM bits: 286, DNM bits: 243
+[COMP] > bincoef(67, 55) = 3721797354
+
+(n, k) = (67, 56)
+[REAL] > bincoef(67, 56) = 1285063345176, bits: 41, NUM bits: 289, DNM bits: 249
+[COMP] > bincoef(67, 56) = 797528004
+
+(n, k) = (67, 57)
+[REAL] > bincoef(67, 57) = 247994680648, bits: 38, NUM bits: 293, DNM bits: 255
+[COMP] > bincoef(67, 57) = 153908913
+
+(n, k) = (67, 58)
+[REAL] > bincoef(67, 58) = 42757703560, bits: 36, NUM bits: 296, DNM bits: 261
+[COMP] > bincoef(67, 58) = 26536019
+
+(n, k) = (67, 59)
+[REAL] > bincoef(67, 59) = 6522361560, bits: 33, NUM bits: 299, DNM bits: 267
+[COMP] > bincoef(67, 59) = 4047867
+
+(n, k) = (67, 60)
+[REAL] > bincoef(67, 60) = 869648208, bits: 30, NUM bits: 302, DNM bits: 273
+[COMP] > bincoef(67, 60) = 539715
+
+(n, k) = (67, 61)
+[REAL] > bincoef(67, 61) = 99795696, bits: 27, NUM bits: 305, DNM bits: 279
+[COMP] > bincoef(67, 61) = 61934
+
+(n, k) = (67, 62)
+[REAL] > bincoef(67, 62) = 9657648, bits: 24, NUM bits: 308, DNM bits: 285
+[COMP] > bincoef(67, 62) = 5993
+
+(n, k) = (67, 63)
+[REAL] > bincoef(67, 63) = 766480, bits: 20, NUM bits: 310, DNM bits: 290
+[COMP] > bincoef(67, 63) = 475
+
+(n, k) = (67, 64)
+[REAL] > bincoef(67, 64) = 47905, bits: 16, NUM bits: 312, DNM bits: 296
+[COMP] > bincoef(67, 64) = 29
+
+(n, k) = (67, 65)
+[REAL] > bincoef(67, 65) = 2211, bits: 12, NUM bits: 314, DNM bits: 303
+[COMP] > bincoef(67, 65) = 1
+
+(n, k) = (67, 66)
+[REAL] > bincoef(67, 66) = 67, bits: 7, NUM bits: 315, DNM bits: 309
+[COMP] > bincoef(67, 66) = 0
+
+(n, k) = (67, 67)
+[REAL] > bincoef(67, 67) = 1, bits: 1, NUM bits: 315, DNM bits: 315
+[COMP] > bincoef(67, 67) = 0
+
+(n, k) = (68, 0)
+[REAL] > bincoef(68, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(68, 0) = 1
+
+(n, k) = (68, 1)
+[REAL] > bincoef(68, 1) = 68, bits: 7, NUM bits: 7, DNM bits: 1
+[COMP] > bincoef(68, 1) = 68
+
+(n, k) = (68, 2)
+[REAL] > bincoef(68, 2) = 2278, bits: 12, NUM bits: 13, DNM bits: 2
+[COMP] > bincoef(68, 2) = 2278
+
+(n, k) = (68, 3)
+[REAL] > bincoef(68, 3) = 50116, bits: 16, NUM bits: 19, DNM bits: 3
+[COMP] > bincoef(68, 3) = 50116
+
+(n, k) = (68, 4)
+[REAL] > bincoef(68, 4) = 814385, bits: 20, NUM bits: 25, DNM bits: 5
+[COMP] > bincoef(68, 4) = 814385
+
+(n, k) = (68, 5)
+[REAL] > bincoef(68, 5) = 10424128, bits: 24, NUM bits: 31, DNM bits: 7
+[COMP] > bincoef(68, 5) = 10424128
+
+(n, k) = (68, 6)
+[REAL] > bincoef(68, 6) = 109453344, bits: 27, NUM bits: 37, DNM bits: 10
+[COMP] > bincoef(68, 6) = 109453344
+
+(n, k) = (68, 7)
+[REAL] > bincoef(68, 7) = 969443904, bits: 30, NUM bits: 43, DNM bits: 13
+[COMP] > bincoef(68, 7) = 969443904
+
+(n, k) = (68, 8)
+[REAL] > bincoef(68, 8) = 7392009768, bits: 33, NUM bits: 49, DNM bits: 16
+[COMP] > bincoef(68, 8) = 7392009768
+
+(n, k) = (68, 9)
+[REAL] > bincoef(68, 9) = 49280065120, bits: 36, NUM bits: 54, DNM bits: 19
+[COMP] > bincoef(68, 9) = 49280065120
+
+(n, k) = (68, 10)
+[REAL] > bincoef(68, 10) = 290752384208, bits: 39, NUM bits: 60, DNM bits: 22
+[COMP] > bincoef(68, 10) = 290752384208
+
+(n, k) = (68, 11)
+[REAL] > bincoef(68, 11) = 1533058025824, bits: 41, NUM bits: 66, DNM bits: 26
+[COMP] > bincoef(68, 11) = 1533058025824
+
+(n, k) = (68, 12)
+[REAL] > bincoef(68, 12) = 7282025622664, bits: 43, NUM bits: 72, DNM bits: 29
+[COMP] > bincoef(68, 12) = 7282025622664
+
+(n, k) = (68, 13)
+[REAL] > bincoef(68, 13) = 31368725759168, bits: 45, NUM bits: 78, DNM bits: 33
+[COMP] > bincoef(68, 13) = 31368725759168
+
+(n, k) = (68, 14)
+[REAL] > bincoef(68, 14) = 123234279768160, bits: 47, NUM bits: 84, DNM bits: 37
+[COMP] > bincoef(68, 14) = 123234279768160
+
+(n, k) = (68, 15)
+[REAL] > bincoef(68, 15) = 443643407165376, bits: 49, NUM bits: 89, DNM bits: 41
+[COMP] > bincoef(68, 15) = 443643407165376
+
+(n, k) = (68, 16)
+[REAL] > bincoef(68, 16) = 1469568786235308, bits: 51, NUM bits: 95, DNM bits: 45
+[COMP] > bincoef(68, 16) = 1469568786235308
+
+(n, k) = (68, 17)
+[REAL] > bincoef(68, 17) = 4495151581425648, bits: 52, NUM bits: 101, DNM bits: 49
+[COMP] > bincoef(68, 17) = 4495151581425648
+
+(n, k) = (68, 18)
+[REAL] > bincoef(68, 18) = 12736262814039336, bits: 54, NUM bits: 107, DNM bits: 53
+[COMP] > bincoef(68, 18) = 12736262814039336
+
+(n, k) = (68, 19)
+[REAL] > bincoef(68, 19) = 33516481089577200, bits: 55, NUM bits: 112, DNM bits: 57
+[COMP] > bincoef(68, 19) = 33516481089577200
+
+(n, k) = (68, 20)
+[REAL] > bincoef(68, 20) = 82115378669464140, bits: 57, NUM bits: 118, DNM bits: 62
+[COMP] > bincoef(68, 20) = 82115378669464140
+
+(n, k) = (68, 21)
+[REAL] > bincoef(68, 21) = 187692294101632320, bits: 58, NUM bits: 123, DNM bits: 66
+[COMP] > bincoef(68, 21) = 187692294101632320
+
+(n, k) = (68, 22)
+[REAL] > bincoef(68, 22) = 400978991944396320, bits: 59, NUM bits: 129, DNM bits: 70
+[COMP] > bincoef(68, 22) = 400978991944396320
+
+(n, k) = (68, 23)
+[REAL] > bincoef(68, 23) = 801957983888792640, bits: 60, NUM bits: 134, DNM bits: 75
+[COMP] > bincoef(68, 23) = 801957983888792640
+
+(n, k) = (68, 24)
+[REAL] > bincoef(68, 24) = 1503671219791486200, bits: 61, NUM bits: 140, DNM bits: 80
+[COMP] > bincoef(68, 24) = 735056883386921549
+
+(n, k) = (68, 25)
+[REAL] > bincoef(68, 25) = 2646461346833015712, bits: 62, NUM bits: 145, DNM bits: 84
+[COMP] > bincoef(68, 25) = 555830351812599861
+
+(n, k) = (68, 26)
+[REAL] > bincoef(68, 26) = 4376839919762295216, bits: 62, NUM bits: 151, DNM bits: 89
+[COMP] > bincoef(68, 26) = 209767732855086246
+
+(n, k) = (68, 27)
+[REAL] > bincoef(68, 27) = 6808417652963570336, bits: 63, NUM bits: 156, DNM bits: 94
+[COMP] > bincoef(68, 27) = 326305362219023049
+
+(n, k) = (68, 28)
+[REAL] > bincoef(68, 28) = 9969468706125227992, bits: 64, NUM bits: 162, DNM bits: 98
+[COMP] > bincoef(68, 28) = 477804280392140893
+
+(n, k) = (68, 29)
+[REAL] > bincoef(68, 29) = 13750991318793417920, bits: 64, NUM bits: 167, DNM bits: 103
+[COMP] > bincoef(68, 29) = 22945763516416693
+
+(n, k) = (68, 30)
+[REAL] > bincoef(68, 30) = 17876288714431443296, bits: 64, NUM bits: 172, DNM bits: 108
+[COMP] > bincoef(68, 30) = 29829492571341700
+
+(n, k) = (68, 31)
+[REAL] > bincoef(68, 31) = 21912870037044995008, bits: 65, NUM bits: 177, DNM bits: 113
+[COMP] > bincoef(68, 31) = 36565184442289825
+
+(n, k) = (68, 32)
+[REAL] > bincoef(68, 32) = 25336755980333275478, bits: 65, NUM bits: 183, DNM bits: 118
+[COMP] > bincoef(68, 32) = 42278494511397610
+
+(n, k) = (68, 33)
+[REAL] > bincoef(68, 33) = 27640097433090845976, bits: 65, NUM bits: 188, DNM bits: 123
+[COMP] > bincoef(68, 33) = 46121994012433756
+
+(n, k) = (68, 34)
+[REAL] > bincoef(68, 34) = 28453041475240576740, bits: 65, NUM bits: 193, DNM bits: 128
+[COMP] > bincoef(68, 34) = 47478523248093572
+
+(n, k) = (68, 35)
+[REAL] > bincoef(68, 35) = 27640097433090845976, bits: 65, NUM bits: 198, DNM bits: 133
+[COMP] > bincoef(68, 35) = 46121994012433755
+
+(n, k) = (68, 36)
+[REAL] > bincoef(68, 36) = 25336755980333275478, bits: 65, NUM bits: 203, DNM bits: 139
+[COMP] > bincoef(68, 36) = 42278494511397608
+
+(n, k) = (68, 37)
+[REAL] > bincoef(68, 37) = 21912870037044995008, bits: 65, NUM bits: 208, DNM bits: 144
+[COMP] > bincoef(68, 37) = 36565184442289823
+
+(n, k) = (68, 38)
+[REAL] > bincoef(68, 38) = 17876288714431443296, bits: 64, NUM bits: 213, DNM bits: 149
+[COMP] > bincoef(68, 38) = 29829492571341697
+
+(n, k) = (68, 39)
+[REAL] > bincoef(68, 39) = 13750991318793417920, bits: 64, NUM bits: 218, DNM bits: 154
+[COMP] > bincoef(68, 39) = 22945763516416690
+
+(n, k) = (68, 40)
+[REAL] > bincoef(68, 40) = 9969468706125227992, bits: 64, NUM bits: 223, DNM bits: 160
+[COMP] > bincoef(68, 40) = 16635678549402100
+
+(n, k) = (68, 41)
+[REAL] > bincoef(68, 41) = 6808417652963570336, bits: 63, NUM bits: 228, DNM bits: 165
+[COMP] > bincoef(68, 41) = 11360951204469726
+
+(n, k) = (68, 42)
+[REAL] > bincoef(68, 42) = 4376839919762295216, bits: 62, NUM bits: 232, DNM bits: 170
+[COMP] > bincoef(68, 42) = 7303468631444823
+
+(n, k) = (68, 43)
+[REAL] > bincoef(68, 43) = 2646461346833015712, bits: 62, NUM bits: 237, DNM bits: 176
+[COMP] > bincoef(68, 43) = 4416050800408497
+
+(n, k) = (68, 44)
+[REAL] > bincoef(68, 44) = 1503671219791486200, bits: 61, NUM bits: 242, DNM bits: 181
+[COMP] > bincoef(68, 44) = 2509119772959373
+
+(n, k) = (68, 45)
+[REAL] > bincoef(68, 45) = 801957983888792640, bits: 60, NUM bits: 246, DNM bits: 187
+[COMP] > bincoef(68, 45) = 1338197212244998
+
+(n, k) = (68, 46)
+[REAL] > bincoef(68, 46) = 400978991944396320, bits: 59, NUM bits: 251, DNM bits: 192
+[COMP] > bincoef(68, 46) = 669098606122499
+
+(n, k) = (68, 47)
+[REAL] > bincoef(68, 47) = 187692294101632320, bits: 58, NUM bits: 255, DNM bits: 198
+[COMP] > bincoef(68, 47) = 313195092227552
+
+(n, k) = (68, 48)
+[REAL] > bincoef(68, 48) = 82115378669464140, bits: 57, NUM bits: 260, DNM bits: 203
+[COMP] > bincoef(68, 48) = 137022852849554
+
+(n, k) = (68, 49)
+[REAL] > bincoef(68, 49) = 33516481089577200, bits: 55, NUM bits: 264, DNM bits: 209
+[COMP] > bincoef(68, 49) = 55927695040634
+
+(n, k) = (68, 50)
+[REAL] > bincoef(68, 50) = 12736262814039336, bits: 54, NUM bits: 268, DNM bits: 215
+[COMP] > bincoef(68, 50) = 21252524115440
+
+(n, k) = (68, 51)
+[REAL] > bincoef(68, 51) = 4495151581425648, bits: 52, NUM bits: 272, DNM bits: 220
+[COMP] > bincoef(68, 51) = 7500890864272
+
+(n, k) = (68, 52)
+[REAL] > bincoef(68, 52) = 1469568786235308, bits: 51, NUM bits: 276, DNM bits: 226
+[COMP] > bincoef(68, 52) = 2452214321012
+
+(n, k) = (68, 53)
+[REAL] > bincoef(68, 53) = 443643407165376, bits: 49, NUM bits: 280, DNM bits: 232
+[COMP] > bincoef(68, 53) = 740291115777
+
+(n, k) = (68, 54)
+[REAL] > bincoef(68, 54) = 123234279768160, bits: 47, NUM bits: 284, DNM bits: 238
+[COMP] > bincoef(68, 54) = 205636421049
+
+(n, k) = (68, 55)
+[REAL] > bincoef(68, 55) = 31368725759168, bits: 45, NUM bits: 288, DNM bits: 243
+[COMP] > bincoef(68, 55) = 52343816267
+
+(n, k) = (68, 56)
+[REAL] > bincoef(68, 56) = 7282025622664, bits: 43, NUM bits: 292, DNM bits: 249
+[COMP] > bincoef(68, 56) = 12151243061
+
+(n, k) = (68, 57)
+[REAL] > bincoef(68, 57) = 1533058025824, bits: 41, NUM bits: 295, DNM bits: 255
+[COMP] > bincoef(68, 57) = 2558156433
+
+(n, k) = (68, 58)
+[REAL] > bincoef(68, 58) = 290752384208, bits: 39, NUM bits: 299, DNM bits: 261
+[COMP] > bincoef(68, 58) = 485167599
+
+(n, k) = (68, 59)
+[REAL] > bincoef(68, 59) = 49280065120, bits: 36, NUM bits: 302, DNM bits: 267
+[COMP] > bincoef(68, 59) = 82231796
+
+(n, k) = (68, 60)
+[REAL] > bincoef(68, 60) = 7392009768, bits: 33, NUM bits: 305, DNM bits: 273
+[COMP] > bincoef(68, 60) = 12334769
+
+(n, k) = (68, 61)
+[REAL] > bincoef(68, 61) = 969443904, bits: 30, NUM bits: 308, DNM bits: 279
+[COMP] > bincoef(68, 61) = 1617674
+
+(n, k) = (68, 62)
+[REAL] > bincoef(68, 62) = 109453344, bits: 27, NUM bits: 311, DNM bits: 285
+[COMP] > bincoef(68, 62) = 182640
+
+(n, k) = (68, 63)
+[REAL] > bincoef(68, 63) = 10424128, bits: 24, NUM bits: 314, DNM bits: 290
+[COMP] > bincoef(68, 63) = 17394
+
+(n, k) = (68, 64)
+[REAL] > bincoef(68, 64) = 814385, bits: 20, NUM bits: 316, DNM bits: 296
+[COMP] > bincoef(68, 64) = 1358
+
+(n, k) = (68, 65)
+[REAL] > bincoef(68, 65) = 50116, bits: 16, NUM bits: 318, DNM bits: 303
+[COMP] > bincoef(68, 65) = 83
+
+(n, k) = (68, 66)
+[REAL] > bincoef(68, 66) = 2278, bits: 12, NUM bits: 320, DNM bits: 309
+[COMP] > bincoef(68, 66) = 3
+
+(n, k) = (68, 67)
+[REAL] > bincoef(68, 67) = 68, bits: 7, NUM bits: 321, DNM bits: 315
+[COMP] > bincoef(68, 67) = 0
+
+(n, k) = (68, 68)
+[REAL] > bincoef(68, 68) = 1, bits: 1, NUM bits: 321, DNM bits: 321
+[COMP] > bincoef(68, 68) = 0
+
+(n, k) = (69, 0)
+[REAL] > bincoef(69, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(69, 0) = 1
+
+(n, k) = (69, 1)
+[REAL] > bincoef(69, 1) = 69, bits: 7, NUM bits: 7, DNM bits: 1
+[COMP] > bincoef(69, 1) = 69
+
+(n, k) = (69, 2)
+[REAL] > bincoef(69, 2) = 2346, bits: 12, NUM bits: 13, DNM bits: 2
+[COMP] > bincoef(69, 2) = 2346
+
+(n, k) = (69, 3)
+[REAL] > bincoef(69, 3) = 52394, bits: 16, NUM bits: 19, DNM bits: 3
+[COMP] > bincoef(69, 3) = 52394
+
+(n, k) = (69, 4)
+[REAL] > bincoef(69, 4) = 864501, bits: 20, NUM bits: 25, DNM bits: 5
+[COMP] > bincoef(69, 4) = 864501
+
+(n, k) = (69, 5)
+[REAL] > bincoef(69, 5) = 11238513, bits: 24, NUM bits: 31, DNM bits: 7
+[COMP] > bincoef(69, 5) = 11238513
+
+(n, k) = (69, 6)
+[REAL] > bincoef(69, 6) = 119877472, bits: 27, NUM bits: 37, DNM bits: 10
+[COMP] > bincoef(69, 6) = 119877472
+
+(n, k) = (69, 7)
+[REAL] > bincoef(69, 7) = 1078897248, bits: 31, NUM bits: 43, DNM bits: 13
+[COMP] > bincoef(69, 7) = 1078897248
+
+(n, k) = (69, 8)
+[REAL] > bincoef(69, 8) = 8361453672, bits: 33, NUM bits: 49, DNM bits: 16
+[COMP] > bincoef(69, 8) = 8361453672
+
+(n, k) = (69, 9)
+[REAL] > bincoef(69, 9) = 56672074888, bits: 36, NUM bits: 55, DNM bits: 19
+[COMP] > bincoef(69, 9) = 56672074888
+
+(n, k) = (69, 10)
+[REAL] > bincoef(69, 10) = 340032449328, bits: 39, NUM bits: 61, DNM bits: 22
+[COMP] > bincoef(69, 10) = 340032449328
+
+(n, k) = (69, 11)
+[REAL] > bincoef(69, 11) = 1823810410032, bits: 41, NUM bits: 66, DNM bits: 26
+[COMP] > bincoef(69, 11) = 1823810410032
+
+(n, k) = (69, 12)
+[REAL] > bincoef(69, 12) = 8815083648488, bits: 44, NUM bits: 72, DNM bits: 29
+[COMP] > bincoef(69, 12) = 8815083648488
+
+(n, k) = (69, 13)
+[REAL] > bincoef(69, 13) = 38650751381832, bits: 46, NUM bits: 78, DNM bits: 33
+[COMP] > bincoef(69, 13) = 38650751381832
+
+(n, k) = (69, 14)
+[REAL] > bincoef(69, 14) = 154603005527328, bits: 48, NUM bits: 84, DNM bits: 37
+[COMP] > bincoef(69, 14) = 154603005527328
+
+(n, k) = (69, 15)
+[REAL] > bincoef(69, 15) = 566877686933536, bits: 50, NUM bits: 90, DNM bits: 41
+[COMP] > bincoef(69, 15) = 566877686933536
+
+(n, k) = (69, 16)
+[REAL] > bincoef(69, 16) = 1913212193400684, bits: 51, NUM bits: 96, DNM bits: 45
+[COMP] > bincoef(69, 16) = 1913212193400684
+
+(n, k) = (69, 17)
+[REAL] > bincoef(69, 17) = 5964720367660956, bits: 53, NUM bits: 101, DNM bits: 49
+[COMP] > bincoef(69, 17) = 5964720367660956
+
+(n, k) = (69, 18)
+[REAL] > bincoef(69, 18) = 17231414395464984, bits: 54, NUM bits: 107, DNM bits: 53
+[COMP] > bincoef(69, 18) = 17231414395464984
+
+(n, k) = (69, 19)
+[REAL] > bincoef(69, 19) = 46252743903616536, bits: 56, NUM bits: 113, DNM bits: 57
+[COMP] > bincoef(69, 19) = 46252743903616536
+
+(n, k) = (69, 20)
+[REAL] > bincoef(69, 20) = 115631859759041340, bits: 57, NUM bits: 118, DNM bits: 62
+[COMP] > bincoef(69, 20) = 115631859759041340
+
+(n, k) = (69, 21)
+[REAL] > bincoef(69, 21) = 269807672771096460, bits: 58, NUM bits: 124, DNM bits: 66
+[COMP] > bincoef(69, 21) = 269807672771096460
+
+(n, k) = (69, 22)
+[REAL] > bincoef(69, 22) = 588671286046028640, bits: 60, NUM bits: 129, DNM bits: 70
+[COMP] > bincoef(69, 22) = 588671286046028640
+
+(n, k) = (69, 23)
+[REAL] > bincoef(69, 23) = 1202936975833188960, bits: 61, NUM bits: 135, DNM bits: 75
+[COMP] > bincoef(69, 23) = 400904624802338889
+
+(n, k) = (69, 24)
+[REAL] > bincoef(69, 24) = 2305629203680278840, bits: 61, NUM bits: 141, DNM bits: 80
+[COMP] > bincoef(69, 24) = 768400530871149537
+
+(n, k) = (69, 25)
+[REAL] > bincoef(69, 25) = 4150132566624501912, bits: 62, NUM bits: 146, DNM bits: 84
+[COMP] > bincoef(69, 25) = 645251192619687101
+
+(n, k) = (69, 26)
+[REAL] > bincoef(69, 26) = 7023301266595310928, bits: 63, NUM bits: 151, DNM bits: 89
+[COMP] > bincoef(69, 26) = 382473400059872339
+
+(n, k) = (69, 27)
+[REAL] > bincoef(69, 27) = 11185257572725865552, bits: 64, NUM bits: 157, DNM bits: 94
+[COMP] > bincoef(69, 27) = 609124303799055947
+
+(n, k) = (69, 28)
+[REAL] > bincoef(69, 28) = 16777886359088798328, bits: 64, NUM bits: 162, DNM bits: 98
+[COMP] > bincoef(69, 28) = 254874167351814219
+
+(n, k) = (69, 29)
+[REAL] > bincoef(69, 29) = 23720460024918645912, bits: 65, NUM bits: 168, DNM bits: 103
+[COMP] > bincoef(69, 29) = 360339340049116654
+
+(n, k) = (69, 30)
+[REAL] > bincoef(69, 30) = 31627280033224861216, bits: 65, NUM bits: 173, DNM bits: 108
+[COMP] > bincoef(69, 30) = 480452453398822205
+
+(n, k) = (69, 31)
+[REAL] > bincoef(69, 31) = 39789158751476438304, bits: 66, NUM bits: 178, DNM bits: 113
+[COMP] > bincoef(69, 31) = 9383922865952076
+
+(n, k) = (69, 32)
+[REAL] > bincoef(69, 32) = 47249626017378270486, bits: 66, NUM bits: 184, DNM bits: 118
+[COMP] > bincoef(69, 32) = 11143408403318090
+
+(n, k) = (69, 33)
+[REAL] > bincoef(69, 33) = 52976853413424121454, bits: 66, NUM bits: 189, DNM bits: 123
+[COMP] > bincoef(69, 33) = 12494124573417252
+
+(n, k) = (69, 34)
+[REAL] > bincoef(69, 34) = 56093138908331422716, bits: 66, NUM bits: 194, DNM bits: 128
+[COMP] > bincoef(69, 34) = 13229073077735913
+
+(n, k) = (69, 35)
+[REAL] > bincoef(69, 35) = 56093138908331422716, bits: 66, NUM bits: 199, DNM bits: 133
+[COMP] > bincoef(69, 35) = 13229073077735913
+
+(n, k) = (69, 36)
+[REAL] > bincoef(69, 36) = 52976853413424121454, bits: 66, NUM bits: 204, DNM bits: 139
+[COMP] > bincoef(69, 36) = 12494124573417251
+
+(n, k) = (69, 37)
+[REAL] > bincoef(69, 37) = 47249626017378270486, bits: 66, NUM bits: 209, DNM bits: 144
+[COMP] > bincoef(69, 37) = 11143408403318088
+
+(n, k) = (69, 38)
+[REAL] > bincoef(69, 38) = 39789158751476438304, bits: 66, NUM bits: 214, DNM bits: 149
+[COMP] > bincoef(69, 38) = 9383922865952074
+
+(n, k) = (69, 39)
+[REAL] > bincoef(69, 39) = 31627280033224861216, bits: 65, NUM bits: 219, DNM bits: 154
+[COMP] > bincoef(69, 39) = 7459015611397802
+
+(n, k) = (69, 40)
+[REAL] > bincoef(69, 40) = 23720460024918645912, bits: 65, NUM bits: 224, DNM bits: 160
+[COMP] > bincoef(69, 40) = 5594261708548351
+
+(n, k) = (69, 41)
+[REAL] > bincoef(69, 41) = 16777886359088798328, bits: 64, NUM bits: 229, DNM bits: 165
+[COMP] > bincoef(69, 41) = 3956916818241516
+
+(n, k) = (69, 42)
+[REAL] > bincoef(69, 42) = 11185257572725865552, bits: 64, NUM bits: 234, DNM bits: 170
+[COMP] > bincoef(69, 42) = 2637944545494344
+
+(n, k) = (69, 43)
+[REAL] > bincoef(69, 43) = 7023301266595310928, bits: 63, NUM bits: 238, DNM bits: 176
+[COMP] > bincoef(69, 43) = 1656383784380169
+
+(n, k) = (69, 44)
+[REAL] > bincoef(69, 44) = 4150132566624501912, bits: 62, NUM bits: 243, DNM bits: 181
+[COMP] > bincoef(69, 44) = 978772236224645
+
+(n, k) = (69, 45)
+[REAL] > bincoef(69, 45) = 2305629203680278840, bits: 61, NUM bits: 248, DNM bits: 187
+[COMP] > bincoef(69, 45) = 543762353458136
+
+(n, k) = (69, 46)
+[REAL] > bincoef(69, 46) = 1202936975833188960, bits: 61, NUM bits: 252, DNM bits: 192
+[COMP] > bincoef(69, 46) = 283702097456418
+
+(n, k) = (69, 47)
+[REAL] > bincoef(69, 47) = 588671286046028640, bits: 60, NUM bits: 257, DNM bits: 198
+[COMP] > bincoef(69, 47) = 138832941308459
+
+(n, k) = (69, 48)
+[REAL] > bincoef(69, 48) = 269807672771096460, bits: 58, NUM bits: 261, DNM bits: 203
+[COMP] > bincoef(69, 48) = 63631764766377
+
+(n, k) = (69, 49)
+[REAL] > bincoef(69, 49) = 115631859759041340, bits: 57, NUM bits: 266, DNM bits: 209
+[COMP] > bincoef(69, 49) = 27270756328447
+
+(n, k) = (69, 50)
+[REAL] > bincoef(69, 50) = 46252743903616536, bits: 56, NUM bits: 270, DNM bits: 215
+[COMP] > bincoef(69, 50) = 10908302531378
+
+(n, k) = (69, 51)
+[REAL] > bincoef(69, 51) = 17231414395464984, bits: 54, NUM bits: 274, DNM bits: 220
+[COMP] > bincoef(69, 51) = 4063877413650
+
+(n, k) = (69, 52)
+[REAL] > bincoef(69, 52) = 5964720367660956, bits: 53, NUM bits: 278, DNM bits: 226
+[COMP] > bincoef(69, 52) = 1406726797032
+
+(n, k) = (69, 53)
+[REAL] > bincoef(69, 53) = 1913212193400684, bits: 51, NUM bits: 283, DNM bits: 232
+[COMP] > bincoef(69, 53) = 451214255651
+
+(n, k) = (69, 54)
+[REAL] > bincoef(69, 54) = 566877686933536, bits: 50, NUM bits: 287, DNM bits: 238
+[COMP] > bincoef(69, 54) = 133693112785
+
+(n, k) = (69, 55)
+[REAL] > bincoef(69, 55) = 154603005527328, bits: 48, NUM bits: 290, DNM bits: 243
+[COMP] > bincoef(69, 55) = 36461758032
+
+(n, k) = (69, 56)
+[REAL] > bincoef(69, 56) = 38650751381832, bits: 46, NUM bits: 294, DNM bits: 249
+[COMP] > bincoef(69, 56) = 9115439508
+
+(n, k) = (69, 57)
+[REAL] > bincoef(69, 57) = 8815083648488, bits: 44, NUM bits: 298, DNM bits: 255
+[COMP] > bincoef(69, 57) = 2078959887
+
+(n, k) = (69, 58)
+[REAL] > bincoef(69, 58) = 1823810410032, bits: 41, NUM bits: 302, DNM bits: 261
+[COMP] > bincoef(69, 58) = 430129631
+
+(n, k) = (69, 59)
+[REAL] > bincoef(69, 59) = 340032449328, bits: 39, NUM bits: 305, DNM bits: 267
+[COMP] > bincoef(69, 59) = 80193660
+
+(n, k) = (69, 60)
+[REAL] > bincoef(69, 60) = 56672074888, bits: 36, NUM bits: 308, DNM bits: 273
+[COMP] > bincoef(69, 60) = 13365610
+
+(n, k) = (69, 61)
+[REAL] > bincoef(69, 61) = 8361453672, bits: 33, NUM bits: 312, DNM bits: 279
+[COMP] > bincoef(69, 61) = 1971975
+
+(n, k) = (69, 62)
+[REAL] > bincoef(69, 62) = 1078897248, bits: 31, NUM bits: 315, DNM bits: 285
+[COMP] > bincoef(69, 62) = 254448
+
+(n, k) = (69, 63)
+[REAL] > bincoef(69, 63) = 119877472, bits: 27, NUM bits: 317, DNM bits: 290
+[COMP] > bincoef(69, 63) = 28272
+
+(n, k) = (69, 64)
+[REAL] > bincoef(69, 64) = 11238513, bits: 24, NUM bits: 320, DNM bits: 296
+[COMP] > bincoef(69, 64) = 2650
+
+(n, k) = (69, 65)
+[REAL] > bincoef(69, 65) = 864501, bits: 20, NUM bits: 322, DNM bits: 303
+[COMP] > bincoef(69, 65) = 203
+
+(n, k) = (69, 66)
+[REAL] > bincoef(69, 66) = 52394, bits: 16, NUM bits: 324, DNM bits: 309
+[COMP] > bincoef(69, 66) = 12
+
+(n, k) = (69, 67)
+[REAL] > bincoef(69, 67) = 2346, bits: 12, NUM bits: 326, DNM bits: 315
+[COMP] > bincoef(69, 67) = 0
+
+(n, k) = (69, 68)
+[REAL] > bincoef(69, 68) = 69, bits: 7, NUM bits: 327, DNM bits: 321
+[COMP] > bincoef(69, 68) = 0
+
+(n, k) = (69, 69)
+[REAL] > bincoef(69, 69) = 1, bits: 1, NUM bits: 327, DNM bits: 327
+[COMP] > bincoef(69, 69) = 0
+
+(n, k) = (70, 0)
+[REAL] > bincoef(70, 0) = 1, bits: 1, NUM bits: 1, DNM bits: 1
+[COMP] > bincoef(70, 0) = 1
+
+(n, k) = (70, 1)
+[REAL] > bincoef(70, 1) = 70, bits: 7, NUM bits: 7, DNM bits: 1
+[COMP] > bincoef(70, 1) = 70
+
+(n, k) = (70, 2)
+[REAL] > bincoef(70, 2) = 2415, bits: 12, NUM bits: 13, DNM bits: 2
+[COMP] > bincoef(70, 2) = 2415
+
+(n, k) = (70, 3)
+[REAL] > bincoef(70, 3) = 54740, bits: 16, NUM bits: 19, DNM bits: 3
+[COMP] > bincoef(70, 3) = 54740
+
+(n, k) = (70, 4)
+[REAL] > bincoef(70, 4) = 916895, bits: 20, NUM bits: 25, DNM bits: 5
+[COMP] > bincoef(70, 4) = 916895
+
+(n, k) = (70, 5)
+[REAL] > bincoef(70, 5) = 12103014, bits: 24, NUM bits: 31, DNM bits: 7
+[COMP] > bincoef(70, 5) = 12103014
+
+(n, k) = (70, 6)
+[REAL] > bincoef(70, 6) = 131115985, bits: 27, NUM bits: 37, DNM bits: 10
+[COMP] > bincoef(70, 6) = 131115985
+
+(n, k) = (70, 7)
+[REAL] > bincoef(70, 7) = 1198774720, bits: 31, NUM bits: 43, DNM bits: 13
+[COMP] > bincoef(70, 7) = 1198774720
+
+(n, k) = (70, 8)
+[REAL] > bincoef(70, 8) = 9440350920, bits: 34, NUM bits: 49, DNM bits: 16
+[COMP] > bincoef(70, 8) = 9440350920
+
+(n, k) = (70, 9)
+[REAL] > bincoef(70, 9) = 65033528560, bits: 36, NUM bits: 55, DNM bits: 19
+[COMP] > bincoef(70, 9) = 65033528560
+
+(n, k) = (70, 10)
+[REAL] > bincoef(70, 10) = 396704524216, bits: 39, NUM bits: 61, DNM bits: 22
+[COMP] > bincoef(70, 10) = 396704524216
+
+(n, k) = (70, 11)
+[REAL] > bincoef(70, 11) = 2163842859360, bits: 41, NUM bits: 67, DNM bits: 26
+[COMP] > bincoef(70, 11) = 2163842859360
+
+(n, k) = (70, 12)
+[REAL] > bincoef(70, 12) = 10638894058520, bits: 44, NUM bits: 73, DNM bits: 29
+[COMP] > bincoef(70, 12) = 10638894058520
+
+(n, k) = (70, 13)
+[REAL] > bincoef(70, 13) = 47465835030320, bits: 46, NUM bits: 78, DNM bits: 33
+[COMP] > bincoef(70, 13) = 47465835030320
+
+(n, k) = (70, 14)
+[REAL] > bincoef(70, 14) = 193253756909160, bits: 48, NUM bits: 84, DNM bits: 37
+[COMP] > bincoef(70, 14) = 193253756909160
+
+(n, k) = (70, 15)
+[REAL] > bincoef(70, 15) = 721480692460864, bits: 50, NUM bits: 90, DNM bits: 41
+[COMP] > bincoef(70, 15) = 721480692460864
+
+(n, k) = (70, 16)
+[REAL] > bincoef(70, 16) = 2480089880334220, bits: 52, NUM bits: 96, DNM bits: 45
+[COMP] > bincoef(70, 16) = 2480089880334220
+
+(n, k) = (70, 17)
+[REAL] > bincoef(70, 17) = 7877932561061640, bits: 53, NUM bits: 102, DNM bits: 49
+[COMP] > bincoef(70, 17) = 7877932561061640
+
+(n, k) = (70, 18)
+[REAL] > bincoef(70, 18) = 23196134763125940, bits: 55, NUM bits: 107, DNM bits: 53
+[COMP] > bincoef(70, 18) = 23196134763125940
+
+(n, k) = (70, 19)
+[REAL] > bincoef(70, 19) = 63484158299081520, bits: 56, NUM bits: 113, DNM bits: 57
+[COMP] > bincoef(70, 19) = 63484158299081520
+
+(n, k) = (70, 20)
+[REAL] > bincoef(70, 20) = 161884603662657876, bits: 58, NUM bits: 119, DNM bits: 62
+[COMP] > bincoef(70, 20) = 161884603662657876
+
+(n, k) = (70, 21)
+[REAL] > bincoef(70, 21) = 385439532530137800, bits: 59, NUM bits: 124, DNM bits: 66
+[COMP] > bincoef(70, 21) = 385439532530137800
+
+(n, k) = (70, 22)
+[REAL] > bincoef(70, 22) = 858478958817125100, bits: 60, NUM bits: 130, DNM bits: 70
+[COMP] > bincoef(70, 22) = 19990591830327299
+
+(n, k) = (70, 23)
+[REAL] > bincoef(70, 23) = 1791608261879217600, bits: 61, NUM bits: 136, DNM bits: 75
+[COMP] > bincoef(70, 23) = 41719495993726537
+
+(n, k) = (70, 24)
+[REAL] > bincoef(70, 24) = 3508566179513467800, bits: 62, NUM bits: 141, DNM bits: 80
+[COMP] > bincoef(70, 24) = 81700679654381134
+
+(n, k) = (70, 25)
+[REAL] > bincoef(70, 25) = 6455761770304780752, bits: 63, NUM bits: 147, DNM bits: 84
+[COMP] > bincoef(70, 25) = 150329250564061286
+
+(n, k) = (70, 26)
+[REAL] > bincoef(70, 26) = 11173433833219812840, bits: 64, NUM bits: 152, DNM bits: 89
+[COMP] > bincoef(70, 26) = 260185241360875302
+
+(n, k) = (70, 27)
+[REAL] > bincoef(70, 27) = 18208558839321176480, bits: 64, NUM bits: 158, DNM bits: 94
+[COMP] > bincoef(70, 27) = 424005578514019010
+
+(n, k) = (70, 28)
+[REAL] > bincoef(70, 28) = 27963143931814663880, bits: 65, NUM bits: 163, DNM bits: 98
+[COMP] > bincoef(70, 28) = 651151424146529193
+
+(n, k) = (70, 29)
+[REAL] > bincoef(70, 29) = 40498346384007444240, bits: 66, NUM bits: 168, DNM bits: 103
+[COMP] > bincoef(70, 29) = 306952266911885327
+
+(n, k) = (70, 30)
+[REAL] > bincoef(70, 30) = 55347740058143507128, bits: 66, NUM bits: 174, DNM bits: 108
+[COMP] > bincoef(70, 30) = 419501431446243280
+
+(n, k) = (70, 31)
+[REAL] > bincoef(70, 31) = 71416438784701299520, bits: 66, NUM bits: 179, DNM bits: 113
+[COMP] > bincoef(70, 31) = 541292169608055845
+
+(n, k) = (70, 32)
+[REAL] > bincoef(70, 32) = 87038784768854708790, bits: 67, NUM bits: 184, DNM bits: 118
+[COMP] > bincoef(70, 32) = 83239079406394573
+
+(n, k) = (70, 33)
+[REAL] > bincoef(70, 33) = 100226479430802391940, bits: 67, NUM bits: 190, DNM bits: 123
+[COMP] > bincoef(70, 33) = 95851061134636174
+
+(n, k) = (70, 34)
+[REAL] > bincoef(70, 34) = 109069992321755544170, bits: 67, NUM bits: 195, DNM bits: 128
+[COMP] > bincoef(70, 34) = 104308507705339365
+
+(n, k) = (70, 35)
+[REAL] > bincoef(70, 35) = 112186277816662845432, bits: 67, NUM bits: 200, DNM bits: 133
+[COMP] > bincoef(70, 35) = 107288750782634775
+
+(n, k) = (70, 36)
+[REAL] > bincoef(70, 36) = 109069992321755544170, bits: 67, NUM bits: 205, DNM bits: 139
+[COMP] > bincoef(70, 36) = 104308507705339364
+
+(n, k) = (70, 37)
+[REAL] > bincoef(70, 37) = 100226479430802391940, bits: 67, NUM bits: 210, DNM bits: 144
+[COMP] > bincoef(70, 37) = 95851061134636172
+
+(n, k) = (70, 38)
+[REAL] > bincoef(70, 38) = 87038784768854708790, bits: 67, NUM bits: 215, DNM bits: 149
+[COMP] > bincoef(70, 38) = 83239079406394570
+
+(n, k) = (70, 39)
+[REAL] > bincoef(70, 39) = 71416438784701299520, bits: 66, NUM bits: 220, DNM bits: 154
+[COMP] > bincoef(70, 39) = 68298731820631442
+
+(n, k) = (70, 40)
+[REAL] > bincoef(70, 40) = 55347740058143507128, bits: 66, NUM bits: 225, DNM bits: 160
+[COMP] > bincoef(70, 40) = 52931517160989367
+
+(n, k) = (70, 41)
+[REAL] > bincoef(70, 41) = 40498346384007444240, bits: 66, NUM bits: 230, DNM bits: 165
+[COMP] > bincoef(70, 41) = 38730378410480024
+
+(n, k) = (70, 42)
+[REAL] > bincoef(70, 42) = 27963143931814663880, bits: 65, NUM bits: 235, DNM bits: 170
+[COMP] > bincoef(70, 42) = 26742404140569540
+
+(n, k) = (70, 43)
+[REAL] > bincoef(70, 43) = 18208558839321176480, bits: 64, NUM bits: 240, DNM bits: 176
+[COMP] > bincoef(70, 43) = 17413658510138305
+
+(n, k) = (70, 44)
+[REAL] > bincoef(70, 44) = 11173433833219812840, bits: 64, NUM bits: 245, DNM bits: 181
+[COMP] > bincoef(70, 44) = 10685654085766687
+
+(n, k) = (70, 45)
+[REAL] > bincoef(70, 45) = 6455761770304780752, bits: 63, NUM bits: 249, DNM bits: 187
+[COMP] > bincoef(70, 45) = 6173933471776308
+
+(n, k) = (70, 46)
+[REAL] > bincoef(70, 46) = 3508566179513467800, bits: 62, NUM bits: 254, DNM bits: 192
+[COMP] > bincoef(70, 46) = 3355398625965384
+
+(n, k) = (70, 47)
+[REAL] > bincoef(70, 47) = 1791608261879217600, bits: 61, NUM bits: 259, DNM bits: 198
+[COMP] > bincoef(70, 47) = 1713395043046153
+
+(n, k) = (70, 48)
+[REAL] > bincoef(70, 48) = 858478958817125100, bits: 60, NUM bits: 263, DNM bits: 203
+[COMP] > bincoef(70, 48) = 821001791459614
+
+(n, k) = (70, 49)
+[REAL] > bincoef(70, 49) = 385439532530137800, bits: 59, NUM bits: 267, DNM bits: 209
+[COMP] > bincoef(70, 49) = 368613049226765
+
+(n, k) = (70, 50)
+[REAL] > bincoef(70, 50) = 161884603662657876, bits: 58, NUM bits: 272, DNM bits: 215
+[COMP] > bincoef(70, 50) = 154817480675241
+
+(n, k) = (70, 51)
+[REAL] > bincoef(70, 51) = 63484158299081520, bits: 56, NUM bits: 276, DNM bits: 220
+[COMP] > bincoef(70, 51) = 60712737519702
+
+(n, k) = (70, 52)
+[REAL] > bincoef(70, 52) = 23196134763125940, bits: 55, NUM bits: 280, DNM bits: 226
+[COMP] > bincoef(70, 52) = 22183500247583
+
+(n, k) = (70, 53)
+[REAL] > bincoef(70, 53) = 7877932561061640, bits: 53, NUM bits: 285, DNM bits: 232
+[COMP] > bincoef(70, 53) = 7534018952009
+
+(n, k) = (70, 54)
+[REAL] > bincoef(70, 54) = 2480089880334220, bits: 52, NUM bits: 289, DNM bits: 238
+[COMP] > bincoef(70, 54) = 2371820781188
+
+(n, k) = (70, 55)
+[REAL] > bincoef(70, 55) = 721480692460864, bits: 50, NUM bits: 293, DNM bits: 243
+[COMP] > bincoef(70, 55) = 689984227254
+
+(n, k) = (70, 56)
+[REAL] > bincoef(70, 56) = 193253756909160, bits: 48, NUM bits: 297, DNM bits: 249
+[COMP] > bincoef(70, 56) = 184817203728
+
+(n, k) = (70, 57)
+[REAL] > bincoef(70, 57) = 47465835030320, bits: 46, NUM bits: 300, DNM bits: 255
+[COMP] > bincoef(70, 57) = 45393699161
+
+(n, k) = (70, 58)
+[REAL] > bincoef(70, 58) = 10638894058520, bits: 44, NUM bits: 304, DNM bits: 261
+[COMP] > bincoef(70, 58) = 10174449811
+
+(n, k) = (70, 59)
+[REAL] > bincoef(70, 59) = 2163842859360, bits: 41, NUM bits: 308, DNM bits: 267
+[COMP] > bincoef(70, 59) = 2069379622
+
+(n, k) = (70, 60)
+[REAL] > bincoef(70, 60) = 396704524216, bits: 39, NUM bits: 311, DNM bits: 273
+[COMP] > bincoef(70, 60) = 379386264
+
+(n, k) = (70, 61)
+[REAL] > bincoef(70, 61) = 65033528560, bits: 36, NUM bits: 314, DNM bits: 279
+[COMP] > bincoef(70, 61) = 62194469
+
+(n, k) = (70, 62)
+[REAL] > bincoef(70, 62) = 9440350920, bits: 34, NUM bits: 318, DNM bits: 285
+[COMP] > bincoef(70, 62) = 9028229
+
+(n, k) = (70, 63)
+[REAL] > bincoef(70, 63) = 1198774720, bits: 31, NUM bits: 321, DNM bits: 290
+[COMP] > bincoef(70, 63) = 1146441
+
+(n, k) = (70, 64)
+[REAL] > bincoef(70, 64) = 131115985, bits: 27, NUM bits: 323, DNM bits: 296
+[COMP] > bincoef(70, 64) = 125391
+
+(n, k) = (70, 65)
+[REAL] > bincoef(70, 65) = 12103014, bits: 24, NUM bits: 326, DNM bits: 303
+[COMP] > bincoef(70, 65) = 11574
+
+(n, k) = (70, 66)
+[REAL] > bincoef(70, 66) = 916895, bits: 20, NUM bits: 328, DNM bits: 309
+[COMP] > bincoef(70, 66) = 876
+
+(n, k) = (70, 67)
+[REAL] > bincoef(70, 67) = 54740, bits: 16, NUM bits: 330, DNM bits: 315
+[COMP] > bincoef(70, 67) = 52
+
+(n, k) = (70, 68)
+[REAL] > bincoef(70, 68) = 2415, bits: 12, NUM bits: 332, DNM bits: 321
+[COMP] > bincoef(70, 68) = 2
+
+(n, k) = (70, 69)
+[REAL] > bincoef(70, 69) = 70, bits: 7, NUM bits: 333, DNM bits: 327
+[COMP] > bincoef(70, 69) = 0
+
+(n, k) = (70, 70)
+[REAL] > bincoef(70, 70) = 1, bits: 1, NUM bits: 333, DNM bits: 333
+[COMP] > bincoef(70, 70) = 0
+
