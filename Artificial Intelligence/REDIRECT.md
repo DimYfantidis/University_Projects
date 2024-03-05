@@ -1,0 +1,1 @@
+To access the implementation of the lesson's assignment, click [here](https://github.com/DimYfantidis/AI_Water_Sort)
