@@ -64,5 +64,4 @@ An exhaustive list with every programming-related school assignment.
 # 8th Semester
 * ## Robotic Control (Python)
 * ## Digital Signal Processing (MATLAB)
-* ## Computational Intelligence - Deep Reinforcement Learning
-
+* ## Computational Intelligence - Deep Reinforcement Learning (Python)
