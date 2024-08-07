@@ -47,7 +47,7 @@ An exhaustive list with every programming-related school assignment.
   The lesson's goal is to introduce students to the field of Computer Graphics and its mathematical foundations, such as Analytic Geometry in 3D space and Numerical Methods. Furthermore, the basics of the OpenGL library are also included in the course, so that students can put the course material into practice using low-level programming. The **three coding assignments** were implemented in the C programming language using [freeglut](https://freeglut.sourceforge.net/).
     1. The first assignment involves opening a window and drawing a 2D fractal shape (Sierpinski's Triangle) using simple OpenGL/GLU/GLUT functions.
     2. The second one involves implementing affine transformations on a 3D cube.
-    3. The final assignment demands the implementation of a simple, low-poly 3D environment with dynamic camera movement, camera perspective, lighting, recursive subdivision of spheres and basic shadow mapping (projected shadows).
+    3. The final assignment demands the implementation of a simple, low-poly 3D environment with dynamic camera movement, camera perspective, lighting (Phong model), different types of light sources, recursive subdivision of spheres and basic shadow mapping (projected shadows).
  *  ## Foundations of Cryptography (Python)
 * ## Machine Learning (Python)
 <br/>
