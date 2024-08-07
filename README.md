@@ -54,7 +54,15 @@ An exhaustive list with every programming-related school assignment.
 
 
 # 7th Semester
-* ## Concurrent Programming and Software Safety (C)
+* ## Concurrency and Security in Software (C)
 * ## Microprocessors (x86 Assembly)
 * ## Modeling - Digital Image Synthesis (C)
 * ## Neural Networks - Deep Learning (Python)
+<br/>
+
+
+# 8th Semester
+* ## Robotic Control (Python)
+* ## Digital Signal Processing (MATLAB)
+* ## Computational Intelligence - Deep Reinforcement Learning
+
