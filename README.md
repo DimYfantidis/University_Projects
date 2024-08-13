@@ -63,6 +63,9 @@ An exhaustive list with every programming-related school assignment.
 
 # 7th Semester
 * ## Concurrency and Security in Software (C)
+  The lesson's target is to help students design concurrent algorithms and write concurrent code in different languages, thus extending their programming knowledge and capabilities. Theoretical concepts of Concurrency involve the critical sector's problem, mutual exclusion, semaphores, monitors, time scheduling for multiple processes and distributed systems design. These are all taught by studying concurrent algorithms such as Lamport's bakery algorithm, the Byzantine Generals problem, etc. in a manner that is not language specific (pseudocode). An optional programming assignment was given in which students could choose a problem from the book () and implement its solution in the programming language of their preference.  
+
+  Personally, I chose the problem of the concurrent computation of the binomial coefficient by Zohar Manna and Amir Pnueli. In my implementation I used the **C programming language** and the **pthreads library**.
 * ## Microprocessors (x86 Assembly)
 * ## Modeling - Digital Image Synthesis (C)
 * ## Neural Networks - Deep Learning (Python)
