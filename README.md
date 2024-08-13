@@ -52,7 +52,7 @@ An exhaustive list with every programming-related school assignment.
  The lesson's target is to introduce students to the foundations of cryptography, its heavy mathematical background (Number Theory) and its clever way of thinking for understanding and designing cryptographic systems. **Two assignments** were given that demand the solution of 25 exercises in total. Most of the exercises are related to Number Theory such as proving mathematical formulas, finding prime numbers, finding the corresponding decryption functions, $f^{-1}$, for given encryption functions, $f$, etc. Other exercises demand the implementation of cryptosystems such as OTP and RC4, or testing their robustness (i.e. their snowball effect) such as AES-128 in ECB mode or AES-128 in CBC mode. Certain exercises are fun CTF-like brain teasers.  
 
  **Bonus:** A presentation on the topic of *Obfuscation Methods* can also be found in the ![relevant directory](./Foundations of Cryptography
-/Obfuscation Presentation (Bonus)/)
+/Obfuscation Presentation (Bonus))
 
 * ## Machine Learning (Python)
 <br/>
