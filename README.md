@@ -70,6 +70,8 @@ An exhaustive list with every programming-related school assignment.
   The lesson's goal is to introduce the students to Intel's processor architecture and teach them the basics of the x86 Assembly language. **Three programming assignments** were given in total. The 1st and 2nd ones request the writing of 16/32/64-bit assembly code (OP codes/mnemonics, registers, variables, code/data/stack segments, conditional statements, loops, procedures, interrupts, floating-point arithmetic, SIMD instructions) in the EMU-8086 emulator. Meanwhile, the 3rd one requires the writing of a C/x86 Assembly hybrid program by interfacing C source files and external x86 Assembly implementation files in Visual Studio using MASM.
 
 * ## Modeling - Digital Image Synthesis (C)
+  This is the sequel of the lesson "Computer Graphics". It extends the students' knowledge in computer graphics by teaching advanced topics in 3D modelling such as texture mapping, procedural modeling, bump mapping, blending, parametric curves and surfaces (Interpolating, Bezier, Hermite, B-splines, etc.), particle systems and hierarchical 3D modelling. In the two programming assignments the students are asked to implement the above using C and freeglut, with the prospects of using built-in functions such as evaluators.
+  
 * ## Neural Networks - Deep Learning (Python)
 <br/>
 
