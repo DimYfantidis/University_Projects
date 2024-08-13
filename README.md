@@ -67,6 +67,7 @@ An exhaustive list with every programming-related school assignment.
 
   Personally, I chose the problem of the concurrent computation of the binomial coefficient by Zohar Manna and Amir Pnueli. In my implementation I used the **C programming language** and the **pthreads library**.
 * ## Microprocessors (x86 Assembly)
+  
 * ## Modeling - Digital Image Synthesis (C)
 * ## Neural Networks - Deep Learning (Python)
 <br/>
