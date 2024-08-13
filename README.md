@@ -48,10 +48,10 @@ An exhaustive list with every programming-related school assignment.
     1. The first assignment involves opening a window and drawing a 2D fractal shape (Sierpinski's Triangle) using simple OpenGL/GLU/GLUT functions.
     2. The second one involves implementing GLUT callback functions, GLUT window menus/submenus, display lists and affine transformations on a 3D cube.
     3. The final assignment demands the implementation of a simple, low-poly 3D environment with dynamic camera movement, camera perspective, lighting (Phong model), different types of light sources, recursive subdivision of spheres and basic shadow mapping (projected shadows).
- *  ## Foundations of Cryptography (Python)
- The lesson's target is to introduce students to the foundations of cryptography, its heavy mathematical background (Number Theory) and its clever way of thinking for understanding and designing cryptographic systems. **Two assignments** were given that demand the solution of 25 exercises in total. Most of the exercises are related to Number Theory such as proving mathematical formulas, finding prime numbers, finding the corresponding decryption functions, $f^{-1}$, for given encryption functions, $f$, etc. Other exercises demand the implementation of cryptosystems such as OTP and RC4, or testing their robustness (i.e. their snowball effect) such as AES-128 in ECB mode or AES-128 in CBC mode. Certain exercises are fun CTF-like brain teasers.  
+* ## Foundations of Cryptography (Python)
+  The lesson's target is to introduce students to the foundations of cryptography, its heavy mathematical background (Number Theory) and its clever way of thinking for understanding and designing cryptographic systems. **Two assignments** were given that demand the solution of 25 exercises in total. Most of the exercises are related to Number Theory such as proving mathematical formulas, finding prime numbers, finding the corresponding decryption functions, $f^{-1}$, for given encryption functions, $f$, etc. Other exercises demand the implementation of cryptosystems such as OTP and RC4, or testing their robustness (i.e. their snowball effect) such as AES-128 in ECB mode or AES-128 in CBC mode. Certain exercises are fun CTF-like brain teasers.  
 
- **Bonus:** A presentation on the topic of *Obfuscation Methods* can also be found in the relevant directory.
+  **Bonus:** A presentation on the topic of *Obfuscation Methods* can also be found in the relevant directory.
 
 * ## Machine Learning (Python)
 <br/>
