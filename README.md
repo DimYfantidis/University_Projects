@@ -67,7 +67,7 @@ An exhaustive list with every programming-related school assignment.
 
   Personally, I chose the problem of the concurrent computation of the binomial coefficient by Zohar Manna and Amir Pnueli. In my implementation I used the **C programming language** and the **pthreads library**.
 * ## Microprocessors (x86 Assembly)
-  The lesson's goal is to introduce the students to Intel's processor architecture and teach them the basics of the x86 Assembly language. **Three programming assignments** were given in total. The 1st and 2nd ones request the writing of 16/32/64-bit assembly code (OP codes/mnemonics, registers, variables, code/data/stack segments, conditional statements, loops, procedures) in the EMU-8086 emulator. Meanwhile, the 3rd one requires the writing of a C/x86 Assembly hybrid program by interfacing C source files and external x86 Assembly implementation files in Visual Studio using MASM.
+  The lesson's goal is to introduce the students to Intel's processor architecture and teach them the basics of the x86 Assembly language. **Three programming assignments** were given in total. The 1st and 2nd ones request the writing of 16/32/64-bit assembly code (OP codes/mnemonics, registers, variables, code/data/stack segments, conditional statements, loops, procedures, interrupts, floating-point arithmetic, SIMD instructions) in the EMU-8086 emulator. Meanwhile, the 3rd one requires the writing of a C/x86 Assembly hybrid program by interfacing C source files and external x86 Assembly implementation files in Visual Studio using MASM.
 
 * ## Modeling - Digital Image Synthesis (C)
 * ## Neural Networks - Deep Learning (Python)
