@@ -1,6 +1,5 @@
 # University Projects
-An exhaustive list with every programming-related school assignment.  
-Assignments and their Headers are courtesy of the teaching staff of the School of Informatics, Faculty of Sciences, Aristotle University of Thessaloniki.
+An exhaustive list with every programming-related school assignment. Assignments and their Headers are courtesy of the teaching staff of the School of Informatics, Faculty of Sciences, Aristotle University of Thessaloniki.
 
 # 1st Semester
 * ## Basic Programming Principles (C)
