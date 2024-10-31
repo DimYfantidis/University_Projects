@@ -3,6 +3,7 @@ An exhaustive list with every programming-related school assignment. Assignments
 
 <p align="center">
   <img src="./Robotic Control/1st Examination/3. Robot motion/Expedition_2024-09-0523-11-23.gif" alt="Funny Cat" width="800" height="450">
+  <br>
   <i>A preview of the assessment in the Robotic Control course.</i>
 </p>
 
