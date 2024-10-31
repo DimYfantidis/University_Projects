@@ -1,0 +1,2 @@
+exam2_ydimitri
+-DCATKIN_DEVEL_PREFIX=/home/ydimitri/Desktop/Exams_2/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ydimitri/Desktop/Exams_2/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,5 @@
+proximity_threshold: 0.6
+steer_scaling_const: 10
+linear_speed_const: 0.3
+refresh_rate: 200
+node_name: 'forward_motion_node'

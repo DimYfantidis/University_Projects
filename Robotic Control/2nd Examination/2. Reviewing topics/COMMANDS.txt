@@ -1,0 +1,12 @@
+Commands for information about the topics:
+velocity: $ rostopic info /cmd_vel
+LiDAR:    $ rostopic info /scan
+
+Commands for real-time data sent to the topics:
+velocity: $ rostopic echo /cmd_vel
+LiDAR:    $ rostopic echo /scan
+
+Commands for topics' message descriptions:
+velocity: $ rosmsg info geometry_msgs/Twist
+LiDAR:	  $ rosmsg info sensor_msgs/LaserScan
+(message type obtained by rostopic info /...)

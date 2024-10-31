@@ -1,0 +1,5 @@
+Start recording the "/cmd_vel" and "/scan":
+rosbag record -O exam2.bag /cmd_vel /scan
+
+Playback the recorded ROS bag file:
+rosbag play --clock exam2_bag.bag

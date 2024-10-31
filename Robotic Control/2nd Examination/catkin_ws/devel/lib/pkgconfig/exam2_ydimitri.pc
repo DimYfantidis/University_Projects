@@ -1,0 +1,8 @@
+prefix=/home/ydimitri/Desktop/Exams_2/catkin_ws/devel
+
+Name: exam2_ydimitri
+Description: Description of exam2_ydimitri
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

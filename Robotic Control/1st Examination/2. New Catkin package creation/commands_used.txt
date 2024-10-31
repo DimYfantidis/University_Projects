@@ -1,0 +1,1 @@
+catkin_create_pkg exam2_ydimitri rospy std_msgs geometry_msgs gazebo_msgs sensor_msgs

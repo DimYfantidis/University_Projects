@@ -1,0 +1,5 @@
+<launch>
+    <rosparam file="$(find exam2_ydimitri)/config/actionparams.yaml"/>
+    <node name="gps_action_server" pkg="exam2_ydimitri" type="action_server.py" output="screen"/>
+    <node name="gps_action_client" pkg="exam2_ydimitri" type="action_client.py" output="screen"/>
+</launch>

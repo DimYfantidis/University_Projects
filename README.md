@@ -1,6 +1,8 @@
 # University Projects
 An exhaustive list with every programming-related school assignment. Assignments and their Headers are courtesy of the teaching staff of the School of Informatics, Faculty of Sciences, Aristotle University of Thessaloniki.
 
+<p style="text-align:center;"><img src="./Robotic Control/1st Examination/3. Robot motion/Expedition_2024-09-0523-11-23.gif" alt="Funny Cat" width="300" height="200"></p>
+
 # 1st Semester
 * ## Basic Programming Principles (C)
   The lesson's target is the teaching of the C programming language. The program's purpose is to test the student's knowledge of the language of the C language regarding dynamic memory allocation, keyboard I/O, file I/O, strings of characters and functions. The assignment also tests the student's competence in problem solving. Several metric functions regarding the lucky numbers game of the national lottery were implemented.

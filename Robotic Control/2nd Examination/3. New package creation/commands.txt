@@ -1,0 +1,5 @@
+Creating the Catkin workspace:
+~/catkin_ws$ catkin_make
+
+Creating the "exam2_ydimitri" package:
+~/catkin_ws/src$ catkin_create_pkg exam2_ydimitri rospy std_msgs geometry_msgs gazebo_msgs

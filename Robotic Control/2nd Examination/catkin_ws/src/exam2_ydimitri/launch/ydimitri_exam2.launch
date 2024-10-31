@@ -1,0 +1,4 @@
+<launch>
+    <rosparam file="$(find exam2_ydimitri)/config/program_params.yaml"/>
+    <node name="forward_motion_node" pkg="exam2_ydimitri" type="forward_motion.py" output="screen"/>
+</launch>
