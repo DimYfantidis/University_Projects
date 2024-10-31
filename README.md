@@ -1,7 +1,9 @@
 # University Projects
 An exhaustive list with every programming-related school assignment. Assignments and their Headers are courtesy of the teaching staff of the School of Informatics, Faculty of Sciences, Aristotle University of Thessaloniki.
 
-<p style="text-align:center;"><img src="./Robotic Control/1st Examination/3. Robot motion/Expedition_2024-09-0523-11-23.gif" alt="Funny Cat" width="400" height="225"></p>
+<p align="center">
+  <img src="./Robotic Control/1st Examination/3. Robot motion/Expedition_2024-09-0523-11-23.gif" alt="Funny Cat" width="400" height="225">
+</p>
 
 # 1st Semester
 * ## Basic Programming Principles (C)
