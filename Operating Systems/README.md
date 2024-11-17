@@ -1,0 +1,2 @@
+## Operating Systems (C)
+The course's target is to introduce the students to the foundations of operating systems design (time-scheduling algorithms, disk-scheduling algorithms, memory management, interrupts, semaphores) and Linux bash. The assignment demands the implementation of **4 time-scheduling algorithms**: First Come First Served (FCFS), Shortest Job First (SJF), Shortest Remaining Time First (SRTF) and Round-robin (RR).

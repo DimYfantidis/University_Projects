@@ -1,0 +1,2 @@
+## Digital Communications (Java)
+The course's target is to introduce the stundents to basic principles of Telecommunications. The assignment requests to implement a program that simulates the procedures of sending and receiving messages through a noisy communication channel. Each message sent has a chance to be affected by the noise (bit flips) and when received **error correction** is applied to it through Cyclic Redundancy Check and modulo-2 arithmetic.

@@ -1,0 +1,2 @@
+## Data Structures (C++)
+The course's target is the teaching of basic data structures. Several data structures containing alphanumerics were implemented such as Dynamic Unordered array, Dynamic Ordered array, Binary Search Tree, AVL Tree, Hash Table (Unordered Map). 

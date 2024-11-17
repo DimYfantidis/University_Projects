@@ -40,12 +40,16 @@ An exhaustive list with every programming-related school assignment. Assignments
 # 5th Semester 
 * ## Computer Networks (Java)
   The course's target is to introduce the students to internet protocols (TCP, HTTP etc.) and network programming. The assignment requests the implementation of a program/service that consists of a **Server** side and a **Client** side using sockets or Remote Method Invocation in Java. The two sides of the service can be executed in different computers and interact with each other through access to the internet.
+
 * ## Databases (SQL)
   The course's target is to introduce the students to Relational Algebra and SQL. The assignment requests the design of a database with an ER diagram, based on the **Entity-Relationship Model**. Specific conversions are then applied to the ER diagram to generate the equivalent relational model. Finally, the resulting relational model is written in SQL.
+
 * ## Operating Systems (C)
   The course's target is to introduce the students to the foundations of operating systems design (time-scheduling algorithms, disk-scheduling algorithms, memory management, interrupts, semaphores) and Linux bash. The assignment demands the implementation of **4 time-scheduling algorithms**: First Come First Served (FCFS), Shortest Job First (SJF), Shortest Remaining Time First (SRTF) and Round-robin (RR).
+
 * ## Systems and Signals (MATLAB)
   The course's target is to introduce the students to linear time-invariant and periodic signals, as well as Fourier, Zeta and Laplace transforms; both in their continuous and discrete nature. The assignment requests the implementation of **overlapp-add** and **overlap-save** methods to apply band-pass filtering to digital media.
+  
 <br/>
 
 
@@ -55,6 +59,7 @@ An exhaustive list with every programming-related school assignment. Assignments
     1. The first assignment involves opening a window and drawing a 2D fractal shape (Sierpinski's Triangle) using simple OpenGL/GLU/GLUT functions.
     2. The second one involves implementing GLUT callback functions, GLUT window menus/submenus, display lists and affine transformations on a 3D cube.
     3. The final assignment demands the implementation of a simple, low-poly 3D environment with dynamic camera movement, camera perspective, lighting (Phong model), different types of light sources, recursive subdivision of spheres and basic shadow mapping (projected shadows).
+
 * ## Foundations of Cryptography (Python)
   The course's target is to introduce students to the foundations of cryptography, its heavy mathematical background (Number Theory) and its clever way of thinking for understanding and designing cryptographic systems. **Two assignments** were given that demand the solution of 25 exercises in total. Most of the exercises are related to Number Theory such as proving mathematical formulas, finding prime numbers, finding the corresponding decryption functions, $f^{-1}$, for given encryption functions, $f$, etc. Other exercises demand the implementation of cryptosystems such as OTP and RC4, or testing their robustness (i.e. their snowball effect) such as AES-128 in ECB mode or AES-128 in CBC mode. Certain exercises are fun CTF-like brain teasers.  
 
@@ -73,6 +78,7 @@ An exhaustive list with every programming-related school assignment. Assignments
   The course's target is to help students design concurrent algorithms and write concurrent code in different languages, thus extending their programming knowledge and capabilities. Theoretical concepts of Concurrency involve the critical sector's problem, mutual exclusion, semaphores, monitors, time scheduling for multiple processes and distributed systems design. These are all taught by studying concurrent algorithms such as Lamport's bakery algorithm, the Byzantine Generals problem, etc. in a manner that is not language specific (pseudocode). An optional programming assignment was given in which students could choose a problem from the book ([Principles of Concurrent and Distributed Programming](https://books.google.com/books/about/Principles_of_Concurrent_and_Distributed.html?id=oP-2hpMEdb8C&redir_esc=y) by *M. Ben-Ari*) and implement its solution in the programming language of their preference.  
 
   Personally, I chose the problem of the concurrent computation of the binomial coefficient by Zohar Manna and Amir Pnueli. In my implementation I used the **C programming language** and the **pthreads library**.
+
 * ## Microprocessors (x86 Assembly)
   The course's goal is to introduce the students to Intel's processor architecture and teach them the basics of the x86 Assembly language. **Three programming assignments** were given in total. The 1st and 2nd ones request the writing of 16/32/64-bit assembly code (OP codes/mnemonics, registers, variables, code/data/stack segments, conditional statements, loops, procedures, interrupts, floating-point arithmetic, SIMD instructions) in the EMU-8086 emulator. Meanwhile, the 3rd one requires the writing of a C/x86 Assembly hybrid program by interfacing C source files and external x86 Assembly implementation files in Visual Studio using MASM.
 

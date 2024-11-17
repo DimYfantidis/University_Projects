@@ -1,0 +1,2 @@
+## Basic Programming Principles (C)
+The course's target is the teaching of the C programming language. The program's purpose is to test the student's knowledge of the language of the C language regarding dynamic memory allocation, keyboard I/O, file I/O, strings of characters and functions. The assignment also tests the student's competence in problem solving. Several metric functions regarding the lucky numbers game of the national lottery were implemented.

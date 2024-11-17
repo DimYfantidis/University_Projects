@@ -1,0 +1,2 @@
+## Numerical analysis (C++)
+The course's target is the teaching of solving continuous problems using methods for numeric approximation. **Seven different problems** were requested to be solved. A plethora of numeric methods were implemented: Dichotomy method, Newton-Raphson method, Secant method, $PA = LU$ decomposition, Cholesky decomposition, Gaus-Seidel method, a simplified version of Google's **pagerank** algorithm, Polynomial approximation, Spline interpolation, Least Squares method, Simpson's rule and Trapezoidal rule.

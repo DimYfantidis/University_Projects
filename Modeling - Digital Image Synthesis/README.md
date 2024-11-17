@@ -1,0 +1,2 @@
+## Modeling - Digital Image Synthesis (C)
+This is the sequel of the "Computer Graphics" course. It extends the students' knowledge in computer graphics by teaching advanced topics in 3D modelling such as texture mapping, procedural modeling, bump mapping, blending, parametric curves and surfaces (Interpolating, Bezier, Hermite, B-splines, etc.), particle systems and hierarchical 3D modelling. In the **two programming assignments** the students are asked to implement the above using C and freeglut, with the prospects of using built-in OpenGL functions such as evaluators.
