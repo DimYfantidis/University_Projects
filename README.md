@@ -92,4 +92,6 @@ An exhaustive list with every programming-related school assignment. Assignments
 * ## Robotic Control (Python)
   This course involves a thorough overview of **probabilistic robotics** and its relevant algorithms such as Bayesian, Gaussian and Non-Parametric filters, Robot Motion and Mapping, Sensor Models and Robot Localization. The laboratory sessions and their programming assignments include the teaching of **Robot Operating System (ROS1)** fundementals.
 * ## Digital Signal Processing (MATLAB)
+  The assignment of this course involves performing analysis on digital biomedical signals using FIR and IIR filtering, Independent Component Analysis (ICA) and Feature Extraction in MATLAB.
 * ## Computational Intelligence - Deep Reinforcement Learning (Python)
+  This is the sequel of the "Neural Networks - Deep Learning" course and involves the further exploration of deep learning models, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), as well as Genetic/Evolutional Algorithms and Deep Reinforcement Learning techniques and frameworks. The chosen assignment involves the training of a Unamnned Aerial Vehicle (UAV) in 3D simulation to survey forests and locate wildfires. An initial solution was implemented using **Deep Q-Learning** in Pytorch and Microsoft's **AirSim** simulator in **Unreal Engine 5** environments.
