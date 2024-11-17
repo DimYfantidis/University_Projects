@@ -1,6 +1,7 @@
 ## Algorithms (Java)
 The lesson's target is broaden the students' knowledge on designing and analyzing algorithms. The 1st assignment requests to implement an algorithm of $\mathcal{O}(N logN)$ time complexity for the **skyline problem** of $N$ datapoints. The 2nd assignment requests the implementation of a dynamic-programming algorithm for the solution of **Dynamic Virtual Machine Placement in Cloud Computing**.
 
+<br>
 
 | **Contents**   | **Assignment No.1** | **Assignment No.2** |
 | -------------  | ------------------- | ------------------- |
