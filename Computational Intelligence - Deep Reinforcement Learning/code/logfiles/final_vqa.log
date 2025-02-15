@@ -1,0 +1,417 @@
+[21:02:38] Screenshot received
+[21:02:38] ekana reset
+[21:02:40] Screenshot received
+[21:02:40] ekana reset
+[21:02:40] edw1
+[21:02:42] Screenshot received
+[21:02:42] edw2
+[21:02:43] vqa said : 
+Answer: Answer: ['a blurry image of the sky over some cattle.'] 
+Caption: [Caption: [['a blurry image of the sky over some cattle']] 0.9]
+[21:02:44] llm answer : [21:02:44] "Move closer, "Are there any people or vehicles in the scene?"
+[21:02:44] edw1
+[21:02:46] Screenshot received
+[21:02:46] edw2
+[21:02:46] vqa said : 
+Answer: Answer: ['closer,'] 
+Caption: [Caption: [['a camera - view photograph of a desert area with a mountain distant']] 0.9]
+[21:02:47] llm answer : [21:02:47] "Move closer, "What is the terrain like in this desert area?"
+[21:02:47] teacher send action : 0
+
+[21:03:04] Screenshot received
+[21:03:04] edw1
+[21:03:06] Screenshot received
+[21:03:06] edw2
+[21:03:06] vqa said : 
+Answer: Answer: ['closer,'] 
+Caption: [Caption: [['a large cluster of large red lights in a video game']] 0.9]
+[21:03:07] llm answer : [21:03:07] "Move back, "Are there any objects or structures in the desert area that could be related to the red lights?"
+[21:03:07] teacher send action : 0
+
+[21:03:19] Screenshot received
+[21:03:19] edw1
+[21:03:21] Screenshot received
+[21:03:21] edw2
+[21:03:21] vqa said : 
+Answer: Answer: ['no'] 
+Caption: [Caption: [['a image in forest blazing on fires fireworks fire fire, oil fire fire fire fire']] 0.9]
+[21:03:22] llm answer : [21:03:22] "Move right, "Is there a fire or flames in the desert area?"
+[21:03:22] edw1
+[21:03:24] Screenshot received
+[21:03:24] edw2
+
+[21:03:25] vqa said : Answer: 
+Answer: ['right,'] 
+Caption: [Caption: [['fire in fire explosion bonfire fire red fire fire fire flames the a this fire fire']] 0.9]
+[21:03:26] llm answer : [21:03:26] "Move right, "Is there anyone or anything near the fire that could be in danger?"
+[21:03:26] teacher send action : 2
+
+[21:03:38] Screenshot received
+[21:03:38] edw1
+[21:03:40] Screenshot received
+[21:03:40] edw2
+
+[21:03:40] vqa said : 
+Answer: Answer: ['move right,'] 
+Caption: [Caption: [['a fire is raging with flames on fire']] 0.9]
+[21:03:41] llm answer : [21:03:41] "Move right, "Are there any people or animals near the fire that could be hurt?"
+[21:03:41] edw1
+[21:03:43] Screenshot received
+[21:03:43] edw2
+[21:03:43] vqa said : Answer: Answer: ['right,'] Caption: [Caption: [['a fire is blazing behind a forest - on fire line']] 0.9]
+[21:03:44] llm answer : [21:03:44] "Move right, "Is the fire spreading through the forest or is it contained?"
+[21:03:44] teacher send action : 2
+
+[21:03:56] Screenshot received
+[21:03:56] edw1
+[21:03:58] Screenshot received
+[21:03:58] edw2
+[21:03:58] vqa said : Answer: Answer: ['move right,'] Caption: [Caption: [['a large fireball hits on the ground']] 0.9]
+[21:04:00] llm answer : [21:04:00] "Move left, "Is there anyone or anything nearby that could be affected by the fireball?"
+[21:04:00] edw1
+[21:04:02] Screenshot received
+[21:04:02] edw2
+[21:04:02] vqa said : Answer: Answer: ['move left,'] Caption: [Caption: [['an aerial over some smoke clouds']] 0.9]
+[21:04:03] llm answer : [21:04:03] "Move left, "Is the smoke from the fire or is it from another source?"
+[21:04:03] teacher send action : 3
+
+[21:04:15] Screenshot received
+[21:04:15] edw1
+[21:04:17] Screenshot received
+[21:04:17] edw2
+[21:04:17] vqa said : Answer: Answer: ['move left,'] Caption: [Caption: [['a fire has been set on the prairie to fight a forest fire']] 0.9]
+[21:04:18] llm answer : [21:04:18] "I know enough"
+[21:04:18] edw1
+[21:04:20] Screenshot received
+[21:04:20] edw2
+[21:04:20] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a person is watching an aerial fire in a field']] 0.9]
+[21:04:21] llm answer : [21:04:21] "Move left, "Is the person in danger or is the fire being controlled?"
+[21:04:21] teacher send action : 4
+
+[21:05:03] Screenshot received
+[21:05:05] Screenshot received
+[21:05:05] ekana reset
+[21:05:05] edw1
+[21:05:07] Screenshot received
+[21:05:07] edw2
+[21:05:07] vqa said : Answer: Answer: ['a fire that is very big and exploding.'] Caption: [Caption: [['a fire that is very big and exploding']] 0.9]
+[21:05:08] llm answer : [21:05:08] "Move closer, "Is there anyone near the fire?"
+[21:05:08] edw1
+[21:05:10] Screenshot received
+[21:05:10] edw2
+[21:05:10] vqa said : Answer: Answer: ['closer,'] Caption: [Caption: [['the orange fire is being from the grass on the field']] 0.9]
+[21:05:11] llm answer : [21:05:11] "Move closer, "Is the fire spreading?"
+[21:05:11] teacher send action : 0
+
+[21:05:23] Screenshot received
+[21:05:23] edw1
+[21:05:25] Screenshot received
+[21:05:25] edw2
+[21:05:25] vqa said : Answer: Answer: ['an image of a fire in the middle of the woods.'] Caption: [Caption: [['an image of a fire in the middle of the woods']] 0.9]
+[21:05:26] llm answer : [21:05:26] "Move right, "Are there any people or animals nearby?"
+[21:05:26] teacher send action : 0
+
+[21:05:38] Screenshot received
+[21:05:38] edw1
+[21:05:40] Screenshot received
+[21:05:40] edw2
+[21:05:40] vqa said : Answer: Answer: ['a picture of a fire in the background.'] Caption: [Caption: [['a picture of a fire in the background']] 0.9]
+[21:05:41] llm answer : [21:05:41] "Move back, "Is the fire contained or spreading?"
+[21:05:41] edw1
+[21:05:43] Screenshot received
+[21:05:43] edw2
+[21:05:43] vqa said : Answer: Answer: ['no'] Caption: [Caption: [['the fires can be visible from a video game']] 0.9]
+[21:05:44] llm answer : [21:05:44] "Move left, "Is this a real-world scene or a virtual one?"
+[21:05:44] teacher send action : 1
+
+[21:05:56] Screenshot received
+[21:05:56] edw1
+[21:05:58] Screenshot received
+[21:05:58] edw2
+[21:05:58] vqa said : Answer: Answer: ['move left,'] Caption: [Caption: [['many a a a a a this a fire fire fire fire is flames fire fires']] 0.9]
+[21:05:59] llm answer : [21:05:59] "Move left, "Is the fire spreading to other areas of the woods?"
+[21:05:59] edw1
+[21:06:01] Screenshot received
+[21:06:01] edw2
+[21:06:01] vqa said : Answer: Answer: ['move left,'] Caption: [Caption: [['some smoke and flames on a field in the daytime']] 0.9]
+[21:06:02] llm answer : [21:06:02] "Move back, "Are there any structures or buildings nearby?"
+[21:06:02] teacher send action : 3
+
+[21:06:19] Screenshot received
+[21:06:19] edw1
+[21:06:21] Screenshot received
+[21:06:21] edw2
+[21:06:21] vqa said : Answer: Answer: ['no'] Caption: [Caption: [['a helicopter is spraying smoke out of the air']] 0.9]
+[21:06:22] llm answer : [21:06:22] "Move right, "Is the helicopter trying to put out the fire?"
+[21:06:22] edw1
+[21:06:24] Screenshot received
+[21:06:24] edw2
+[21:06:25] vqa said : Answer: Answer: ['move right,'] Caption: [Caption: [['the fire blazing in an open grass field']] 0.9]
+[21:06:25] llm answer : [21:06:25] "I know enough"
+[21:06:25] teacher send action : 2
+
+[21:06:42] Screenshot received
+[21:06:42] edw1
+[21:06:44] Screenshot received
+[21:06:44] edw2
+[21:06:44] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a fire is pictured through the air with smoke pouring up']] 0.9]
+[21:06:45] llm answer : [21:06:45] I apologize, but I didn't receive any new information. The previous answer was "I know enough".
+[21:06:45] edw1
+[21:06:47] Screenshot received
+[21:06:47] edw2
+[21:06:48] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['there are orange flames flying from the sky and flying away']] 0.9]
+[21:06:49] llm answer : [21:06:49] This is an invalid response. The conversation has already ended with the previous response "I know enough".
+[21:06:49] teacher send action : 4
+
+[21:07:31] Screenshot received
+[21:07:33] Screenshot received
+[21:07:33] ekana reset
+[21:07:33] edw1
+[21:07:35] Screenshot received
+[21:07:35] edw2
+[21:07:35] vqa said : Answer: Answer: ['a huge fire hydrant.'] Caption: [Caption: [['a very dramatic image of a huge fire hydrant']] 0.9]
+[21:07:36] llm answer : [21:07:36] "Move closer, What is the surrounding area of the fire hydrant?"
+[21:07:36] edw1
+[21:07:38] Screenshot received
+[21:07:38] edw2
+[21:07:38] vqa said : Answer: Answer: ['the surrounding area'] Caption: [Caption: [['a fire with large sparks is burning in the air']] 0.9]
+[21:07:39] llm answer : [21:07:39] "Move closer, What is the source of the fire?"
+[21:07:39] teacher send action : 0
+
+[21:07:56] Screenshot received
+[21:07:56] edw1
+[21:07:58] Screenshot received
+[21:07:58] edw2
+[21:07:58] vqa said : Answer: Answer: ['hillside'] Caption: [Caption: [['a huge fire spewing from a hillside surrounded by fire']] 0.9]
+[21:07:59] llm answer : [21:07:59] "Move right, Are there any people or vehicles nearby?"
+[21:07:59] edw1
+[21:08:01] Screenshot received
+[21:08:01] edw2
+[21:08:01] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a sky view of a large red explosion of smoke']] 0.9]
+[21:08:02] llm answer : [21:08:02] "Move right, Is there anyone in the surrounding area?"
+[21:08:02] teacher send action : 2
+
+[21:08:14] Screenshot received
+[21:08:14] edw1
+[21:08:16] Screenshot received
+[21:08:16] edw2
+[21:08:16] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['an arrow of fire is being shooted']] 0.9]
+[21:08:17] llm answer : [21:08:17] "Move left, Are there any people in danger?"
+[21:08:17] edw1
+[21:08:19] Screenshot received
+[21:08:19] edw2
+[21:08:19] vqa said : Answer: Answer: ['no'] Caption: [Caption: [['a bright explosion that is exploding out into the sky']] 0.9]
+[21:08:20] llm answer : [21:08:20] "Move left, Are there any buildings or structures nearby?"
+[21:08:20] teacher send action : 3
+
+[21:08:32] Screenshot received
+[21:08:32] edw1
+[21:08:34] Screenshot received
+[21:08:34] edw2
+[21:08:34] vqa said : Answer: Answer: ['no'] Caption: [Caption: [['a picture of a big fire fire and a forest burns']] 0.9]
+[21:08:35] llm answer : [21:08:35] "Move back, Is the fire spreading to the surrounding forest?"
+[21:08:35] teacher send action : 0
+
+[21:08:52] Screenshot received
+[21:08:52] edw1
+[21:08:54] Screenshot received
+[21:08:54] edw2
+[21:08:54] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a fire burning out and pouring out trees in flames']] 0.9]
+[21:08:54] llm answer : [21:08:54] "I know enough"
+[21:08:54] teacher send action : 0
+
+[21:09:06] Screenshot received
+[21:09:06] edw1
+[21:09:08] Screenshot received
+[21:09:08] edw2
+[21:09:08] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['flames flames are lit up the sky, orange and red']] 0.9]
+[21:09:09] llm answer : [21:09:09] (I already knew enough, so I won't ask any more questions)
+[21:09:09] ERR : no action
+[21:09:09] edw1
+[21:09:11] Screenshot received
+[21:09:11] edw2
+[21:09:11] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['fire in the distance, seen up close to one person']] 0.9]
+[21:09:12] llm answer : [21:09:12] (I already knew enough, so I won't change my previous answer)
+[21:09:12] ERR : no action
+[21:09:12] teacher send action : 4
+
+[21:09:54] Screenshot received
+[21:09:56] Screenshot received
+[21:09:56] ekana reset
+[21:09:56] edw1
+[21:09:58] Screenshot received
+[21:09:58] edw2
+[21:09:59] vqa said : Answer: Answer: ['a smoke fire'] Caption: [Caption: [['a smoke fire is seen with red fire']] 0.9]
+[21:09:59] llm answer : [21:09:59] "Move closer, What is the source of the smoke fire?"
+[21:09:59] teacher send action : 0
+
+[21:10:11] Screenshot received
+[21:10:11] edw1
+[21:10:13] Screenshot received
+[21:10:13] edw2
+[21:10:14] vqa said : Answer: Answer: ['a hot jet'] Caption: [Caption: [['fiery forest fire seen while exploding in view from a hot jet']] 0.9]
+[21:10:15] llm answer : [21:10:15] "Move right, Is there anyone near the hot jet or the forest fire?"
+[21:10:15] teacher send action : 0
+
+[21:10:32] Screenshot received
+[21:10:32] edw1
+[21:10:34] Screenshot received
+[21:10:34] edw2
+[21:10:34] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a raging brushfire is in the field of a firefighter']] 0.9]
+[21:10:35] llm answer : [21:10:35] "Move left, Are there any people in danger or injured near the brushfire?"
+[21:10:35] teacher send action : 0
+
+[21:10:47] Screenshot received
+[21:10:47] edw1
+[21:10:49] Screenshot received
+[21:10:49] edw2
+[21:10:49] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['an out of focus image of a hose exting water onto a fire']] 0.9]
+[21:10:50] llm answer : [21:10:50] "Move closer, Are there any people being rescued or treated near the brushfire?"
+[21:10:50] teacher send action : 0
+
+[21:11:02] Screenshot received
+[21:11:02] edw1
+[21:11:04] Screenshot received
+[21:11:04] edw2
+[21:11:04] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['jet fire has flames from overhangng mountain']] 0.9]
+[21:11:06] llm answer : [21:11:06] "Move back, Is the firefighter trying to put out the brushfire and is the jet fire spreading to the mountain?"
+[21:11:06] teacher send action : 0
+
+[21:11:18] Screenshot received
+[21:11:18] edw1
+[21:11:20] Screenshot received
+[21:11:20] edw2
+[21:11:20] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a plane sits on top of a runway with red smoke coming from the sky']] 0.9]
+[21:11:21] llm answer : [21:11:21] "Move left, Is the plane on the runway in danger due to the nearby brushfire and jet fire?"
+[21:11:21] teacher send action : 0
+
+[21:11:33] Screenshot received
+[21:11:33] edw1
+[21:11:35] Screenshot received
+[21:11:35] edw2
+[21:11:35] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a large blaze that is raging over something']] 0.9]
+[21:11:36] llm answer : [21:11:36] "I know enough"
+[21:11:36] teacher send action : 0
+
+[21:11:53] Screenshot received
+[21:11:53] edw1
+[21:11:55] Screenshot received
+[21:11:55] edw2
+[21:11:55] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['the sky has big flames and sparks in the bonfire next to the trees']] 0.9]
+[21:11:57] llm answer : [21:11:57] (I already used "I know enough" earlier, so I'll try to ask another question)
+
+"Move right, Are there any emergency services or rescue teams responding to the multiple fires and hazards?"
+[21:11:57] teacher send action : 0
+
+[21:12:09] Screenshot received
+[21:12:09] edw1
+[21:12:11] Screenshot received
+[21:12:11] edw2
+[21:12:11] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a fire is being extinguished with a large brush fire']] 0.9]
+[21:12:13] llm answer : [21:12:13] "Move closer, Are the emergency services able to contain the brush fire and put out the jet fire?"
+[21:12:13] teacher send action : 0
+
+[21:12:25] Screenshot received
+[21:12:25] edw1
+[21:12:27] Screenshot received
+[21:12:27] edw2
+[21:12:27] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a a fire wild fire smoke smoke smoke fire a smoke smoke a smoke dense a']] 0.9]
+[21:12:29] llm answer : [21:12:29] (I'll ignore this random caption)
+
+"Move left, Are there any other hazards or dangers present in the scene that the emergency services need to be aware of?"
+[21:12:29] teacher send action : 0
+
+[21:12:41] Screenshot received
+[21:12:41] edw1
+[21:12:43] Screenshot received
+[21:12:43] edw2
+[21:12:43] vqa said : Answer: Answer: ['no'] Caption: [Caption: [['a view with blend in mountain video forest on cliff view video horizon horizon a mountain']] 0.9]
+[21:12:44] llm answer : [21:12:44] (I'll ignore this random caption)
+
+"I know enough"
+[21:12:44] teacher send action : 0
+
+[21:12:56] Screenshot received
+[21:12:56] edw1
+[21:12:58] Screenshot received
+[21:12:58] edw2
+[21:12:58] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a field with a sign that is all in focus on it']] 0.9]
+[21:13:00] llm answer : [21:13:00] (I already used "I know enough" earlier)
+
+(I'll try to ask another question)
+
+"Move right, What is written on the sign in the field?"
+[21:13:00] teacher send action : 0
+
+[21:13:12] Screenshot received
+[21:13:12] edw1
+[21:13:14] Screenshot received
+[21:13:14] edw2
+[21:13:14] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a virtual computer screen with a horse riding']] 0.9]
+[21:13:16] llm answer : [21:13:16] (I'll ignore this random caption)
+
+(I'll try to ask another question)
+
+"Move back, Is the scene still related to the emergency services and the fires, or has it changed to something else?"
+[21:13:16] teacher send action : 0
+
+[21:13:33] Screenshot received
+[21:13:33] edw1
+[21:13:35] Screenshot received
+[21:13:35] edw2
+[21:13:36] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a video game is displayed in a browser - friendly environment']] 0.9]
+[21:13:38] llm answer : [21:13:38] (I'll ignore this random caption)
+
+(I'll try to ask another question)
+
+"Move left, Has the scene shifted to a completely different context, such as a video game or a computer screen?"
+[21:13:38] teacher send action : 0
+
+[21:13:50] Screenshot received
+[21:13:50] edw1
+[21:13:52] Screenshot received
+[21:13:52] edw2
+[21:13:52] vqa said : Answer: Answer: ['computer screen'] Caption: [Caption: [['view of a clear rural landscape with a horse walking in the field']] 0.9]
+[21:13:55] llm answer : [21:13:55] (I'll ignore this random caption)
+
+(I'll try to ask another question)
+
+"Move right, Is the horse in the field a part of the original scene or has it been introduced as a new element?"
+[21:13:55] teacher send action : 0
+
+[21:14:12] Screenshot received
+[21:14:12] edw1
+[21:14:14] Screenshot received
+[21:14:14] edw2
+[21:14:14] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a horse standing next to a picture of the beach']] 0.9]
+[21:14:16] llm answer : [21:14:16] (I'll ignore this random caption)
+
+(I'll try to ask another question)
+
+"Move back, Is the horse still in the original scene, or has it been transported to a different location?"
+[21:14:16] teacher send action : 0
+
+[21:14:33] Screenshot received
+[21:14:33] edw1
+[21:14:35] Screenshot received
+[21:14:35] edw2
+[21:14:35] vqa said : Answer: Answer: ['yes'] Caption: [Caption: [['a render illustration of a desert terrain, with no one on it']] 0.9]
+[21:14:38] llm answer : [21:14:38] (I'll ignore this random caption)
+
+(I'll try to ask another question)
+
+"Move left, Is the horse still present in the scene, or has it been removed?"
+[21:14:38] teacher send action : 0
+
+[21:14:50] Screenshot received
+[21:14:50] edw1
+[21:14:52] Screenshot received
+[21:14:52] edw2
+[21:14:52] vqa said : Answer: Answer: ['removed'] Caption: [Caption: [['a 3d background showing some clouds and sunsets']] 0.9]
+[21:14:54] llm answer : [21:14:54] (I'll ignore this random caption)
+
+(I'll try to ask another question)
+
+"Move right, Is the scene still related to the original context of the fires and emergency services, or has it been completely disconnected?"
+[21:14:54] teacher send action : 0
+

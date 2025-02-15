@@ -1,0 +1,722 @@
+Python version: 3.10.14
+GPU support: True
+Device name: NVIDIA GeForce RTX 4090
+FlashAttention available: True
+torch version: 2.3.0+cu118
+Loading checkpoint shards: 100%|████████████████████| 4/4 [00:01<00:00,  2.48it/s]
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+
+========================================================================================
+"Hello! I'm your aerial surveillance drone AI assistant. I'm here to help you explore and gather information about an unknown scene. My purpose is to assist you in gaining a better understanding of the scene by providing you with captions and answers to your questions. I'll be your eyes in the sky, and I'll help you navigate through the scene to identify any potential safety hazards or anomalies.
+
+To start, I'll need you to provide me with commands and questions about the scene. You can ask me to move closer or farther away, move to the right or left, or save my current position. You can also ask me specific questions about the scene, such as what's happening in the area or what kind of objects are present.
+
+Remember to always keep your questions and commands concise and specific. I'll do my best to provide you with accurate and helpful information. Let's get started! What would you like to do first?"
+==========================================================================================
+> Server: Now listening on 127.0.1.1
+> Connection with ('127.0.0.1', 46502) established
+> [DEBUG @ 16:49:41] - GPU usage: 17213/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 75 characters
+> [DEBUG @ 16:49:41] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:41] - Prompt size: 5335
+> [DEBUG @ 16:49:41] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 0.430 seconds)
+> [DEBUG @ 16:49:42] - GPU usage: 17477/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 73 characters
+> [DEBUG @ 16:49:42] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:42] - Prompt size: 5561
+> [DEBUG @ 16:49:42] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 0.498 seconds)
+> [DEBUG @ 16:49:42] - GPU usage: 17515/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 75 characters
+> [DEBUG @ 16:49:42] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:42] - Prompt size: 5821
+> [DEBUG @ 16:49:42] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 0.518 seconds)
+> [DEBUG @ 16:49:43] - GPU usage: 17583/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 66 characters
+> [DEBUG @ 16:49:43] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:43] - Prompt size: 6053
+> [DEBUG @ 16:49:43] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 0.495 seconds)
+> [DEBUG @ 16:49:44] - GPU usage: 17625/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 69 characters
+> [DEBUG @ 16:49:44] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:44] - Prompt size: 6291
+> [DEBUG @ 16:49:44] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 0.653 seconds)
+> [DEBUG @ 16:49:44] - GPU usage: 17655/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 76 characters
+> [DEBUG @ 16:49:44] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:44] - Prompt size: 6572
+> [DEBUG @ 16:49:44] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 0.600 seconds)
+> [DEBUG @ 16:49:45] - GPU usage: 17707/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 80 characters
+> [DEBUG @ 16:49:45] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:45] - Prompt size: 6831
+> [DEBUG @ 16:49:45] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 0.579 seconds)
+> [DEBUG @ 16:49:45] - GPU usage: 17755/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 89 characters
+> [DEBUG @ 16:49:45] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:45] - Prompt size: 7100
+> [DEBUG @ 16:49:45] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 0.623 seconds)
+> [DEBUG @ 16:49:46] - GPU usage: 17787/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 59 characters
+> [DEBUG @ 16:49:46] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:46] - Prompt size: 7349
+> [DEBUG @ 16:49:46] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 0.639 seconds)
+> [DEBUG @ 16:49:47] - GPU usage: 17833/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 70 characters
+> [DEBUG @ 16:49:47] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:47] - Prompt size: 7603
+> [DEBUG @ 16:49:47] - Pipeline size: 48
+You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 0.691 seconds)
+> [DEBUG @ 16:49:48] - GPU usage: 17879/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 92 characters
+> [DEBUG @ 16:49:48] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:48] - Prompt size: 7908
+> [DEBUG @ 16:49:48] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 0.284 seconds)
+> [DEBUG @ 16:49:48] - GPU usage: 17917/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 90 characters
+> [DEBUG @ 16:49:48] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:48] - Prompt size: 8122
+> [DEBUG @ 16:49:48] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 4.501 seconds)
+> [DEBUG @ 16:49:52] - GPU usage: 17963/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 73 characters
+> [DEBUG @ 16:49:52] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:52] - Prompt size: 9194
+> [DEBUG @ 16:49:52] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.303 seconds)
+> [DEBUG @ 16:49:54] - GPU usage: 18159/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 82 characters
+> [DEBUG @ 16:49:54] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:54] - Prompt size: 9601
+> [DEBUG @ 16:49:54] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.331 seconds)
+> [DEBUG @ 16:49:55] - GPU usage: 18235/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 86 characters
+> [DEBUG @ 16:49:55] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:55] - Prompt size: 10026
+> [DEBUG @ 16:49:55] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.338 seconds)
+> [DEBUG @ 16:49:56] - GPU usage: 18309/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 83 characters
+> [DEBUG @ 16:49:56] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:56] - Prompt size: 10442
+> [DEBUG @ 16:49:56] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.295 seconds)
+> [DEBUG @ 16:49:58] - GPU usage: 18375/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 70 characters
+> [DEBUG @ 16:49:58] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:58] - Prompt size: 10836
+> [DEBUG @ 16:49:58] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.288 seconds)
+> [DEBUG @ 16:49:59] - GPU usage: 18561/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 67 characters
+> [DEBUG @ 16:49:59] - Prompt type: <class 'str'>
+> [DEBUG @ 16:49:59] - Prompt size: 11205
+> [DEBUG @ 16:49:59] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.268 seconds)
+> [DEBUG @ 16:50:00] - GPU usage: 18623/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 88 characters
+> [DEBUG @ 16:50:00] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:00] - Prompt size: 11595
+> [DEBUG @ 16:50:00] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.350 seconds)
+> [DEBUG @ 16:50:02] - GPU usage: 18697/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 75 characters
+> [DEBUG @ 16:50:02] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:02] - Prompt size: 11978
+> [DEBUG @ 16:50:02] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.307 seconds)
+> [DEBUG @ 16:50:03] - GPU usage: 18765/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 63 characters
+> [DEBUG @ 16:50:03] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:03] - Prompt size: 12363
+> [DEBUG @ 16:50:03] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.332 seconds)
+> [DEBUG @ 16:50:05] - GPU usage: 18841/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 78 characters
+> [DEBUG @ 16:50:05] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:05] - Prompt size: 12750
+> [DEBUG @ 16:50:05] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.361 seconds)
+> [DEBUG @ 16:50:06] - GPU usage: 18909/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 69 characters
+> [DEBUG @ 16:50:06] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:06] - Prompt size: 13138
+> [DEBUG @ 16:50:06] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.507 seconds)
+> [DEBUG @ 16:50:07] - GPU usage: 18979/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 71 characters
+> [DEBUG @ 16:50:08] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:08] - Prompt size: 13532
+> [DEBUG @ 16:50:08] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.415 seconds)
+> [DEBUG @ 16:50:09] - GPU usage: 19067/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 69 characters
+> [DEBUG @ 16:50:09] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:09] - Prompt size: 13910
+> [DEBUG @ 16:50:09] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.497 seconds)
+> [DEBUG @ 16:50:10] - GPU usage: 19155/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 65 characters
+> [DEBUG @ 16:50:10] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:10] - Prompt size: 14307
+> [DEBUG @ 16:50:10] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.483 seconds)
+> [DEBUG @ 16:50:12] - GPU usage: 19229/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 92 characters
+> [DEBUG @ 16:50:12] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:12] - Prompt size: 14710
+> [DEBUG @ 16:50:12] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.460 seconds)
+> [DEBUG @ 16:50:14] - GPU usage: 19299/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 71 characters
+> [DEBUG @ 16:50:14] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:14] - Prompt size: 15099
+> [DEBUG @ 16:50:14] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.407 seconds)
+> [DEBUG @ 16:50:15] - GPU usage: 19383/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 83 characters
+> [DEBUG @ 16:50:15] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:15] - Prompt size: 15484
+> [DEBUG @ 16:50:15] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.459 seconds)
+> [DEBUG @ 16:50:16] - GPU usage: 19449/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 78 characters
+> [DEBUG @ 16:50:16] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:16] - Prompt size: 15890
+> [DEBUG @ 16:50:16] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.442 seconds)
+> [DEBUG @ 16:50:18] - GPU usage: 19523/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 84 characters
+> [DEBUG @ 16:50:18] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:18] - Prompt size: 16293
+> [DEBUG @ 16:50:18] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.619 seconds)
+> [DEBUG @ 16:50:20] - GPU usage: 19607/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 76 characters
+> [DEBUG @ 16:50:20] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:20] - Prompt size: 16716
+> [DEBUG @ 16:50:20] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.722 seconds)
+> [DEBUG @ 16:50:21] - GPU usage: 19677/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 67 characters
+> [DEBUG @ 16:50:21] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:21] - Prompt size: 17126
+> [DEBUG @ 16:50:21] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.571 seconds)
+> [DEBUG @ 16:50:23] - GPU usage: 19755/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 89 characters
+> [DEBUG @ 16:50:23] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:23] - Prompt size: 17526
+> [DEBUG @ 16:50:23] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.747 seconds)
+> [DEBUG @ 16:50:25] - GPU usage: 19823/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 65 characters
+> [DEBUG @ 16:50:25] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:25] - Prompt size: 17946
+> [DEBUG @ 16:50:25] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.622 seconds)
+> [DEBUG @ 16:50:26] - GPU usage: 19913/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 63 characters
+> [DEBUG @ 16:50:26] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:26] - Prompt size: 18346
+> [DEBUG @ 16:50:26] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.519 seconds)
+> [DEBUG @ 16:50:28] - GPU usage: 19987/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 67 characters
+> [DEBUG @ 16:50:28] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:28] - Prompt size: 18708
+> [DEBUG @ 16:50:28] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.548 seconds)
+> [DEBUG @ 16:50:30] - GPU usage: 20051/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 62 characters
+> [DEBUG @ 16:50:30] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:30] - Prompt size: 19082
+> [DEBUG @ 16:50:30] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.660 seconds)
+> [DEBUG @ 16:50:31] - GPU usage: 20133/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 75 characters
+> [DEBUG @ 16:50:31] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:31] - Prompt size: 19480
+> [DEBUG @ 16:50:31] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.542 seconds)
+> [DEBUG @ 16:50:33] - GPU usage: 20201/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 82 characters
+> [DEBUG @ 16:50:33] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:33] - Prompt size: 19884
+> [DEBUG @ 16:50:33] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.635 seconds)
+> [DEBUG @ 16:50:35] - GPU usage: 20275/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 90 characters
+> [DEBUG @ 16:50:35] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:35] - Prompt size: 20292
+> [DEBUG @ 16:50:35] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.665 seconds)
+> [DEBUG @ 16:50:36] - GPU usage: 20347/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 87 characters
+> [DEBUG @ 16:50:36] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:36] - Prompt size: 20706
+> [DEBUG @ 16:50:36] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.623 seconds)
+> [DEBUG @ 16:50:38] - GPU usage: 20433/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 105 characters
+> [DEBUG @ 16:50:38] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:38] - Prompt size: 21122
+> [DEBUG @ 16:50:38] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.732 seconds)
+> [DEBUG @ 16:50:40] - GPU usage: 20507/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 75 characters
+> [DEBUG @ 16:50:40] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:40] - Prompt size: 21532
+> [DEBUG @ 16:50:40] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.637 seconds)
+> [DEBUG @ 16:50:41] - GPU usage: 20577/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 87 characters
+> [DEBUG @ 16:50:41] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:41] - Prompt size: 21947
+> [DEBUG @ 16:50:41] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.822 seconds)
+> [DEBUG @ 16:50:43] - GPU usage: 20661/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 84 characters
+> [DEBUG @ 16:50:43] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:43] - Prompt size: 22362
+> [DEBUG @ 16:50:43] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.802 seconds)
+> [DEBUG @ 16:50:45] - GPU usage: 20735/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 70 characters
+> [DEBUG @ 16:50:45] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:45] - Prompt size: 22764
+> [DEBUG @ 16:50:45] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.772 seconds)
+> [DEBUG @ 16:50:47] - GPU usage: 20809/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 70 characters
+> [DEBUG @ 16:50:47] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:47] - Prompt size: 23171
+> [DEBUG @ 16:50:47] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.720 seconds)
+> [DEBUG @ 16:50:49] - GPU usage: 20893/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 75 characters
+> [DEBUG @ 16:50:49] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:49] - Prompt size: 23555
+> [DEBUG @ 16:50:49] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.702 seconds)
+> [DEBUG @ 16:50:50] - GPU usage: 20961/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 82 characters
+> [DEBUG @ 16:50:50] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:50] - Prompt size: 23948
+> [DEBUG @ 16:50:50] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.815 seconds)
+> [DEBUG @ 16:50:52] - GPU usage: 21035/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 67 characters
+> [DEBUG @ 16:50:52] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:52] - Prompt size: 24344
+> [DEBUG @ 16:50:52] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.877 seconds)
+> [DEBUG @ 16:50:54] - GPU usage: 21103/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 62 characters
+> [DEBUG @ 16:50:54] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:54] - Prompt size: 24751
+> [DEBUG @ 16:50:54] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.840 seconds)
+> [DEBUG @ 16:50:56] - GPU usage: 21187/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 64 characters
+> [DEBUG @ 16:50:56] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:56] - Prompt size: 25143
+> [DEBUG @ 16:50:56] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.954 seconds)
+> [DEBUG @ 16:50:58] - GPU usage: 21259/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 75 characters
+> [DEBUG @ 16:50:58] - Prompt type: <class 'str'>
+> [DEBUG @ 16:50:58] - Prompt size: 25554
+> [DEBUG @ 16:50:58] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.968 seconds)
+> [DEBUG @ 16:51:00] - GPU usage: 21335/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 97 characters
+> [DEBUG @ 16:51:00] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:00] - Prompt size: 26007
+> [DEBUG @ 16:51:00] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.942 seconds)
+> [DEBUG @ 16:51:02] - GPU usage: 21423/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 69 characters
+> [DEBUG @ 16:51:02] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:02] - Prompt size: 26411
+> [DEBUG @ 16:51:02] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.979 seconds)
+> [DEBUG @ 16:51:04] - GPU usage: 21493/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 78 characters
+> [DEBUG @ 16:51:04] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:04] - Prompt size: 26834
+> [DEBUG @ 16:51:04] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.935 seconds)
+> [DEBUG @ 16:51:06] - GPU usage: 21567/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 73 characters
+> [DEBUG @ 16:51:06] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:06] - Prompt size: 27239
+> [DEBUG @ 16:51:06] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.107 seconds)
+> [DEBUG @ 16:51:08] - GPU usage: 21639/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 79 characters
+> [DEBUG @ 16:51:08] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:08] - Prompt size: 27661
+> [DEBUG @ 16:51:08] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.085 seconds)
+> [DEBUG @ 16:51:10] - GPU usage: 21743/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 65 characters
+> [DEBUG @ 16:51:10] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:10] - Prompt size: 28077
+> [DEBUG @ 16:51:10] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.083 seconds)
+> [DEBUG @ 16:51:12] - GPU usage: 21823/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 76 characters
+> [DEBUG @ 16:51:12] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:12] - Prompt size: 28489
+> [DEBUG @ 16:51:12] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.065 seconds)
+> [DEBUG @ 16:51:15] - GPU usage: 21895/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 69 characters
+> [DEBUG @ 16:51:15] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:15] - Prompt size: 28889
+> [DEBUG @ 16:51:15] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.026 seconds)
+> [DEBUG @ 16:51:17] - GPU usage: 21981/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 68 characters
+> [DEBUG @ 16:51:17] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:17] - Prompt size: 29289
+> [DEBUG @ 16:51:17] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.105 seconds)
+> [DEBUG @ 16:51:19] - GPU usage: 22055/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 83 characters
+> [DEBUG @ 16:51:19] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:19] - Prompt size: 29717
+> [DEBUG @ 16:51:19] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 1.948 seconds)
+> [DEBUG @ 16:51:21] - GPU usage: 22127/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 74 characters
+> [DEBUG @ 16:51:21] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:21] - Prompt size: 30102
+> [DEBUG @ 16:51:21] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.142 seconds)
+> [DEBUG @ 16:51:23] - GPU usage: 22211/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 68 characters
+> [DEBUG @ 16:51:23] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:23] - Prompt size: 30515
+> [DEBUG @ 16:51:23] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.069 seconds)
+> [DEBUG @ 16:51:25] - GPU usage: 22283/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 69 characters
+> [DEBUG @ 16:51:25] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:25] - Prompt size: 30895
+> [DEBUG @ 16:51:25] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.120 seconds)
+> [DEBUG @ 16:51:27] - GPU usage: 22357/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 61 characters
+> [DEBUG @ 16:51:27] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:27] - Prompt size: 31293
+> [DEBUG @ 16:51:27] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.270 seconds)
+> [DEBUG @ 16:51:30] - GPU usage: 22441/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 68 characters
+> [DEBUG @ 16:51:30] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:30] - Prompt size: 31698
+> [DEBUG @ 16:51:30] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.140 seconds)
+> [DEBUG @ 16:51:32] - GPU usage: 22511/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 73 characters
+> [DEBUG @ 16:51:32] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:32] - Prompt size: 32094
+> [DEBUG @ 16:51:32] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.038 seconds)
+> [DEBUG @ 16:51:34] - GPU usage: 22589/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 75 characters
+> [DEBUG @ 16:51:34] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:34] - Prompt size: 32481
+> [DEBUG @ 16:51:34] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.219 seconds)
+> [DEBUG @ 16:51:36] - GPU usage: 22653/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 92 characters
+> [DEBUG @ 16:51:36] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:36] - Prompt size: 32904
+> [DEBUG @ 16:51:36] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.238 seconds)
+> [DEBUG @ 16:51:38] - GPU usage: 22741/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 71 characters
+> [DEBUG @ 16:51:38] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:38] - Prompt size: 33310
+> [DEBUG @ 16:51:38] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.334 seconds)
+> [DEBUG @ 16:51:41] - GPU usage: 22811/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 65 characters
+> [DEBUG @ 16:51:41] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:41] - Prompt size: 33713
+> [DEBUG @ 16:51:41] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.145 seconds)
+> [DEBUG @ 16:51:43] - GPU usage: 22889/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 75 characters
+> [DEBUG @ 16:51:43] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:43] - Prompt size: 34097
+> [DEBUG @ 16:51:43] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.250 seconds)
+> [DEBUG @ 16:51:45] - GPU usage: 22973/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 73 characters
+> [DEBUG @ 16:51:45] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:45] - Prompt size: 34507
+> [DEBUG @ 16:51:45] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.319 seconds)
+> [DEBUG @ 16:51:48] - GPU usage: 23043/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 67 characters
+> [DEBUG @ 16:51:48] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:48] - Prompt size: 34905
+> [DEBUG @ 16:51:48] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.338 seconds)
+> [DEBUG @ 16:51:50] - GPU usage: 23117/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 58 characters
+> [DEBUG @ 16:51:50] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:50] - Prompt size: 35308
+> [DEBUG @ 16:51:50] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.299 seconds)
+> [DEBUG @ 16:51:52] - GPU usage: 23187/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 79 characters
+> [DEBUG @ 16:51:52] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:52] - Prompt size: 35710
+> [DEBUG @ 16:51:52] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.117 seconds)
+> [DEBUG @ 16:51:55] - GPU usage: 23273/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 69 characters
+> [DEBUG @ 16:51:55] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:55] - Prompt size: 36079
+> [DEBUG @ 16:51:55] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.484 seconds)
+> [DEBUG @ 16:51:57] - GPU usage: 23341/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 60 characters
+> [DEBUG @ 16:51:57] - Prompt type: <class 'str'>
+> [DEBUG @ 16:51:57] - Prompt size: 36476
+> [DEBUG @ 16:51:57] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.494 seconds)
+> [DEBUG @ 16:52:00] - GPU usage: 23417/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 69 characters
+> [DEBUG @ 16:52:00] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:00] - Prompt size: 36882
+> [DEBUG @ 16:52:00] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.338 seconds)
+> [DEBUG @ 16:52:02] - GPU usage: 23519/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 74 characters
+> [DEBUG @ 16:52:02] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:02] - Prompt size: 37284
+> [DEBUG @ 16:52:02] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.165 seconds)
+> [DEBUG @ 16:52:04] - GPU usage: 23589/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 77 characters
+> [DEBUG @ 16:52:04] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:04] - Prompt size: 37661
+> [DEBUG @ 16:52:04] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.389 seconds)
+> [DEBUG @ 16:52:07] - GPU usage: 23661/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 62 characters
+> [DEBUG @ 16:52:07] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:07] - Prompt size: 38060
+> [DEBUG @ 16:52:07] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.578 seconds)
+> [DEBUG @ 16:52:09] - GPU usage: 23745/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 75 characters
+> [DEBUG @ 16:52:09] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:09] - Prompt size: 38472
+> [DEBUG @ 16:52:09] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.442 seconds)
+> [DEBUG @ 16:52:12] - GPU usage: 23817/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 85 characters
+> [DEBUG @ 16:52:12] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:12] - Prompt size: 38880
+> [DEBUG @ 16:52:12] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.558 seconds)
+> [DEBUG @ 16:52:14] - GPU usage: 23893/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 62 characters
+> [DEBUG @ 16:52:14] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:14] - Prompt size: 39278
+> [DEBUG @ 16:52:14] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.444 seconds)
+> [DEBUG @ 16:52:17] - GPU usage: 23967/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 70 characters
+> [DEBUG @ 16:52:17] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:17] - Prompt size: 39659
+> [DEBUG @ 16:52:17] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.485 seconds)
+> [DEBUG @ 16:52:19] - GPU usage: 24049/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 80 characters
+> [DEBUG @ 16:52:19] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:19] - Prompt size: 40071
+> [DEBUG @ 16:52:19] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.449 seconds)
+> [DEBUG @ 16:52:22] - GPU usage: 24125/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 90 characters
+> [DEBUG @ 16:52:22] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:22] - Prompt size: 40479
+> [DEBUG @ 16:52:22] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.615 seconds)
+> [DEBUG @ 16:52:25] - GPU usage: 24193/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 91 characters
+> [DEBUG @ 16:52:25] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:25] - Prompt size: 40916
+> [DEBUG @ 16:52:25] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.337 seconds)
+> [DEBUG @ 16:52:27] - GPU usage: 24283/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 77 characters
+> [DEBUG @ 16:52:27] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:27] - Prompt size: 41293
+> [DEBUG @ 16:52:27] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.628 seconds)
+> [DEBUG @ 16:52:30] - GPU usage: 24345/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 65 characters
+> [DEBUG @ 16:52:30] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:30] - Prompt size: 41703
+> [DEBUG @ 16:52:30] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.544 seconds)
+> [DEBUG @ 16:52:32] - GPU usage: 24423/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 79 characters
+> [DEBUG @ 16:52:32] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:32] - Prompt size: 42093
+> [DEBUG @ 16:52:32] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.457 seconds)
+> [DEBUG @ 16:52:35] - GPU usage: 24493/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 81 characters
+> [DEBUG @ 16:52:35] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:35] - Prompt size: 42485
+> [DEBUG @ 16:52:35] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.620 seconds)
+> [DEBUG @ 16:52:37] - GPU usage: 23633/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 56 characters
+> [DEBUG @ 16:52:37] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:37] - Prompt size: 42873
+> [DEBUG @ 16:52:37] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.789 seconds)
+> [DEBUG @ 16:52:40] - GPU usage: 23699/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 56 characters
+> [DEBUG @ 16:52:40] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:40] - Prompt size: 43266
+> [DEBUG @ 16:52:40] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+This is a friendly reminder - the current text generation call will exceed the model's predefined maximum length (8192). Depending on the model, you may observe exceptions, performance degradation, or nothing at all.
+Prompt processed after 2.809 seconds)
+> [DEBUG @ 16:52:43] - GPU usage: 23759/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 67 characters
+> [DEBUG @ 16:52:43] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:43] - Prompt size: 43670
+> [DEBUG @ 16:52:43] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.862 seconds)
+> [DEBUG @ 16:52:46] - GPU usage: 23841/24564 MiB
+[('127.0.0.1', 46502)] prompted with a message of 71 characters
+> [DEBUG @ 16:52:46] - Prompt type: <class 'str'>
+> [DEBUG @ 16:52:46] - Prompt size: 44078
+> [DEBUG @ 16:52:46] - Pipeline size: 48
+Setting `pad_token_id` to `eos_token_id`:128009 for open-end generation.
+Prompt processed after 2.714 seconds)
+> [DEBUG @ 16:52:49] - GPU usage: 23905/24564 MiB
+[SERVER] Shutting down...

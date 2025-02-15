@@ -1,0 +1,90 @@
+vqa) (base) cidl_llm@roboserver1:/media/data/cidl_llm$ python Agent.py
+/media/data/cidl_llm/miniconda3/envs/vqa/lib/python3.12/site-packages/huggingface_hub/file_download.py:1132: FutureWarning: `resume_download` is deprecated and will be removed in version 1.0.0. Downloads always resume when possible. If you want to force a new download, use `force_download=True`.
+  warnings.warn(
+<class 'EnvWrapper.AirSimEnv'>
+Screenshot received
+ekana reset
+>>>>>> Now entering TRAINING mode <<<<<<
+reset train start
+Screenshot received
+ekana reset
+reset train end
+/media/data/cidl_llm/Agent.py:248: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  state = torch.tensor(state, dtype=torch.float32, device=self.device).unsqueeze(0)
+edw1
+Screenshot received
+edw2
+vqa said : Answer: Answer: ['city fires in the sky'] Caption: [Caption: [['many pictures are a very different view of the city fires in the sky']] 0.9]
+llm answer :  "Move closer, "Are there any people near the city fires in the sky?"
+Agent's action: Move closer
+edw1
+Screenshot received
+edw2
+vqa said : Answer: Answer: ['3d'] Caption: [Caption: [['some mountains with clouds low 3d 3d hill hillside high some some cliff the a a']] 0.9]
+llm answer :  "Move closer, "Are there any signs of fire or smoke in the scene?"
+teacher send action : 0
+
+No new state, server sleeping...
+No new state, server sleeping...
+Screenshot received
+/media/data/cidl_llm/Agent.py:256: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  next_state = None if terminated else torch.tensor(screenshot, dtype=torch.float32, device=self.device).unsqueeze(0)
+edw1
+Screenshot received
+edw2
+vqa said : Answer: Answer: ['closer,'] Caption: [Caption: [['a view of the ocean and clouds in a mountain']] 0.9]
+llm answer :  "Move back, "Are there any people or vehicles in the scene?"
+Agent's action: Move back
+edw1
+Screenshot received
+edw2
+vqa said : Answer: Answer: ['no'] Caption: [Caption: [['a sunset in front of the sun, with some clouds on a blue background']] 0.9]
+llm answer :  "Move right, "Are there any people or vehicles in the scene?"
+teacher send action : 1
+
+No new state, server sleeping...
+Screenshot received
+edw1
+Screenshot received
+edw2
+vqa said : Answer: Answer: ['right,'] Caption: [Caption: [['a fire burning in and out of water']] 0.9]
+llm answer :  "Move left, "Is the fire burning in the water or on land?"
+Agent's action: Move left
+edw1
+Screenshot received
+edw2
+vqa said : Answer: Answer: ['move left,'] Caption: [Caption: [['a picture of a war of planes flying in formation']] 0.9]
+llm answer :  "Move back, "Is there a fire or flames in the scene?"
+teacher send action : 3
+
+No new state, server sleeping...
+No new state, server sleeping...
+Screenshot received
+edw1
+Screenshot received
+edw2
+vqa said : Answer: Answer: ['3d'] Caption: [Caption: [['3d a a a a hill a a and a landscape a valley landscape hill mountain']] 0.9]
+llm answer :  "Move back, "Is there a fire or flames in the scene?"
+Agent's action: Move back
+edw1
+Screenshot received
+edw2
+vqa said : Answer: Answer: ['no'] Caption: [Caption: [['a photo with a sunset and various trees on a field']] 0.9]
+llm answer :  "Move closer, "Are there any signs of danger or hazard in the scene?"
+teacher send action : 1
+
+No new state, server sleeping...
+No new state, server sleeping...
+Screenshot received
+edw1
+Screenshot received
+edw2
+vqa said : Answer: Answer: ['half and half the tiny tiny.'] Caption: [Caption: [['panorama a desert half aerial 3d self half and half half a half the tiny tiny']] 0.9]
+llm answer :  "Move right, "Are there any signs of fire or flames in the scene?"
+Agent's action: Move right
+edw1
+Screenshot received
+edw2
+vqa said : Answer: Answer: ['right,'] Caption: [Caption: [['a half - cut shot of a cliff looking over a landscape scene']] 0.9]
+llm answer :  "Move left, "Is there a cliff or a steep drop-off in the scene?"
+teacher send action : 2

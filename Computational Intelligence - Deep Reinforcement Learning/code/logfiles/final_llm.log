@@ -1,0 +1,561 @@
+[21:02:08] > Server: Now listening on 127.0.1.1
+[21:02:26] Connection with ('127.0.0.1', 45844) established
+[21:02:26] GPU usage
+[21:02:26] 	> cuda:0 usage: 4797/24564 MiB
+[21:02:26] 	> cuda:1 usage: 6972/24564 MiB
+[21:02:43] Context Window: Discarding interaction
+[21:02:43] [('127.0.0.1', 45844)] prompted with a message of 137 characters
+[21:02:43] Prompt type: <class 'str'>
+[21:02:43] > Prompt size: 3005
+[21:02:43] > Pipeline size: 48
+[21:02:44] Prompt processed after 0.901 seconds)
+[21:02:44] GPU usage
+[21:02:44] 	> cuda:0 usage: 11908/24564 MiB
+[21:02:44] 	> cuda:1 usage: 7000/24564 MiB
+[21:02:46] Context Window: Saving interaction
+[21:02:46] [('127.0.0.1', 45844)] prompted with a message of 126 characters
+[21:02:46] Prompt type: <class 'str'>
+[21:02:46] > Prompt size: 3183
+[21:02:46] > Pipeline size: 48
+[21:02:47] Prompt processed after 0.887 seconds)
+[21:02:47] GPU usage
+[21:02:47] 	> cuda:0 usage: 12060/24564 MiB
+[21:02:47] 	> cuda:1 usage: 7030/24564 MiB
+[21:03:06] Context Window: Saving interaction
+[21:03:06] [('127.0.0.1', 45844)] prompted with a message of 110 characters
+[21:03:06] Prompt type: <class 'str'>
+[21:03:06] > Prompt size: 3463
+[21:03:06] > Pipeline size: 48
+[21:03:07] Prompt processed after 1.456 seconds)
+[21:03:07] GPU usage
+[21:03:07] 	> cuda:0 usage: 12098/24564 MiB
+[21:03:07] 	> cuda:1 usage: 7102/24564 MiB
+[21:03:21] Context Window: Discarding interaction
+[21:03:21] [('127.0.0.1', 45844)] prompted with a message of 133 characters
+[21:03:21] Prompt type: <class 'str'>
+[21:03:21] > Prompt size: 3814
+[21:03:21] > Pipeline size: 48
+[21:03:22] Prompt processed after 0.989 seconds)
+[21:03:22] GPU usage
+[21:03:22] 	> cuda:0 usage: 12210/24564 MiB
+[21:03:22] 	> cuda:1 usage: 7180/24564 MiB
+[21:03:25] Context Window: Saving interaction
+[21:03:25] [('127.0.0.1', 45844)] prompted with a message of 140 characters
+[21:03:25] Prompt type: <class 'str'>
+[21:03:25] > Prompt size: 4006
+[21:03:25] > Pipeline size: 48
+[21:03:26] Prompt processed after 1.133 seconds)
+[21:03:26] GPU usage
+[21:03:26] 	> cuda:0 usage: 12226/24564 MiB
+[21:03:26] 	> cuda:1 usage: 7220/24564 MiB
+[21:03:40] Context Window: Discarding interaction
+[21:03:40] [('127.0.0.1', 45844)] prompted with a message of 99 characters
+[21:03:40] Prompt type: <class 'str'>
+[21:03:40] > Prompt size: 4295
+[21:03:40] > Pipeline size: 48
+[21:03:41] Prompt processed after 1.144 seconds)
+[21:03:41] GPU usage
+[21:03:41] 	> cuda:0 usage: 12274/24564 MiB
+[21:03:41] 	> cuda:1 usage: 7268/24564 MiB
+[21:03:43] Context Window: Saving interaction
+[21:03:43] [('127.0.0.1', 45844)] prompted with a message of 106 characters
+[21:03:43] Prompt type: <class 'str'>
+[21:03:43] > Prompt size: 4453
+[21:03:43] > Pipeline size: 48
+[21:03:44] Prompt processed after 1.066 seconds)
+[21:03:44] GPU usage
+[21:03:44] 	> cuda:0 usage: 12318/24564 MiB
+[21:03:44] 	> cuda:1 usage: 7304/24564 MiB
+[21:03:58] Context Window: Discarding interaction
+[21:03:58] [('127.0.0.1', 45844)] prompted with a message of 98 characters
+[21:03:58] Prompt type: <class 'str'>
+[21:03:58] > Prompt size: 4735
+[21:03:58] > Pipeline size: 48
+[21:04:00] Prompt processed after 1.232 seconds)
+[21:04:00] GPU usage
+[21:04:00] 	> cuda:0 usage: 12376/24564 MiB
+[21:04:00] 	> cuda:1 usage: 7386/24564 MiB
+[21:04:02] Context Window: Saving interaction
+[21:04:02] [('127.0.0.1', 45844)] prompted with a message of 94 characters
+[21:04:02] Prompt type: <class 'str'>
+[21:04:02] > Prompt size: 4881
+[21:04:02] > Pipeline size: 48
+[21:04:03] Prompt processed after 1.145 seconds)
+[21:04:03] GPU usage
+[21:04:03] 	> cuda:0 usage: 12364/24564 MiB
+[21:04:03] 	> cuda:1 usage: 7412/24564 MiB
+[21:04:17] Context Window: Discarding interaction
+[21:04:17] [('127.0.0.1', 45844)] prompted with a message of 119 characters
+[21:04:17] Prompt type: <class 'str'>
+[21:04:17] > Prompt size: 5179
+[21:04:17] > Pipeline size: 48
+[21:04:18] Prompt processed after 0.378 seconds)
+[21:04:18] GPU usage
+[21:04:18] 	> cuda:0 usage: 12470/24564 MiB
+[21:04:18] 	> cuda:1 usage: 7450/24564 MiB
+[21:04:20] Context Window: Saving interaction
+[21:04:20] [('127.0.0.1', 45844)] prompted with a message of 101 characters
+[21:04:20] Prompt type: <class 'str'>
+[21:04:20] > Prompt size: 5332
+[21:04:20] > Pipeline size: 48
+[21:04:21] Prompt processed after 1.079 seconds)
+[21:04:21] GPU usage
+[21:04:21] 	> cuda:0 usage: 12532/24564 MiB
+[21:04:21] 	> cuda:1 usage: 7478/24564 MiB
+[21:05:03] Context Window: Saving interaction
+[21:05:03] GPU usage
+[21:05:03] 	> cuda:0 usage: 11720/24564 MiB
+[21:05:03] 	> cuda:1 usage: 6446/24564 MiB
+[21:05:07] Context Window: Discarding interaction
+[21:05:07] [('127.0.0.1', 45844)] prompted with a message of 127 characters
+[21:05:07] Prompt type: <class 'str'>
+[21:05:07] > Prompt size: 2893
+[21:05:07] > Pipeline size: 48
+[21:05:08] Prompt processed after 0.742 seconds)
+[21:05:08] GPU usage
+[21:05:08] 	> cuda:0 usage: 12078/24564 MiB
+[21:05:08] 	> cuda:1 usage: 6990/24564 MiB
+[21:05:10] Context Window: Saving interaction
+[21:05:10] [('127.0.0.1', 45844)] prompted with a message of 111 characters
+[21:05:10] Prompt type: <class 'str'>
+[21:05:10] > Prompt size: 3056
+[21:05:10] > Pipeline size: 48
+[21:05:11] Prompt processed after 0.618 seconds)
+[21:05:11] GPU usage
+[21:05:11] 	> cuda:0 usage: 12154/24564 MiB
+[21:05:11] 	> cuda:1 usage: 7020/24564 MiB
+[21:05:25] Context Window: Saving interaction
+[21:05:25] [('127.0.0.1', 45844)] prompted with a message of 143 characters
+[21:05:25] Prompt type: <class 'str'>
+[21:05:25] > Prompt size: 3346
+[21:05:25] > Pipeline size: 48
+[21:05:26] Prompt processed after 0.803 seconds)
+[21:05:26] GPU usage
+[21:05:26] 	> cuda:0 usage: 12224/24564 MiB
+[21:05:26] 	> cuda:1 usage: 7094/24564 MiB
+[21:05:40] Context Window: Discarding interaction
+[21:05:40] [('127.0.0.1', 45844)] prompted with a message of 127 characters
+[21:05:40] Prompt type: <class 'str'>
+[21:05:40] > Prompt size: 3636
+[21:05:40] > Pipeline size: 48
+[21:05:41] Prompt processed after 0.775 seconds)
+[21:05:41] GPU usage
+[21:05:41] 	> cuda:0 usage: 12308/24564 MiB
+[21:05:41] 	> cuda:1 usage: 7148/24564 MiB
+[21:05:43] Context Window: Saving interaction
+[21:05:43] [('127.0.0.1', 45844)] prompted with a message of 96 characters
+[21:05:43] Prompt type: <class 'str'>
+[21:05:43] > Prompt size: 3784
+[21:05:43] > Pipeline size: 48
+[21:05:44] Prompt processed after 0.970 seconds)
+[21:05:44] GPU usage
+[21:05:44] 	> cuda:0 usage: 12362/24564 MiB
+[21:05:44] 	> cuda:1 usage: 7188/24564 MiB
+[21:05:58] Context Window: Discarding interaction
+[21:05:58] [('127.0.0.1', 45844)] prompted with a message of 124 characters
+[21:05:58] Prompt type: <class 'str'>
+[21:05:58] > Prompt size: 4075
+[21:05:58] > Pipeline size: 48
+[21:05:59] Prompt processed after 0.999 seconds)
+[21:05:59] GPU usage
+[21:05:59] 	> cuda:0 usage: 12418/24564 MiB
+[21:05:59] 	> cuda:1 usage: 7242/24564 MiB
+[21:06:01] Context Window: Saving interaction
+[21:06:01] [('127.0.0.1', 45844)] prompted with a message of 109 characters
+[21:06:01] Prompt type: <class 'str'>
+[21:06:01] > Prompt size: 4236
+[21:06:01] > Pipeline size: 48
+[21:06:02] Prompt processed after 0.847 seconds)
+[21:06:02] GPU usage
+[21:06:02] 	> cuda:0 usage: 12440/24564 MiB
+[21:06:02] 	> cuda:1 usage: 7272/24564 MiB
+[21:06:21] Context Window: Discarding interaction
+[21:06:21] [('127.0.0.1', 45844)] prompted with a message of 99 characters
+[21:06:21] Prompt type: <class 'str'>
+[21:06:21] > Prompt size: 4503
+[21:06:21] > Pipeline size: 48
+[21:06:22] Prompt processed after 1.034 seconds)
+[21:06:22] GPU usage
+[21:06:22] 	> cuda:0 usage: 12438/24564 MiB
+[21:06:22] 	> cuda:1 usage: 7324/24564 MiB
+[21:06:25] Context Window: Saving interaction
+[21:06:25] [('127.0.0.1', 45844)] prompted with a message of 102 characters
+[21:06:25] Prompt type: <class 'str'>
+[21:06:25] > Prompt size: 4657
+[21:06:25] > Pipeline size: 48
+[21:06:25] Prompt processed after 0.362 seconds)
+[21:06:25] GPU usage
+[21:06:25] 	> cuda:0 usage: 12508/24564 MiB
+[21:06:25] 	> cuda:1 usage: 7386/24564 MiB
+[21:06:44] Context Window: Discarding interaction
+[21:06:44] [('127.0.0.1', 45844)] prompted with a message of 111 characters
+[21:06:44] Prompt type: <class 'str'>
+[21:06:44] > Prompt size: 4892
+[21:06:44] > Pipeline size: 48
+[21:06:45] Prompt processed after 1.279 seconds)
+[21:06:45] GPU usage
+[21:06:45] 	> cuda:0 usage: 12528/24564 MiB
+[21:06:45] 	> cuda:1 usage: 7422/24564 MiB
+[21:06:48] Context Window: Saving interaction
+[21:06:48] [('127.0.0.1', 45844)] prompted with a message of 114 characters
+[21:06:48] Prompt type: <class 'str'>
+[21:06:48] > Prompt size: 5058
+[21:06:48] > Pipeline size: 48
+[21:06:49] Prompt processed after 1.207 seconds)
+[21:06:49] GPU usage
+[21:06:49] 	> cuda:0 usage: 12622/24564 MiB
+[21:06:49] 	> cuda:1 usage: 7436/24564 MiB
+[21:07:31] Context Window: Saving interaction
+[21:07:31] GPU usage
+[21:07:31] 	> cuda:0 usage: 11836/24564 MiB
+[21:07:31] 	> cuda:1 usage: 6446/24564 MiB
+[21:07:35] Context Window: Discarding interaction
+[21:07:35] [('127.0.0.1', 45844)] prompted with a message of 116 characters
+[21:07:35] Prompt type: <class 'str'>
+[21:07:35] > Prompt size: 2882
+[21:07:35] > Pipeline size: 48
+[21:07:36] Prompt processed after 0.924 seconds)
+[21:07:36] GPU usage
+[21:07:36] 	> cuda:0 usage: 12256/24564 MiB
+[21:07:36] 	> cuda:1 usage: 6986/24564 MiB
+[21:07:38] Context Window: Saving interaction
+[21:07:38] [('127.0.0.1', 45844)] prompted with a message of 118 characters
+[21:07:38] Prompt type: <class 'str'>
+[21:07:38] > Prompt size: 3052
+[21:07:38] > Pipeline size: 48
+[21:07:39] Prompt processed after 0.742 seconds)
+[21:07:39] GPU usage
+[21:07:39] 	> cuda:0 usage: 12326/24564 MiB
+[21:07:39] 	> cuda:1 usage: 7016/24564 MiB
+[21:07:58] Context Window: Discarding interaction
+[21:07:58] [('127.0.0.1', 45844)] prompted with a message of 114 characters
+[21:07:58] Prompt type: <class 'str'>
+[21:07:58] > Prompt size: 3321
+[21:07:58] > Pipeline size: 48
+[21:07:59] Prompt processed after 0.757 seconds)
+[21:07:59] GPU usage
+[21:07:59] 	> cuda:0 usage: 12346/24564 MiB
+[21:07:59] 	> cuda:1 usage: 7062/24564 MiB
+[21:08:01] Context Window: Saving interaction
+[21:08:01] [('127.0.0.1', 45844)] prompted with a message of 99 characters
+[21:08:01] Prompt type: <class 'str'>
+[21:08:01] > Prompt size: 3472
+[21:08:01] > Pipeline size: 48
+[21:08:02] Prompt processed after 0.749 seconds)
+[21:08:02] GPU usage
+[21:08:02] 	> cuda:0 usage: 12448/24564 MiB
+[21:08:02] 	> cuda:1 usage: 7092/24564 MiB
+[21:08:16] Context Window: Discarding interaction
+[21:08:16] [('127.0.0.1', 45844)] prompted with a message of 88 characters
+[21:08:16] Prompt type: <class 'str'>
+[21:08:16] > Prompt size: 3723
+[21:08:16] > Pipeline size: 48
+[21:08:17] Prompt processed after 0.707 seconds)
+[21:08:17] GPU usage
+[21:08:17] 	> cuda:0 usage: 12378/24564 MiB
+[21:08:17] 	> cuda:1 usage: 7160/24564 MiB
+[21:08:19] Context Window: Saving interaction
+[21:08:19] [('127.0.0.1', 45844)] prompted with a message of 107 characters
+[21:08:19] Prompt type: <class 'str'>
+[21:08:19] > Prompt size: 3882
+[21:08:19] > Pipeline size: 48
+[21:08:20] Prompt processed after 0.783 seconds)
+[21:08:20] GPU usage
+[21:08:20] 	> cuda:0 usage: 12388/24564 MiB
+[21:08:20] 	> cuda:1 usage: 7200/24564 MiB
+[21:08:34] Context Window: Saving interaction
+[21:08:34] [('127.0.0.1', 45844)] prompted with a message of 101 characters
+[21:08:34] Prompt type: <class 'str'>
+[21:08:34] > Prompt size: 4150
+[21:08:34] > Pipeline size: 48
+[21:08:35] Prompt processed after 0.861 seconds)
+[21:08:35] GPU usage
+[21:08:35] 	> cuda:0 usage: 12450/24564 MiB
+[21:08:35] 	> cuda:1 usage: 7250/24564 MiB
+[21:08:54] Context Window: Saving interaction
+[21:08:54] [('127.0.0.1', 45844)] prompted with a message of 105 characters
+[21:08:54] Prompt type: <class 'str'>
+[21:08:54] > Prompt size: 4425
+[21:08:54] > Pipeline size: 48
+[21:08:54] Prompt processed after 0.391 seconds)
+[21:08:54] GPU usage
+[21:08:54] 	> cuda:0 usage: 12532/24564 MiB
+[21:08:54] 	> cuda:1 usage: 7298/24564 MiB
+[21:09:08] Context Window: Discarding interaction
+[21:09:08] [('127.0.0.1', 45844)] prompted with a message of 103 characters
+[21:09:08] Prompt type: <class 'str'>
+[21:09:08] > Prompt size: 4652
+[21:09:08] > Pipeline size: 48
+[21:09:09] Prompt processed after 0.863 seconds)
+[21:09:09] GPU usage
+[21:09:09] 	> cuda:0 usage: 12594/24564 MiB
+[21:09:09] 	> cuda:1 usage: 7360/24564 MiB
+[21:09:11] Context Window: Saving interaction
+[21:09:11] [('127.0.0.1', 45844)] prompted with a message of 104 characters
+[21:09:11] Prompt type: <class 'str'>
+[21:09:11] > Prompt size: 4808
+[21:09:11] > Pipeline size: 48
+[21:09:12] Prompt processed after 0.879 seconds)
+[21:09:12] GPU usage
+[21:09:12] 	> cuda:0 usage: 12558/24564 MiB
+[21:09:12] 	> cuda:1 usage: 7398/24564 MiB
+[21:09:54] Context Window: Saving interaction
+[21:09:54] GPU usage
+[21:09:54] 	> cuda:0 usage: 11858/24564 MiB
+[21:09:54] 	> cuda:1 usage: 6446/24564 MiB
+[21:09:54] Context Window: Saving interaction
+[21:09:54] GPU usage
+[21:09:54] 	> cuda:0 usage: 11858/24564 MiB
+[21:09:54] 	> cuda:1 usage: 6446/24564 MiB
+[21:09:59] Context Window: Saving interaction
+[21:09:59] [('127.0.0.1', 45844)] prompted with a message of 98 characters
+[21:09:59] Prompt type: <class 'str'>
+[21:09:59] > Prompt size: 2864
+[21:09:59] > Pipeline size: 48
+[21:09:59] Prompt processed after 0.816 seconds)
+[21:09:59] GPU usage
+[21:09:59] 	> cuda:0 usage: 12282/24564 MiB
+[21:09:59] 	> cuda:1 usage: 6976/24564 MiB
+[21:10:14] Context Window: Saving interaction
+[21:10:14] [('127.0.0.1', 45844)] prompted with a message of 122 characters
+[21:10:14] Prompt type: <class 'str'>
+[21:10:14] > Prompt size: 3147
+[21:10:14] > Pipeline size: 48
+[21:10:15] Prompt processed after 0.966 seconds)
+[21:10:15] GPU usage
+[21:10:15] 	> cuda:0 usage: 12300/24564 MiB
+[21:10:15] 	> cuda:1 usage: 7028/24564 MiB
+[21:10:34] Context Window: Saving interaction
+[21:10:34] [('127.0.0.1', 45844)] prompted with a message of 106 characters
+[21:10:34] Prompt type: <class 'str'>
+[21:10:34] > Prompt size: 3428
+[21:10:34] > Pipeline size: 48
+[21:10:35] Prompt processed after 1.062 seconds)
+[21:10:35] GPU usage
+[21:10:35] 	> cuda:0 usage: 12356/24564 MiB
+[21:10:35] 	> cuda:1 usage: 7102/24564 MiB
+[21:10:49] Context Window: Saving interaction
+[21:10:49] [('127.0.0.1', 45844)] prompted with a message of 111 characters
+[21:10:49] Prompt type: <class 'str'>
+[21:10:49] > Prompt size: 3722
+[21:10:49] > Pipeline size: 48
+[21:10:50] Prompt processed after 1.035 seconds)
+[21:10:50] GPU usage
+[21:10:50] 	> cuda:0 usage: 12376/24564 MiB
+[21:10:50] 	> cuda:1 usage: 7154/24564 MiB
+[21:11:04] Context Window: Saving interaction
+[21:11:04] [('127.0.0.1', 45844)] prompted with a message of 99 characters
+[21:11:04] Prompt type: <class 'str'>
+[21:11:04] > Prompt size: 4010
+[21:11:04] > Pipeline size: 48
+[21:11:06] Prompt processed after 1.448 seconds)
+[21:11:06] GPU usage
+[21:11:06] 	> cuda:0 usage: 12410/24564 MiB
+[21:11:06] 	> cuda:1 usage: 7222/24564 MiB
+[21:11:20] Context Window: Saving interaction
+[21:11:20] [('127.0.0.1', 45844)] prompted with a message of 121 characters
+[21:11:20] Prompt type: <class 'str'>
+[21:11:20] > Prompt size: 4350
+[21:11:20] > Pipeline size: 48
+[21:11:21] Prompt processed after 1.337 seconds)
+[21:11:21] GPU usage
+[21:11:21] 	> cuda:0 usage: 12498/24564 MiB
+[21:11:21] 	> cuda:1 usage: 7284/24564 MiB
+[21:11:35] Context Window: Saving interaction
+[21:11:35] [('127.0.0.1', 45844)] prompted with a message of 98 characters
+[21:11:35] Prompt type: <class 'str'>
+[21:11:35] > Prompt size: 4648
+[21:11:35] > Pipeline size: 48
+[21:11:36] Prompt processed after 0.359 seconds)
+[21:11:36] GPU usage
+[21:11:36] 	> cuda:0 usage: 12576/24564 MiB
+[21:11:36] 	> cuda:1 usage: 7356/24564 MiB
+[21:11:55] Context Window: Saving interaction
+[21:11:55] [('127.0.0.1', 45844)] prompted with a message of 121 characters
+[21:11:55] Prompt type: <class 'str'>
+[21:11:55] > Prompt size: 4893
+[21:11:55] > Pipeline size: 48
+[21:11:57] Prompt processed after 2.221 seconds)
+[21:11:57] GPU usage
+[21:11:57] 	> cuda:0 usage: 12646/24564 MiB
+[21:11:57] 	> cuda:1 usage: 7404/24564 MiB
+[21:12:11] Context Window: Saving interaction
+[21:12:11] [('127.0.0.1', 45844)] prompted with a message of 107 characters
+[21:12:11] Prompt type: <class 'str'>
+[21:12:11] > Prompt size: 5296
+[21:12:11] > Pipeline size: 48
+[21:12:13] Prompt processed after 1.316 seconds)
+[21:12:13] GPU usage
+[21:12:13] 	> cuda:0 usage: 12676/24564 MiB
+[21:12:13] 	> cuda:1 usage: 7458/24564 MiB
+[21:12:27] Context Window: Saving interaction
+[21:12:27] [('127.0.0.1', 45844)] prompted with a message of 126 characters
+[21:12:27] Prompt type: <class 'str'>
+[21:12:27] > Prompt size: 5629
+[21:12:27] > Pipeline size: 48
+[21:12:29] Prompt processed after 1.895 seconds)
+[21:12:29] GPU usage
+[21:12:29] 	> cuda:0 usage: 12780/24564 MiB
+[21:12:29] 	> cuda:1 usage: 7576/24564 MiB
+[21:12:43] Context Window: Saving interaction
+[21:12:43] [('127.0.0.1', 45844)] prompted with a message of 143 characters
+[21:12:43] Prompt type: <class 'str'>
+[21:12:43] > Prompt size: 6037
+[21:12:43] > Pipeline size: 48
+[21:12:44] Prompt processed after 0.779 seconds)
+[21:12:44] GPU usage
+[21:12:44] 	> cuda:0 usage: 12858/24564 MiB
+[21:12:44] 	> cuda:1 usage: 7656/24564 MiB
+[21:12:58] Context Window: Saving interaction
+[21:12:58] [('127.0.0.1', 45844)] prompted with a message of 101 characters
+[21:12:58] Prompt type: <class 'str'>
+[21:12:58] > Prompt size: 6297
+[21:12:58] > Pipeline size: 48
+[21:13:00] Prompt processed after 1.889 seconds)
+[21:13:00] GPU usage
+[21:13:00] 	> cuda:0 usage: 12836/24564 MiB
+[21:13:00] 	> cuda:1 usage: 7708/24564 MiB
+[21:13:14] Context Window: Saving interaction
+[21:13:14] [('127.0.0.1', 45844)] prompted with a message of 100 characters
+[21:13:14] Prompt type: <class 'str'>
+[21:13:14] > Prompt size: 6639
+[21:13:14] > Pipeline size: 48
+[21:13:16] Prompt processed after 2.338 seconds)
+[21:13:16] GPU usage
+[21:13:16] 	> cuda:0 usage: 12898/24564 MiB
+[21:13:16] 	> cuda:1 usage: 7744/24564 MiB
+[21:13:36] Context Window: Saving interaction
+[21:13:36] [('127.0.0.1', 45844)] prompted with a message of 116 characters
+[21:13:36] Prompt type: <class 'str'>
+[21:13:36] > Prompt size: 7052
+[21:13:36] > Pipeline size: 48
+[21:13:38] Prompt processed after 2.360 seconds)
+[21:13:38] GPU usage
+[21:13:38] 	> cuda:0 usage: 12934/24564 MiB
+[21:13:38] 	> cuda:1 usage: 7820/24564 MiB
+[21:13:52] Context Window: Saving interaction
+[21:13:52] [('127.0.0.1', 45844)] prompted with a message of 132 characters
+[21:13:52] Prompt type: <class 'str'>
+[21:13:52] > Prompt size: 7476
+[21:13:52] > Pipeline size: 48
+[21:13:55] Prompt processed after 2.452 seconds)
+[21:13:55] GPU usage
+[21:13:55] 	> cuda:0 usage: 12952/24564 MiB
+[21:13:55] 	> cuda:1 usage: 7936/24564 MiB
+[21:14:14] Context Window: Saving interaction
+[21:14:14] [('127.0.0.1', 45844)] prompted with a message of 102 characters
+[21:14:14] Prompt type: <class 'str'>
+[21:14:14] > Prompt size: 7870
+[21:14:14] > Pipeline size: 48
+[21:14:16] Prompt processed after 2.345 seconds)
+[21:14:16] GPU usage
+[21:14:16] 	> cuda:0 usage: 13034/24564 MiB
+[21:14:16] 	> cuda:1 usage: 7990/24564 MiB
+[21:14:35] Context Window: Saving interaction
+[21:14:35] [('127.0.0.1', 45844)] prompted with a message of 115 characters
+[21:14:35] Prompt type: <class 'str'>
+[21:14:35] > Prompt size: 8271
+[21:14:35] > Pipeline size: 48
+[21:14:38] Prompt processed after 2.156 seconds)
+[21:14:38] GPU usage
+[21:14:38] 	> cuda:0 usage: 13082/24564 MiB
+[21:14:38] 	> cuda:1 usage: 8106/24564 MiB
+[21:14:52] Context Window: Saving interaction
+[21:14:52] [('127.0.0.1', 45844)] prompted with a message of 106 characters
+[21:14:52] Prompt type: <class 'str'>
+[21:14:52] > Prompt size: 8634
+[21:14:52] > Pipeline size: 48
+[21:14:54] Prompt processed after 2.564 seconds)
+[21:14:54] GPU usage
+[21:14:54] 	> cuda:0 usage: 13242/24564 MiB
+[21:14:54] 	> cuda:1 usage: 8132/24564 MiB
+[21:14:56] GPU usage
+[21:14:56] 	> cuda:0 usage: 11918/24564 MiB
+[21:14:56] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:56] GPU usage
+[21:14:56] 	> cuda:0 usage: 11918/24564 MiB
+[21:14:56] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:56] GPU usage
+[21:14:56] 	> cuda:0 usage: 11918/24564 MiB
+[21:14:56] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:56] GPU usage
+[21:14:56] 	> cuda:0 usage: 11918/24564 MiB
+[21:14:56] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:56] GPU usage
+[21:14:56] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:56] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:56] GPU usage
+[21:14:56] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:56] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:56] GPU usage
+[21:14:56] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:56] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:56] GPU usage
+[21:14:56] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:56] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:56] GPU usage
+[21:14:56] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:56] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:56] GPU usage
+[21:14:56] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:56] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:56] GPU usage
+[21:14:56] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:56] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:57] GPU usage
+[21:14:57] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:57] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:58] GPU usage
+[21:14:58] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:58] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:58] GPU usage
+[21:14:58] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:58] 	> cuda:1 usage: 6448/24564 MiB
+[21:14:58] GPU usage
+[21:14:58] 	> cuda:0 usage: 4369/24564 MiB
+[21:14:58] 	> cuda:1 usage: 6448/24564 MiB

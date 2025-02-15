@@ -1,0 +1,30 @@
+[21:02:38] >>>>>> Now entering TRAINING mode <<<<<<
+[21:02:38] reset train start
+[21:02:40] reset train end
+[21:02:44] Agent's action: Move closer
+[21:03:04] Agent's action: Move closer
+[21:03:22] Agent's action: Move right
+[21:03:41] Agent's action: Move right
+[21:04:00] Agent's action: Move left
+[21:04:18] Agent's action: I know enough
+[21:05:03] Chat has been reset at the end of episode #0
+[21:05:03] reset train start
+[21:05:05] reset train end
+[21:05:08] Agent's action: Move closer
+[21:05:23] Agent's action: Move closer
+[21:05:41] Agent's action: Move back
+[21:05:59] Agent's action: Move left
+[21:06:22] Agent's action: Move right
+[21:06:45] Agent's action: I know enough
+[21:07:31] Chat has been reset at the end of episode #1
+[21:07:31] reset train start
+[21:07:33] reset train end
+[21:07:36] Agent's action: Move closer
+[21:07:59] Agent's action: Move right
+[21:08:17] Agent's action: Move left
+[21:08:32] Agent's action: Move closer
+[21:08:52] Agent's action: Move closer
+[21:09:09] Agent's action: I know enough
+[21:09:54] Chat has been reset at the end of episode #2
+[21:09:54] Chat has been reset
+[21:09:54] >>>>>> Now entering EVALUATION mode <<<<<<
